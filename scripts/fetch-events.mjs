@@ -137,12 +137,19 @@ function parseLeoItem(xml) {
 }
 
 async function fetchLeo() {
-  const xml = process.env.LEO_FIXTURE
-    ? await readFile(process.env.LEO_FIXTURE, 'utf8')
-    : await (await fetch(LEO_URL, { headers: { 'User-Agent': USER_AGENT } })).text();
-  const items = [...xml.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/g)].map((m) => parseLeoItem(m[1]));
-  if (process.env.DEBUG && xml) console.log(xml.slice(0, 3000));
-  return items.filter((e) => e.title && e.start);
+  let xml;
+  if (process.env.LEO_FIXTURE) xml = await readFile(process.env.LEO_FIXTURE, 'utf8');
+  else {
+    const res = await fetch(LEO_URL, { headers: { 'User-Agent': USER_AGENT } });
+    xml = await res.text();
+    console.log(`::notice::Ulm-Feed: HTTP ${res.status}, ${res.headers.get('content-type')}, ${xml.length} Zeichen`);
+    // Rohdaten aufheben, damit sich Formatänderungen des Feeds nachvollziehen lassen.
+    await writeFile(new URL('../data/leo-raw.xml', import.meta.url), xml.slice(0, 20000));
+  }
+  const raw = [...xml.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/g)];
+  const items = raw.map((m) => parseLeoItem(m[1])).filter((e) => e.title && e.start);
+  if (raw.length && !items.length) console.log(`::warning::Ulm-Feed: ${raw.length} Einträge, aber keiner lesbar. Erster: ${raw[0][1].slice(0, 1500).replace(/\s+/g, ' ')}`);
+  return items;
 }
 
 async function fetchTicketmaster() {
@@ -213,7 +220,7 @@ const sources = ['Veranstaltungskalender Ulm/Neu-Ulm', 'Ticketmaster'];
 let events = [];
 results.forEach((r, i) => {
   if (r.status === 'fulfilled') { console.log(`${sources[i]}: ${r.value.length} Events`); events.push(...r.value); }
-  else console.warn(`${sources[i]} fehlgeschlagen:`, r.reason?.message);
+  else console.log(`::warning::${sources[i]} fehlgeschlagen: ${r.reason?.message} ${r.reason?.cause?.message || ''}`);
 });
 
 const today = berlinIso(new Date()).slice(0, 10);
@@ -230,8 +237,9 @@ events.sort((a, b) => a.start.localeCompare(b.start));
 for (const e of events) e.id = hash(`${e.source}|${e.title}|${e.start}|${e.venue}`);
 
 if (!events.length && !process.env.LEO_FIXTURE) {
-  console.error('Keine Events gefunden – alte Datei bleibt erhalten.');
-  process.exit(1);
+  console.log('::error::Keine Events gefunden – alte Datei bleibt erhalten.');
+  process.exitCode = 1;
+  process.exit();
 }
 await writeFile(OUT, JSON.stringify({ generated: new Date().toISOString(), count: events.length, events }, null, 1));
 console.log(`${events.length} Events gespeichert.`);
