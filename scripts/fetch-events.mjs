@@ -1,0 +1,237 @@
+// Holt Events aus kostenlosen Quellen, ordnet sie den App-Kategorien zu,
+// ergänzt Koordinaten und schreibt alles nach data/events.json.
+// Läuft per GitHub Action (siehe .github/workflows/update-events.yml), ohne Abhängigkeiten.
+//
+//   node scripts/fetch-events.mjs                 # live holen
+//   LEO_FIXTURE=test/leo-sample.xml NO_GEOCODE=1 node scripts/fetch-events.mjs   # offline testen
+
+import { readFile, writeFile } from 'node:fs/promises';
+
+const LEO_URL = 'https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/templates/rss_events.groovy?data_source=evt_rssfeed_ulm_events';
+const ULM = { lat: 48.3984, lon: 9.9916 };
+const OUT = new URL('../data/events.json', import.meta.url);
+const GEOCACHE = new URL('../data/geocache.json', import.meta.url);
+const USER_AGENT = 'ULMtriebig/1.0 (private event app; github.com/LuFre136)';
+const MAX_NEW_GEOCODES = 200;
+
+// Kategorie-Schlüssel der App -> Stichworte aus den Quellen (klein geschrieben)
+const TYPE_RULES = [
+  ['konzerte', ['musik', 'konzert', 'music', 'jazz', 'rock', 'pop', 'klassik', 'chor', 'orchester']],
+  ['sport', ['sport', 'sports', 'fußball', 'basketball', 'lauf', 'turnier', 'eishockey', 'handball']],
+  ['maerkte', ['märkte', 'markt', 'messe', 'flohmarkt', 'wochenmarkt', 'basar', 'weihnachtsmarkt']],
+  ['partys', ['party', 'club', 'disco', 'clubbing', 'dj', 'tanz']],
+  ['buehne', ['bühne', 'theater', 'kabarett', 'comedy', 'oper', 'musical', 'kino', 'film', 'arts & theatre']],
+  ['feste', ['feste & events', 'fest', 'festival', 'feier']],
+  ['ausstellungen', ['ausstellung', 'museum', 'galerie']],
+  ['fuehrungen', ['führung', 'exkursion', 'stadtrundgang']],
+  ['bildung', ['vortrag', 'vorträge', 'lesung', 'literatur', 'kurse', 'workshop', 'bildung', 'seminar']],
+];
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+function decode(s) {
+  return s
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&apos;|&#39;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+    .replace(/\s+/g, ' ').trim();
+}
+
+// Liefert alle direkten Kind-Elemente eines <item> in Dokument-Reihenfolge.
+function children(xml) {
+  const out = [];
+  const re = /<([\w:.-]+)(\s[^>]*?)?(?:\/>|>([\s\S]*?)<\/\1\s*>)/g;
+  let m;
+  while ((m = re.exec(xml))) {
+    const attrs = {};
+    for (const a of (m[2] || '').matchAll(/([\w:.-]+)\s*=\s*"([^"]*)"/g)) attrs[a[1]] = a[2];
+    out.push({ tag: m[1].toLowerCase(), attrs, raw: m[3] || '', text: decode(m[3] || '') });
+  }
+  return out;
+}
+
+// "2026101110:00", "20261011", ISO oder RFC-822 -> ISO-String (lokale Zeit Europe/Berlin)
+function parseDate(v) {
+  if (!v) return null;
+  let m = v.match(/^(\d{4})(\d{2})(\d{2})\s*(\d{2}):?(\d{2})?/);
+  if (m) return `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5] || '00'}`;
+  m = v.match(/^(\d{4})(\d{2})(\d{2})$/);
+  if (m) return `${m[1]}-${m[2]}-${m[3]}`;
+  m = v.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})(?:[ ,]+(\d{1,2}):(\d{2}))?/);
+  if (m) return `${m[3]}-${m[2].padStart(2, '0')}-${m[1].padStart(2, '0')}` + (m[4] ? `T${m[4].padStart(2, '0')}:${m[5]}` : '');
+  if (/^\d{4}-\d{2}-\d{2}/.test(v)) return v.slice(0, 16);
+  const d = new Date(v);
+  if (!isNaN(d)) return berlinIso(d);
+  return null;
+}
+
+function berlinIso(d) {
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Europe/Berlin', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23',
+  }).formatToParts(d).map((x) => [x.type, x.value]));
+  return `${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}`;
+}
+
+function classify(texts) {
+  const hay = texts.join(' | ').toLowerCase();
+  const types = TYPE_RULES.filter(([, words]) => words.some((w) => hay.includes(w))).map(([k]) => k);
+  return types.length ? types : ['sonstiges'];
+}
+
+const pick = (kids, ...names) => kids.find((k) => names.includes(k.tag) && k.text)?.text || '';
+
+// Der Leo-Feed hat neben Standard-RSS eigene Felder. Wir lesen bekannte Namen und
+// fallen sonst auf die Reihenfolge zurück: … Ort, Straße, PLZ, Stadt …
+function parseLeoItem(xml) {
+  const kids = children(xml);
+  const title = pick(kids, 'title');
+  const link = pick(kids, 'link', 'guid');
+  const description = pick(kids, 'description', 'content:encoded');
+  const cats = kids.filter((k) => k.tag.includes('categor') || k.tag.includes('rubrik') || k.tag.includes('kategorie')).map((k) => k.text);
+
+  let start = null;
+  for (const k of kids) {
+    if (/(^|:)(start|begin|beginn|datum|date|dtstart|von|termin)/.test(k.tag) || /^\d{8}\s*\d{2}:\d{2}$/.test(k.text)) {
+      start = parseDate(k.text);
+      if (start) break;
+    }
+  }
+  if (!start) start = parseDate(pick(kids, 'pubdate', 'dc:date'));
+  let end = null;
+  const endKid = kids.find((k) => /(^|:)(end|ende|bis|dtend)/.test(k.tag));
+  if (endKid) end = parseDate(endKid.text);
+
+  let venue = pick(kids, 'veranstaltungsort', 'ort', 'staette', 'location', 'venue', 'ev:location');
+  let street = pick(kids, 'strasse', 'straße', 'street', 'adresse');
+  let zip = pick(kids, 'plz', 'zip', 'postalcode', 'postleitzahl');
+  let city = pick(kids, 'stadt', 'city', 'locality', 'gemeinde');
+  if (!zip) {
+    const i = kids.findIndex((k) => /^\d{5}$/.test(k.text));
+    if (i >= 0) {
+      zip = kids[i].text;
+      city ||= kids[i + 1]?.text || '';
+      street ||= kids[i - 1]?.text || '';
+      venue ||= kids[i - 2]?.text || '';
+    }
+  }
+  const subtitle = pick(kids, 'untertitel', 'subtitle', 'kurztext', 'teaser');
+  const price = pick(kids, 'preis', 'price', 'eintritt', 'kosten');
+  const lat = parseFloat(pick(kids, 'geo:lat', 'lat', 'latitude'));
+  const lon = parseFloat(pick(kids, 'geo:long', 'geo:lon', 'lon', 'lng', 'longitude'));
+
+  // Alle Kind-Texte fließen in die Kategorisierung, damit auch unbekannte Feldnamen greifen.
+  const catTexts = cats.length ? cats : kids.filter((k) => /&|,/.test(k.text) && k.text.length < 80).map((k) => k.text);
+  return {
+    title, subtitle, start, end, venue, street, zip, city, price,
+    url: link,
+    description: description.slice(0, 300),
+    categories: [...new Set(catTexts)],
+    lat: isFinite(lat) ? lat : null,
+    lon: isFinite(lon) ? lon : null,
+    types: classify(catTexts.length ? catTexts : [title, subtitle]),
+    source: 'ulm',
+  };
+}
+
+async function fetchLeo() {
+  const xml = process.env.LEO_FIXTURE
+    ? await readFile(process.env.LEO_FIXTURE, 'utf8')
+    : await (await fetch(LEO_URL, { headers: { 'User-Agent': USER_AGENT } })).text();
+  const items = [...xml.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/g)].map((m) => parseLeoItem(m[1]));
+  if (process.env.DEBUG && xml) console.log(xml.slice(0, 3000));
+  return items.filter((e) => e.title && e.start);
+}
+
+async function fetchTicketmaster() {
+  const key = process.env.TICKETMASTER_API_KEY;
+  if (!key) return [];
+  const out = [];
+  for (let page = 0; page < 5; page++) {
+    const u = new URL('https://app.ticketmaster.com/discovery/v2/events.json');
+    Object.entries({ apikey: key, latlong: `${ULM.lat},${ULM.lon}`, radius: '60', unit: 'km', size: '200', page: String(page), sort: 'date,asc', locale: '*' })
+      .forEach(([k, v]) => u.searchParams.set(k, v));
+    const res = await fetch(u);
+    if (!res.ok) { console.warn('Ticketmaster', res.status); break; }
+    const data = await res.json();
+    for (const ev of data._embedded?.events || []) {
+      const v = ev._embedded?.venues?.[0] || {};
+      const cl = ev.classifications?.[0] || {};
+      const cats = [cl.segment?.name, cl.genre?.name, cl.subGenre?.name].filter((c) => c && c !== 'Undefined');
+      out.push({
+        title: ev.name,
+        subtitle: '',
+        start: ev.dates?.start?.dateTime ? berlinIso(new Date(ev.dates.start.dateTime)) : ev.dates?.start?.localDate,
+        end: null,
+        venue: v.name || '', street: v.address?.line1 || '', zip: v.postalCode || '', city: v.city?.name || '',
+        price: ev.priceRanges?.[0] ? `ab ${ev.priceRanges[0].min} ${ev.priceRanges[0].currency}` : '',
+        url: ev.url, description: '', categories: cats,
+        lat: v.location ? +v.location.latitude : null, lon: v.location ? +v.location.longitude : null,
+        types: classify(cats), source: 'ticketmaster',
+      });
+    }
+    if (page + 1 >= (data.page?.totalPages || 0)) break;
+    await sleep(250);
+  }
+  return out;
+}
+
+async function geocode(events) {
+  let cache = {};
+  try { cache = JSON.parse(await readFile(GEOCACHE, 'utf8')); } catch {}
+  let fresh = 0;
+  for (const e of events) {
+    if (e.lat != null) continue;
+    const queries = [
+      [e.street, `${e.zip} ${e.city}`].filter((s) => s.trim()).join(', '),
+      `${e.zip} ${e.city}`.trim(),
+    ].filter(Boolean);
+    for (const q of queries) {
+      if (!(q in cache)) {
+        if (process.env.NO_GEOCODE || fresh >= MAX_NEW_GEOCODES) continue;
+        const u = `https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=de&q=${encodeURIComponent(q)}`;
+        try {
+          const r = await (await fetch(u, { headers: { 'User-Agent': USER_AGENT } })).json();
+          cache[q] = r[0] ? [+(+r[0].lat).toFixed(5), +(+r[0].lon).toFixed(5)] : null;
+        } catch { cache[q] = null; }
+        fresh++;
+        await sleep(1100); // Nominatim-Regel: max. 1 Anfrage pro Sekunde
+      }
+      if (cache[q]) { [e.lat, e.lon] = cache[q]; break; }
+    }
+  }
+  await writeFile(GEOCACHE, JSON.stringify(cache, null, 0));
+  console.log(`Geocoding: ${fresh} neue Abfragen`);
+}
+
+const hash = (s) => [...s].reduce((h, c) => (Math.imul(31, h) + c.charCodeAt(0)) | 0, 7).toString(36);
+
+const results = await Promise.allSettled([fetchLeo(), fetchTicketmaster()]);
+const sources = ['Veranstaltungskalender Ulm/Neu-Ulm', 'Ticketmaster'];
+let events = [];
+results.forEach((r, i) => {
+  if (r.status === 'fulfilled') { console.log(`${sources[i]}: ${r.value.length} Events`); events.push(...r.value); }
+  else console.warn(`${sources[i]} fehlgeschlagen:`, r.reason?.message);
+});
+
+const today = berlinIso(new Date()).slice(0, 10);
+events = events.filter((e) => (e.end || e.start).slice(0, 10) >= today);
+const seen = new Set();
+events = events.filter((e) => {
+  const k = `${e.title.toLowerCase()}|${e.start.slice(0, 10)}`;
+  if (seen.has(k)) return false;
+  seen.add(k);
+  return true;
+});
+await geocode(events);
+events.sort((a, b) => a.start.localeCompare(b.start));
+for (const e of events) e.id = hash(`${e.source}|${e.title}|${e.start}|${e.venue}`);
+
+if (!events.length && !process.env.LEO_FIXTURE) {
+  console.error('Keine Events gefunden – alte Datei bleibt erhalten.');
+  process.exit(1);
+}
+await writeFile(OUT, JSON.stringify({ generated: new Date().toISOString(), count: events.length, events }, null, 1));
+console.log(`${events.length} Events gespeichert.`);

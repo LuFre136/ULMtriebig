@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>ULMtriebig</title>
+  <meta name="description" content="Anstehende Events in deiner Nähe">
+  <meta name="theme-color" content="#0f766e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="ULMtriebig">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <h1>ULMtriebig</h1>
+      <button id="open-settings" class="icon-btn" aria-label="Einstellungen">⚙︎</button>
+    </div>
+    <p id="summary" class="summary">Lade Events …</p>
+    <nav id="chips" class="chips" aria-label="Kategorien"></nav>
+  </header>
+
+  <main id="list" class="list" aria-live="polite"></main>
+
+  <footer class="foot">
+    <span id="updated"></span>
+    <span>Daten: <a href="https://veranstaltungen.ulm.de" target="_blank" rel="noopener">Veranstaltungskalender Ulm/Neu-Ulm</a> (CC0), Ticketmaster, © OpenStreetMap</span>
+  </footer>
+
+  <dialog id="settings">
+    <form method="dialog" class="sheet">
+      <h2>Einstellungen</h2>
+
+      <label class="field">
+        <span>Ort</span>
+        <div class="row">
+          <input id="place-input" type="search" placeholder="z. B. Neu-Ulm, Söflingen" autocomplete="off">
+          <button type="button" id="place-search">Suchen</button>
+        </div>
+        <ul id="place-results" class="results"></ul>
+        <div class="row">
+          <button type="button" id="use-gps">📍 Aktueller Standort</button>
+          <button type="button" id="use-ulm">Ulm Zentrum</button>
+        </div>
+        <small id="place-current"></small>
+      </label>
+
+      <label class="field">
+        <span>Umkreis: <b id="radius-label"></b></span>
+        <input id="radius" type="range" min="1" max="50" step="1">
+      </label>
+
+      <label class="field">
+        <span>Zeitraum</span>
+        <select id="days">
+          <option value="1">Heute</option>
+          <option value="3">3 Tage</option>
+          <option value="7">7 Tage</option>
+          <option value="14">14 Tage</option>
+          <option value="60">Alles</option>
+        </select>
+      </label>
+
+      <fieldset class="field">
+        <legend>Event-Arten</legend>
+        <div id="type-toggles" class="toggles"></div>
+      </fieldset>
+
+      <div class="row end">
+        <button type="button" id="reset">Zurücksetzen</button>
+        <button value="close" class="primary">Fertig</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

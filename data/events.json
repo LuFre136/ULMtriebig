@@ -1,0 +1,122 @@
+{
+ "generated": "2026-10-11T18:52:47.411Z",
+ "count": 5,
+ "events": [
+  {
+   "title": "Monatliche Jubiläumssonntage",
+   "subtitle": "mit Kirchen- und Klosterführung",
+   "start": "2026-10-12T10:00",
+   "end": null,
+   "venue": "Prämonstratenser-Kloster Roggenburg",
+   "street": "Klosterstraße 5",
+   "zip": "89297",
+   "city": "Roggenburg",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/a/1",
+   "description": "",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.2762,
+   "lon": 10.2302,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-kakpa4"
+  },
+  {
+   "title": "Jazz im Stadthaus",
+   "subtitle": "",
+   "start": "2026-10-13T20:00",
+   "end": null,
+   "venue": "Stadthaus Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/a/2",
+   "description": "",
+   "categories": [
+    "Kultur, Musik"
+   ],
+   "lat": 48.3985,
+   "lon": 9.992,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-pq9zy5"
+  },
+  {
+   "title": "Ulmer Wochenmarkt",
+   "subtitle": "",
+   "start": "2026-10-14T07:00",
+   "end": null,
+   "venue": "Münsterplatz",
+   "street": "Münsterplatz",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "",
+   "description": "",
+   "categories": [
+    "Märkte & Messen"
+   ],
+   "lat": 48.3984,
+   "lon": 9.9918,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "7n5xsg"
+  },
+  {
+   "title": "Ü30 Party",
+   "subtitle": "",
+   "start": "2026-10-17T22:00",
+   "end": null,
+   "venue": "Roxy",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "",
+   "description": "",
+   "categories": [
+    "Party, Club & Disco"
+   ],
+   "lat": 48.3926,
+   "lon": 9.9737,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "uc1f0h"
+  },
+  {
+   "title": "ratiopharm ulm – Heimspiel",
+   "subtitle": "",
+   "start": "2026-10-18T18:00",
+   "end": null,
+   "venue": "ratiopharm arena",
+   "street": "Europastraße 25",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "",
+   "description": "",
+   "categories": [
+    "Sport"
+   ],
+   "lat": 48.3812,
+   "lon": 10.0096,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "ngmyrc"
+  }
+ ]
+}
