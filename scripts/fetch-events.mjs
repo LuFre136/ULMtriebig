@@ -40,34 +40,6 @@ function decode(s) {
     .replace(/\s+/g, ' ').trim();
 }
 
-// Liefert alle direkten Kind-Elemente eines <item> in Dokument-Reihenfolge.
-function children(xml) {
-  const out = [];
-  const re = /<([\w:.-]+)(\s[^>]*?)?(?:\/>|>([\s\S]*?)<\/\1\s*>)/g;
-  let m;
-  while ((m = re.exec(xml))) {
-    const attrs = {};
-    for (const a of (m[2] || '').matchAll(/([\w:.-]+)\s*=\s*"([^"]*)"/g)) attrs[a[1]] = a[2];
-    out.push({ tag: m[1].toLowerCase(), attrs, raw: m[3] || '', text: decode(m[3] || '') });
-  }
-  return out;
-}
-
-// "2026101110:00", "20261011", ISO oder RFC-822 -> ISO-String (lokale Zeit Europe/Berlin)
-function parseDate(v) {
-  if (!v) return null;
-  let m = v.match(/^(\d{4})(\d{2})(\d{2})\s*(\d{2}):?(\d{2})?/);
-  if (m) return `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5] || '00'}`;
-  m = v.match(/^(\d{4})(\d{2})(\d{2})$/);
-  if (m) return `${m[1]}-${m[2]}-${m[3]}`;
-  m = v.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})(?:[ ,]+(\d{1,2}):(\d{2}))?/);
-  if (m) return `${m[3]}-${m[2].padStart(2, '0')}-${m[1].padStart(2, '0')}` + (m[4] ? `T${m[4].padStart(2, '0')}:${m[5]}` : '');
-  if (/^\d{4}-\d{2}-\d{2}/.test(v)) return v.slice(0, 16);
-  const d = new Date(v);
-  if (!isNaN(d)) return berlinIso(d);
-  return null;
-}
-
 function berlinIso(d) {
   const p = Object.fromEntries(new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Europe/Berlin', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23',
@@ -81,57 +53,57 @@ function classify(texts) {
   return types.length ? types : ['sonstiges'];
 }
 
-const pick = (kids, ...names) => kids.find((k) => names.includes(k.tag) && k.text)?.text || '';
+// Inhalt des ersten <name>…</name> innerhalb von xml (ohne Dekodierung).
+const inner = (xml, name) => xml.match(new RegExp(`<${name}\\b[^>]*>([\\s\\S]*?)</${name}>`))?.[1] ?? '';
+const text = (xml, name) => decode(inner(xml, name));
 
-// Der Leo-Feed hat neben Standard-RSS eigene Felder. Wir lesen bekannte Namen und
-// fallen sonst auf die Reihenfolge zurück: … Ort, Straße, PLZ, Stadt …
+const euro = (v) => (+v).toLocaleString('de-DE', { minimumFractionDigits: +v % 1 ? 2 : 0, maximumFractionDigits: 2 });
+function formatPrices(xml) {
+  const prices = [...xml.matchAll(/<preis>([\s\S]*?)<\/preis>/g)].map(([, p]) => {
+    const from = text(p, 'preiswert'), to = text(p, 'preis_bis');
+    if (!from) return '';
+    const amount = +from === 0 && !(+to > 0) ? 'kostenlos' : `${euro(from)}${to && +to !== +from ? `–${euro(to)}` : ''} €`;
+    const kind = text(p, 'preisart').replace(/\s*\(.*?\)/g, '');
+    return kind && amount !== 'kostenlos' ? `${kind} ${amount}` : amount;
+  }).filter(Boolean);
+  return prices.slice(0, 2).join(' · ') + (prices.length > 2 ? ' …' : '');
+}
+
+// Der Ulmer Feed (LEO) steckt seine Felder als XML in <description>:
+// <termin><jahr/><monat/><tag/><uhrzeit/></termin>, <beschreibung/>,
+// <kategorien><kategorie/><unterkategorie1/><unterkategorie2/></kategorien>,
+// <staette><bezeichnung/><strasse/><hausnr/><plz/><ort/></staette>, <preise/>
 function parseLeoItem(xml) {
-  const kids = children(xml);
-  const title = pick(kids, 'title');
-  const link = pick(kids, 'link', 'guid');
-  const description = pick(kids, 'description', 'content:encoded');
-  const cats = kids.filter((k) => k.tag.includes('categor') || k.tag.includes('rubrik') || k.tag.includes('kategorie')).map((k) => k.text);
-
-  let start = null;
-  for (const k of kids) {
-    if (/(^|:)(start|begin|beginn|datum|date|dtstart|von|termin)/.test(k.tag) || /^\d{8}\s*\d{2}:\d{2}$/.test(k.text)) {
-      start = parseDate(k.text);
-      if (start) break;
-    }
-  }
-  if (!start) start = parseDate(pick(kids, 'pubdate', 'dc:date'));
-  let end = null;
-  const endKid = kids.find((k) => /(^|:)(end|ende|bis|dtend)/.test(k.tag));
-  if (endKid) end = parseDate(endKid.text);
-
-  let venue = pick(kids, 'veranstaltungsort', 'ort', 'staette', 'location', 'venue', 'ev:location');
-  let street = pick(kids, 'strasse', 'straße', 'street', 'adresse');
-  let zip = pick(kids, 'plz', 'zip', 'postalcode', 'postleitzahl');
-  let city = pick(kids, 'stadt', 'city', 'locality', 'gemeinde');
-  if (!zip) {
-    const i = kids.findIndex((k) => /^\d{5}$/.test(k.text));
-    if (i >= 0) {
-      zip = kids[i].text;
-      city ||= kids[i + 1]?.text || '';
-      street ||= kids[i - 1]?.text || '';
-      venue ||= kids[i - 2]?.text || '';
-    }
-  }
-  const subtitle = pick(kids, 'untertitel', 'subtitle', 'kurztext', 'teaser');
-  const price = pick(kids, 'preis', 'price', 'eintritt', 'kosten');
-  const lat = parseFloat(pick(kids, 'geo:lat', 'lat', 'latitude'));
-  const lon = parseFloat(pick(kids, 'geo:long', 'geo:lon', 'lon', 'lng', 'longitude'));
-
-  // Alle Kind-Texte fließen in die Kategorisierung, damit auch unbekannte Feldnamen greifen.
-  const catTexts = cats.length ? cats : kids.filter((k) => /&|,/.test(k.text) && k.text.length < 80).map((k) => k.text);
+  const d = inner(xml, 'description').replace(/<!\[CDATA\[|\]\]>/g, '');
+  const termin = inner(d, 'termin');
+  const [y, mo, day] = ['jahr', 'monat', 'tag'].map((n) => text(termin, n));
+  const time = text(termin, 'uhrzeit').match(/(\d{1,2})[:.](\d{2})/);
+  const start = y && mo && day
+    ? `${y}-${mo.padStart(2, '0')}-${day.padStart(2, '0')}` + (time ? `T${time[1].padStart(2, '0')}:${time[2]}` : '')
+    : null;
+  const kat = inner(d, 'kategorien');
+  const cats = [...new Set([text(kat, 'kategorie'), text(kat, 'unterkategorie1'), text(kat, 'unterkategorie2'), text(xml, 'category')]
+    .flatMap((c) => c.split(/,\s*/)).filter(Boolean))];
+  const st = inner(d, 'staette');
+  const room = text(st, 'teilstaette');
+  let venue = text(st, 'bezeichnung');
+  if (room && venue.endsWith(room) && venue !== room) venue = `${venue.slice(0, -room.length).trim()}, ${room}`;
   return {
-    title, subtitle, start, end, venue, street, zip, city, price,
-    url: link,
-    description: description.slice(0, 300),
-    categories: [...new Set(catTexts)],
-    lat: isFinite(lat) ? lat : null,
-    lon: isFinite(lon) ? lon : null,
-    types: classify(catTexts.length ? catTexts : [title, subtitle]),
+    title: text(xml, 'title'),
+    subtitle: text(d, 'beschreibung'),
+    start,
+    end: null,
+    venue,
+    street: [text(st, 'strasse'), text(st, 'hausnr')].filter(Boolean).join(' '),
+    zip: text(st, 'plz'),
+    city: text(st, 'ort'),
+    price: formatPrices(inner(d, 'preise')),
+    url: text(xml, 'link') || text(xml, 'guid'),
+    image: text(d, 'bild'),
+    categories: cats,
+    lat: null,
+    lon: null,
+    types: classify(cats.length ? cats : [text(xml, 'title')]),
     source: 'ulm',
   };
 }
@@ -143,8 +115,6 @@ async function fetchLeo() {
     const res = await fetch(LEO_URL, { headers: { 'User-Agent': USER_AGENT } });
     xml = await res.text();
     console.log(`::notice::Ulm-Feed: HTTP ${res.status}, ${res.headers.get('content-type')}, ${xml.length} Zeichen`);
-    // Rohdaten aufheben, damit sich Formatänderungen des Feeds nachvollziehen lassen.
-    await writeFile(new URL('../data/leo-raw.xml', import.meta.url), xml.slice(0, 20000));
   }
   const raw = [...xml.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/g)];
   const items = raw.map((m) => parseLeoItem(m[1])).filter((e) => e.title && e.start);
