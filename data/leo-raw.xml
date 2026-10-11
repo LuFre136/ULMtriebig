@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
+    <channel>
+            <title>Stadt ULM Veranstaltungskalender</title>
+            <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/</link>
+            <description>Veranstaltungen</description>
+            <language>de-de</language>
+
+            <item id="50665">
+                <title>Monatliche Jubiläumssonntage</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>11</tag>
+<uhrzeit>10:00</uhrzeit>
+</termin>
+
+                <beschreibung>mit Kirchen- und Klosterführung</beschreibung>
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+<unterkategorie2>Führungen & Exkursionen</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Prämonstratenser-Kloster Roggenburg </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Klosterstraße</strasse>
+<hausnr>5</hausnr>
+<plz>89297</plz>
+<ort>Roggenburg</ort>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1287378251&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Prämonstratenser-Kloster Roggenburg</bezeichnung>
+<strasse>Klosterstraße</strasse>
+<hausnr>5</hausnr>
+<plz>89297</plz>
+<ort>Roggenburg</ort>
+</veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50665/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50665/</guid>
+                <category>Freizeit, Führungen & Exkursionen</category>
+        </item>
+        
+            <item id="53322">
+                <title>Offener Familiennachmittag im „werklabor“</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>11</tag>
+<uhrzeit>15:00</uhrzeit>
+</termin>
+
+                <beschreibung>Eltern mit Kindern ab 5 Jahren</beschreibung>
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+<unterkategorie2>Feste & Events</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Werklabor des Museum Ulm </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Neue Straße</strasse>
+<hausnr>92</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2058807016&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Museum Ulm</bezeichnung>
+<strasse>Marktplatz</strasse>
+<hausnr>92</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<div class="veranstalter_telefon">Telefon +49 0731 161-4330</div><div class="veranstalter_telefon">Fax +49 0731 161-1626</div><telefon><Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-4330</telefonnummer>
+</Telefon>
+</telefon><telefon><Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-1626</telefonnummer>
+</Fax>
+</telefon></veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53322/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53322/</guid>
+                <category>Freizeit, Feste & Events</category>
+        </item>
+        
+            <item id="53490">
+                <title>Barcelona - Paris - Ulm</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>11</tag>
+<uhrzeit>17:00</uhrzeit>
+</termin>
+
+                <beschreibung>Konzert zum 100. Geburtstags des Pianisten und Komponisten Jaime Padrós</beschreibung>
+                <kategorien>
+<kategorie>Kultur</kategorie>
+<unterkategorie1>Kultur</unterkategorie1>
+<unterkategorie2>Musik</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Musikschule der Stadt UlmKonzertsaal</bezeichnung>
+<teilstaette>Konzertsaal</teilstaette>
+<strasse>Marktplatz</strasse>
+<hausnr>19</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-4730</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-804730</telefonnummer>
+</Fax>
+</telefone>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-761197968&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Musikschule der Stadt Ulm</bezeichnung>
+<strasse>Marktplatz</strasse>
+<hausnr>19</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-4730</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-804730</telefonnummer>
+</Fax>
+</telefone>
+</veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53490/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53490/</guid>
+                <category>Kultur, Musik</category>
+        </item>
+        
+            <item id="53674">
+                <title>La Juive (Die Jüdin)</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>11</tag>
+<uhrzeit>19:00</uhrzeit>
+</termin>
+
+                <beschreibung>Oper in fünf Akten, Musik von Fromental Halévy, Libretto von Eugène Scribe, In französischer Sprache mit deutschen Übertiteln</beschreibung>
+                <kategorien>
+<kategorie>Kultur</kategorie>
+<unterkategorie1>Kultur</unterkategorie1>
+<unterkategorie2>Bühne</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Theater Ulm </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Herbert-von-Karajan-Platz</strasse>
+<hausnr>1</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>1614444</telefonnummer>
+</Telefon>
+</telefone>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-667079160&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Theater Ulm</bezeichnung>
+<strasse>Herbert-von-Karajan-Platz</strasse>
+<hausnr>1</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>1614444</telefonnummer>
+</Telefon>
+</telefone>
+</veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/</guid>
+                <category>Kultur, Bühne</category>
+        </item>
+        
+            <item id="53165">
+                <title>The Kickstarters</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>11</tag>
+<uhrzeit>19:30</uhrzeit>
+</termin>
+
+                <beschreibung>Die Erben des Rock&amp;Roll</beschreibung>
+                <kategorien>
+<kategorie>Kultur</kategorie>
+<unterkategorie1>Kultur</unterkategorie1>
+<unterkategorie2>Musik</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Fiddler’s Green Irish Pub </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Volkertshofener Straße</strasse>
+<hausnr>7A</hausnr>
+<plz>89284</plz>
+<ort>Pfaffenhofen</ort>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2011463731&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Fiddler’s Green Irish Pub</bezeichnung>
+<strasse>Volkertshofener Straße</strasse>
+<hausnr>7A</hausnr>
+<plz>89284</plz>
+<ort>Pfaffenhofen</ort>
+</veranstalter>
+<preise>
+<preis>
+<preisart>Abendkasse</preisart>
+<preiswert>12.00</preiswert>
+<preis_bis>12.00</preis_bis>
+<waehrung>EUR</waehrung>
+</preis>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53165/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53165/</guid>
+                <category>Kultur, Musik</category>
+        </item>
+        
+            <item id="53433">
+                <title>Happy Moin</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>06:30</uhrzeit>
+</termin>
+
+                <beschreibung>Online - Raus aus den Federn und rein in die Freude</beschreibung>
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+</kategorien>
+<staette>
+<bezeichnung>Lachen mit Laura </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Bgm.-Schiele-Str.</strasse>
+<hausnr>10</hausnr>
+<plz>89233</plz>
+<ort>Neu-Ulm</ort>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Lachen mit Laura</bezeichnung>
+<strasse>Bgm.-Schiele-Str.</strasse>
+<hausnr>10</hausnr>
+<plz>89233</plz>
+<ort>Neu-Ulm</ort>
+</veranstalter>
+<preise>
+<preis>
+<preisart>Ehrenamtlich</preisart>
+<preiswert>0.00</preiswert>
+<waehrung>EUR</waehrung>
+</preis>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/</guid>
+                <category>Freizeit</category>
+        </item>
+        
+            <item id="53213">
+                <title>Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>07:00</uhrzeit>
+</termin>
+
+                <beschreibung>Radio selber machen statt einfach nur hören</beschreibung>
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+</kategorien>
+<staette>
+<bezeichnung>Radio freeFM </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Platzgasse</strasse>
+<hausnr>18</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Radio freeFM</bezeichnung>
+<strasse>Platzgasse</strasse>
+<hausnr>18</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+</veranstalter>
+<preise>
+<preis>
+<preisart>ab 16 Jahre</preisart>
+<preiswert>0.00</preiswert>
+<waehrung>EUR</waehrung>
+</preis>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/</guid>
+                <category>Freizeit</category>
+        </item>
+        
+            <item id="38736">
+                <title>Stadtführung mit Besichtigung des Münsters</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>10:00</uhrzeit>
+</termin>
+
+                <beschreibung>Klassische Führung</beschreibung>
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+<unterkategorie2>Führungen & Exkursionen</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Tourist-Information, Stadthaus </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Münsterplatz</strasse>
+<hausnr>50</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-2830</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-1641</telefonnummer>
+</Fax>
+</telefone>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Ulm/Neu-Ulm Touristik GmbH</bezeichnung>
+<strasse>Neue Straße</strasse>
+<hausnr>50</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<div class="veranstalter_telefon">Telefon +49 0731 161-2830</div><div class="veranstalter_telefon">Fax +49 0731 161-1646</div><telefon><Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-2830</telefonnummer>
+</Telefon>
+</telefon><telefon><Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-1646</telefonnummer>
+</Fax>
+</telefon></veranstalter>
+<preise>
+<preis>
+<preisart>Erwachsene/adults (2025/26)</preisart>
+<preiswert>12.00</preiswert>
+<waehrung>EUR</waehrung>
+</preis>
+<preis>
+<preisart>Ermäßigt (Schüler, Studenten u. Schwerbehinderte)/Reduced (pupils, students and severely disabled persons) 2025/26</preisart>
+<preiswert>8.00</preiswert>
+<waehrung>EUR</waehrung>
+</preis>
+<preis>
+<preisart>Kinder bis 15 Jahren (bitte trotzdem bei der Tourist-Information anmelden)/children up to 15 years (please register at the Tourist Information)</preisart>
+<preiswert>0.00</preiswert>
+<waehrung>EUR</waehrung>
+</preis>
+<preis>
+<preisart>Ulm-Card-Inhaber (bitte trotzdem bei der Tourist-Information anmelden oder online buchen)/Ulm Card holders (please register at the Tourist Information)</preisart>
+<preiswert>0.00</preiswert>
+<waehrung>EUR</waehrung>
+</preis>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/</guid>
+                <category>Freizeit, Führungen & Exkursionen</category>
+        </item>
+        
+            <item id="52996">
+                <title>Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>10:00</uhrzeit>
+</termin>
+
+                
+                <kategorien>
+<kategorie>Kultur</kategorie>
+<unterkategorie1>Kultur</unterkategorie1>
+<unterkategorie2>Ausstellungen</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Stadthaus Ulm </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Münsterplatz</strasse>
+<hausnr>50</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-7700</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-7755</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-7701</telefonnummer>
+</Fax>
+</telefone>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2001598522&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Stadthaus Ulm</bezeichnung>
+<strasse>Münsterplatz</strasse>
+<hausnr>50</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-7700</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-7755</telefonnummer>
+</Telefon>
+</telefone>
+<telefone>
+<Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161-7701</telefonnummer>
+</Fax>
+</telefone>
+</veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52996/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52996/</guid>
+                <category>Kultur, Ausstellungen</category>
+        </item>
+        
+            <item id="51276">
+                <title>Quartierstreff Mitte/Ost</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>13:30</uhrzeit>
+</termin>
+
+                <beschreibung>Gemeinsam weniger allein</beschreibung>
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+</kategorien>
+<staette>
+<bezeichnung>Bürgerhaus MitteCafeteria (EG)</bezeichnung>
+<teilstaette>Cafeteria (EG)</teilstaette>
+<strasse>Schaffnerstraße</strasse>
+<hausnr>17</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161 5164</telefonnummer>
+</Telefon>
+</telefone>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Bürgerhaus Mitte</bezeichnung>
+<strasse>Schaffnerstraße</strasse>
+<hausnr>17</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161 5164</telefonnummer>
+</Telefon>
+</telefone>
+</veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/</guid>
+                <category>Freizeit</category>
+        </item>
+        
+            <item id="53251">
+                <title>Märchen und Musik von klugen und mutigen Frauen</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>14:30</uhrzeit>
+</termin>
+
+                <beschreibung>italienische Märchen und Musik</beschreibung>
+                <kategorien>
+<kategorie>Kultur</kategorie>
+<unterkategorie1>Kultur</unterkategorie1>
+<unterkategorie2>Literatur</unterkategorie2>
+</kategorien>
+<staette>
+<bezeichnung>Bürgerzentrum Wiblingen am Tannenplatz </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Buchauerstr.</strasse>
+<hausnr>12</hausnr>
+<plz>89079</plz>
+<ort>Ulm</ort>
+</staette>
+
+<veranstalter>
+<bezeichnung>GenerationenTreff Ulm/Neu-Ulm e.V.</bezeichnung>
+<strasse>Grüner Hof</strasse>
+<hausnr>12</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<div class="veranstalter_telefon">Telefon +49 0731 161 5156</div><div class="veranstalter_telefon">Fax +49 0731 161 1645</div><telefon><Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161 5156</telefonnummer>
+</Telefon>
+</telefon><telefon><Fax>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161 1645</telefonnummer>
+</Fax>
+</telefon></veranstalter>
+<preise>
+</preise>
+
+        </description>
+                <link>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53251/</link>
+                <guid>https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53251/</guid>
+                <category>Kultur, Literatur</category>
+        </item>
+        
+            <item id="53318">
+                <title>Kleine Buchentdecker*innen in der Kinderbibliothek</title>
+                <description>
+                    <termin>
+<jahr>2026</jahr>
+<monat>10</monat>
+<tag>12</tag>
+<uhrzeit>15:00</uhrzeit>
+</termin>
+
+                
+                <kategorien>
+<kategorie>Freizeit</kategorie>
+<unterkategorie1>Freizeit</unterkategorie1>
+</kategorien>
+<staette>
+<bezeichnung>Kinderbibliothek Ulm </bezeichnung>
+<teilstaette> </teilstaette>
+<strasse>Vestgasse</strasse>
+<hausnr>1</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161 4160</telefonnummer>
+</Telefon>
+</telefone>
+</staette>
+<bild>https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1168516957&amp;width=600&amp;height=-1</bild>
+<veranstalter>
+<bezeichnung>Kinderbibliothek Ulm</bezeichnung>
+<strasse>Vestgasse</strasse>
+<hausnr>1</hausnr>
+<plz>89073</plz>
+<ort>Ulm</ort>
+<telefone>
+<Telefon>
+<vorwahl_land>+49</vorwahl_land>
+<vorwahl>0731</vorwahl>
+<telefonnummer>161 4160</telef
