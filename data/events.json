@@ -1,150 +1,7 @@
 {
- "generated": "2026-10-11T19:18:55.760Z",
- "count": 278,
+ "generated": "2026-10-12T11:56:32.165Z",
+ "count": 275,
  "events": [
-  {
-   "title": "Monatliche Jubiläumssonntage",
-   "subtitle": "mit Kirchen- und Klosterführung",
-   "start": "2026-10-11T10:00",
-   "end": null,
-   "venue": "Prämonstratenser-Kloster Roggenburg",
-   "street": "Klosterstraße 5",
-   "zip": "89297",
-   "city": "Roggenburg",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50665/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1287378251&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.27507,
-   "lon": 10.22868,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-cvfkql"
-  },
-  {
-   "title": "Offener Familiennachmittag im „werklabor“",
-   "subtitle": "Eltern mit Kindern ab 5 Jahren",
-   "start": "2026-10-11T15:00",
-   "end": null,
-   "venue": "Werklabor des Museum Ulm",
-   "street": "Neue Straße 92",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53322/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2058807016&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.39723,
-   "lon": 9.99432,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "-t9zode"
-  },
-  {
-   "title": "Barcelona - Paris - Ulm",
-   "subtitle": "Konzert zum 100. Geburtstags des Pianisten und Komponisten Jaime Padrós",
-   "start": "2026-10-11T17:00",
-   "end": null,
-   "venue": "Musikschule der Stadt Ulm, Konzertsaal",
-   "street": "Marktplatz 19",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53490/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-761197968&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.39625,
-   "lon": 9.99358,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-z56lzc"
-  },
-  {
-   "title": "La Juive (Die Jüdin)",
-   "subtitle": "Oper in fünf Akten, Musik von Fromental Halévy, Libretto von Eugène Scribe, In französischer Sprache mit deutschen Übertiteln",
-   "start": "2026-10-11T19:00",
-   "end": null,
-   "venue": "Theater Ulm",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-667079160&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "69xarj"
-  },
-  {
-   "title": "The Kickstarters",
-   "subtitle": "Die Erben des Rock&Roll",
-   "start": "2026-10-11T19:30",
-   "end": null,
-   "venue": "Fiddler’s Green Irish Pub",
-   "street": "Volkertshofener Straße 7A",
-   "zip": "89284",
-   "city": "Pfaffenhofen",
-   "price": "Abendkasse 12 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53165/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2011463731&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.35089,
-   "lon": 10.15547,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "9j2oxp"
-  },
-  {
-   "title": "Happy Moin",
-   "subtitle": "Online - Raus aus den Federn und rein in die Freude",
-   "start": "2026-10-12T06:30",
-   "end": null,
-   "venue": "Lachen mit Laura",
-   "street": "Bgm.-Schiele-Str. 10",
-   "zip": "89233",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.41111,
-   "lon": 10.02892,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "yi17z1"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -167,30 +24,6 @@
    ],
    "source": "ulm",
    "id": "-n5xw28"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-12T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "tceuhg"
   },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
@@ -238,6 +71,30 @@
    ],
    "source": "ulm",
    "id": "-qg0guo"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-12T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "z5bp3v"
   },
   {
    "title": "Märchen und Musik von klugen und mutigen Frauen",
@@ -427,6 +284,29 @@
    ],
    "source": "ulm",
    "id": "9nef6r"
+  },
+  {
+   "title": "Happy Moin",
+   "subtitle": "Online - Raus aus den Federn und rein in die Freude",
+   "start": "2026-10-13T06:30",
+   "end": null,
+   "venue": "Lachen mit Laura",
+   "street": "Bgm.-Schiele-Str. 10",
+   "zip": "89233",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41111,
+   "lon": 10.02892,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "xe518c"
   },
   {
    "title": "Fasziengymnastik - für jedes Alter",
@@ -5913,6 +5793,30 @@
    "id": "-vgtt9s"
   },
   {
+   "title": "La Juive (Die Jüdin)",
+   "subtitle": "Oper in fünf Akten, Musik von Fromental Halévy, Libretto von Eugène Scribe, In französischer Sprache mit deutschen Übertiteln",
+   "start": "2026-10-23T20:00",
+   "end": null,
+   "venue": "Theater Ulm",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-667079160&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-12senq"
+  },
+  {
    "title": "2000er Smash Hits!",
    "subtitle": "",
    "start": "2026-10-23T21:00",
@@ -6609,6 +6513,29 @@
    ],
    "source": "ulm",
    "id": "-k0zu97"
+  },
+  {
+   "title": "Feuerrot & Neonblau",
+   "subtitle": "Das Herbstferienprogramm in Ulm für Kinder und Jugendliche von 7 bis 17 Jahren",
+   "start": "2026-10-26T09:00",
+   "end": null,
+   "venue": "Obere Donaubastion",
+   "street": "Schillerstraße 1-4",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53385/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39262,
+   "lon": 9.98334,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "4g15sl"
   }
  ]
 }
