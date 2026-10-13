@@ -1,30 +1,7 @@
 {
- "generated": "2026-10-12T22:57:32.517Z",
- "count": 276,
+ "generated": "2026-10-13T11:45:15.799Z",
+ "count": 277,
  "events": [
-  {
-   "title": "Happy Moin",
-   "subtitle": "Online - Raus aus den Federn und rein in die Freude",
-   "start": "2026-10-13T06:30",
-   "end": null,
-   "venue": "Lachen mit Laura",
-   "street": "Bgm.-Schiele-Str. 10",
-   "zip": "89233",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.41111,
-   "lon": 10.02892,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "xe518c"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -47,54 +24,6 @@
    ],
    "source": "ulm",
    "id": "-txceup"
-  },
-  {
-   "title": "Fasziengymnastik - für jedes Alter",
-   "subtitle": "Faszien stärken ohne Faszienrolle",
-   "start": "2026-10-13T09:30",
-   "end": null,
-   "venue": "Johanneshaus",
-   "street": "Johannesplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Teilnahmebeitrag pro Treffen 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.39453,
-   "lon": 10.00008,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "lhhwg8"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-13T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-eokjv1"
   },
   {
    "title": "Ausstellung - Markus Botzenhart",
@@ -265,29 +194,6 @@
    "id": "bz361v"
   },
   {
-   "title": "Offene Beratung für Eltern",
-   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
-   "start": "2026-10-13T12:00",
-   "end": null,
-   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
-   "street": "Schaffnerstraße 18/1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40324,
-   "lon": 9.99371,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "vn0tfu"
-  },
-  {
    "title": "Ernst Barlach. Facetten der Liebe",
    "subtitle": "Sonderausstellung im Kunstmuseum",
    "start": "2026-10-13T13:00",
@@ -334,6 +240,30 @@
    ],
    "source": "ulm",
    "id": "-ctrqgn"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-13T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-8vnp8m"
   },
   {
    "title": "Café Lebenswert ist geöffnet für Jung und Alt",
@@ -663,6 +593,29 @@
    ],
    "source": "ulm",
    "id": "-fe9gla"
+  },
+  {
+   "title": "Happy Moin",
+   "subtitle": "Online - Raus aus den Federn und rein in die Freude",
+   "start": "2026-10-14T06:30",
+   "end": null,
+   "venue": "Lachen mit Laura",
+   "street": "Bgm.-Schiele-Str. 10",
+   "zip": "89233",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41111,
+   "lon": 10.02892,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "wa8uhn"
   },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
@@ -4564,6 +4517,53 @@
    "id": "-d73qys"
   },
   {
+   "title": "Fasziengymnastik - für jedes Alter",
+   "subtitle": "Faszien stärken ohne Faszienrolle",
+   "start": "2026-10-20T09:30",
+   "end": null,
+   "venue": "Johanneshaus",
+   "street": "Johannesplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Teilnahmebeitrag pro Treffen 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.39453,
+   "lon": 10.00008,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-prklqs"
+  },
+  {
+   "title": "Offene Beratung für Eltern",
+   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
+   "start": "2026-10-20T12:00",
+   "end": null,
+   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
+   "street": "Schaffnerstraße 18/1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40324,
+   "lon": 9.99371,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-tz20sy"
+  },
+  {
    "title": "Cover- und Overlock-Einweisung",
    "subtitle": "Gebündelte Ersteinweisung",
    "start": "2026-10-20T16:00",
@@ -5913,6 +5913,29 @@
    ],
    "source": "ulm",
    "id": "-g9ddm"
+  },
+  {
+   "title": "Mobiles Atelier mit Sanna Reitz",
+   "subtitle": "",
+   "start": "2026-10-24T16:00",
+   "end": null,
+   "venue": "PUTTE - Projektraum für aktuelle Kunst in Neu-Ulm",
+   "street": "Brückenstraße 2",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53700/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600351995&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39823,
+   "lon": 10.00425,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "oxal5o"
   },
   {
    "title": "Weinfest Blasmusik Gögglingen-Donaustetten e.V.",
