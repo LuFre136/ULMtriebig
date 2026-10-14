@@ -1,102 +1,7 @@
 {
- "generated": "2026-10-14T09:30:02.445Z",
- "count": 277,
+ "generated": "2026-10-14T15:07:28.122Z",
+ "count": 285,
  "events": [
-  {
-   "title": "Ulmer Wochenmarkt | Münsterplatz",
-   "subtitle": "Weil frisch einfach besser ist!",
-   "start": "2026-10-14T07:00",
-   "end": null,
-   "venue": "Münsterplatz Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "-mh66di"
-  },
-  {
-   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
-   "subtitle": "Radio selber machen statt einfach nur hören",
-   "start": "2026-10-14T07:00",
-   "end": null,
-   "venue": "Radio freeFM",
-   "street": "Platzgasse 18",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40057,
-   "lon": 9.9912,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "ycd4by"
-  },
-  {
-   "title": "Neu-Ulmer Wochenmarkt",
-   "subtitle": "",
-   "start": "2026-10-14T07:00",
-   "end": null,
-   "venue": "Petrusplatz",
-   "street": "Petrusplatz",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39401,
-   "lon": 9.99917,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "6mfnb"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-14T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "cbk3rm"
-  },
   {
    "title": "Ausstellung - Markus Botzenhart",
    "subtitle": "ALLES ist immer nur eine Frage des Stils",
@@ -266,30 +171,6 @@
    "id": "-3a955o"
   },
   {
-   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
-   "subtitle": "",
-   "start": "2026-10-14T12:00",
-   "end": null,
-   "venue": "Cafe Lebenswert",
-   "street": "Clara-Barton-Straße 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51285/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Vereine"
-   ],
-   "lat": 48.3767,
-   "lon": 10.00923,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-1acrgj"
-  },
-  {
    "title": "Solo-Show \"Long Stories Short ...\" by Jörg Döring",
    "subtitle": "„Paintings about Places, People and the Moments in Between“",
    "start": "2026-10-14T12:00",
@@ -384,53 +265,6 @@
    ],
    "source": "ulm",
    "id": "m38jm2"
-  },
-  {
-   "title": "Babytreff",
-   "subtitle": "Beratung durch Hebamme Rebecca Biesenecker",
-   "start": "2026-10-14T14:00",
-   "end": null,
-   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
-   "street": "Schaffnerstraße 18/1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53566/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=387996142&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40324,
-   "lon": 9.99371,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-dezr5j"
-  },
-  {
-   "title": "Kasperle auf dem Bauernhof",
-   "subtitle": "",
-   "start": "2026-10-14T15:00",
-   "end": null,
-   "venue": "Erstes Ulmer Kasperle Theater",
-   "street": "Büchsengasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40072,
-   "lon": 9.99167,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-ydnttx"
   },
   {
    "title": "Café Lebenswert ist geöffnet für Jung und Alt",
@@ -788,6 +622,53 @@
    "id": "v6cnqy"
   },
   {
+   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
+   "subtitle": "Radio selber machen statt einfach nur hören",
+   "start": "2026-10-15T07:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "rkyljh"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-15T10:00",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-vpfakv"
+  },
+  {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
    "subtitle": "",
    "start": "2026-10-15T11:30",
@@ -948,6 +829,30 @@
    ],
    "source": "ulm",
    "id": "tgppx9"
+  },
+  {
+   "title": "Kasperle auf dem Bauernhof",
+   "subtitle": "",
+   "start": "2026-10-15T15:00",
+   "end": null,
+   "venue": "Erstes Ulmer Kasperle Theater",
+   "street": "Büchsengasse 3",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40072,
+   "lon": 9.99167,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-sxbsxw"
   },
   {
    "title": "Kurs für Anfänger*innen: Binde dein eigenes Notiz-/Skizzenbuch",
@@ -2068,6 +1973,30 @@
    "id": "-v8vfvq"
   },
   {
+   "title": "Siegfried Kreitner",
+   "subtitle": "Minimalkinetik",
+   "start": "2026-10-16T19:00",
+   "end": null,
+   "venue": "Galerie Tobias Schrade",
+   "street": "Auf der Insel 2",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53740/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-810759768&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39631,
+   "lon": 9.98948,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-87ncga"
+  },
+  {
    "title": "Ein Abend mit Michael Moravek & Electric Traveling Show",
    "subtitle": "",
    "start": "2026-10-16T19:30",
@@ -2114,6 +2043,30 @@
    ],
    "source": "ulm",
    "id": "l3z5x5"
+  },
+  {
+   "title": "432-Band - Classic Rock Cover",
+   "subtitle": "",
+   "start": "2026-10-16T19:30",
+   "end": null,
+   "venue": "Pflugbrauerei Hörvelsingen",
+   "street": "Wirtsgasse 7",
+   "zip": "89129",
+   "city": "Langenau",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-584376858&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.4862,
+   "lon": 10.02768,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "8lhuoi"
   },
   {
    "title": "Himmelwärts und mittendrin",
@@ -2308,6 +2261,54 @@
    ],
    "source": "ulm",
    "id": "67a659"
+  },
+  {
+   "title": "Ulmer Wochenmarkt | Münsterplatz",
+   "subtitle": "Weil frisch einfach besser ist!",
+   "start": "2026-10-17T07:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-psuqll"
+  },
+  {
+   "title": "Neu-Ulmer Wochenmarkt",
+   "subtitle": "",
+   "start": "2026-10-17T07:00",
+   "end": null,
+   "venue": "Petrusplatz",
+   "street": "Petrusplatz",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39401,
+   "lon": 9.99917,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "tbelmi"
   },
   {
    "title": "Gras & Krempel mit Genussmarkt",
@@ -3976,6 +3977,29 @@
    "id": "scsolc"
   },
   {
+   "title": "Nähkurs",
+   "subtitle": "Für Einsteiger*innen und Fortgeschrittene",
+   "start": "2026-10-19T16:00",
+   "end": null,
+   "venue": "Café Vorfeld INN",
+   "street": "Steubenstraße 34",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Erwachsene 30 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53746/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-34264606&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39036,
+   "lon": 10.00766,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "yk5k9q"
+  },
+  {
    "title": "Technik verstehen? Gemeinsam gehts einfacher",
    "subtitle": "Unsere Digitalmentor*innen machen Sie fit im Umgang mit Smartphone, Tablet, Laptop und PC",
    "start": "2026-10-19T17:00",
@@ -4727,6 +4751,30 @@
    ],
    "source": "ulm",
    "id": "c53h7g"
+  },
+  {
+   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
+   "subtitle": "",
+   "start": "2026-10-21T12:00",
+   "end": null,
+   "venue": "Cafe Lebenswert",
+   "street": "Clara-Barton-Straße 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51285/",
+   "image": "",
+   "categories": [
+    "Freizeit",
+    "Vereine"
+   ],
+   "lat": 48.3767,
+   "lon": 10.00923,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "6vk8ih"
   },
   {
    "title": "Sprachcafé für Eltern und Kinder",
@@ -6585,6 +6633,145 @@
    ],
    "source": "ulm",
    "id": "xe46zq"
+  },
+  {
+   "title": "Babytreff",
+   "subtitle": "Beratung durch Hebamme Rebecca Biesenecker",
+   "start": "2026-10-28T14:00",
+   "end": null,
+   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
+   "street": "Schaffnerstraße 18/1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53566/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=387996142&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40324,
+   "lon": 9.99371,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-1n78hm"
+  },
+  {
+   "title": "Kuschelrobbe - Nähkurs für Anfänger*innen",
+   "subtitle": "Nähen lernen und was Kuscheliges mit nach Hause nehmen",
+   "start": "2026-10-28T14:30",
+   "end": null,
+   "venue": "Makerspace Zentralbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53707/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1268773991&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "sjq1mn"
+  },
+  {
+   "title": "Kasperle und das Schlossgespenst",
+   "subtitle": "",
+   "start": "2026-10-28T15:00",
+   "end": null,
+   "venue": "Erstes Ulmer Kasperle Theater",
+   "street": "Büchsengasse 3",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/4084/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40072,
+   "lon": 9.99167,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-2trnox"
+  },
+  {
+   "title": "Herbstlabor Natur - warum Blätter bunt werden und wie sie sich zersetzen",
+   "subtitle": "Herbst- Ferienprogramm im Botanischen Garten",
+   "start": "2026-10-28T15:00",
+   "end": null,
+   "venue": "Botanischer Garten der Universität Ulm",
+   "street": "Hans-Krebs-Weg",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "6 6 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51687/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.42354,
+   "lon": 9.95926,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ea35t7"
+  },
+  {
+   "title": "AUSGEBUCHT: Kreativ im Herbst",
+   "subtitle": "Handlettering für Kinder (ab 8 J.)",
+   "start": "2026-10-28T15:00",
+   "end": null,
+   "venue": "Kinderbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53537/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1397349762&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "spammr"
+  },
+  {
+   "title": "Wilde Waldzeit – Das große Herbstabenteuer",
+   "subtitle": "Im Wald – Herbstferienaktion für (Groß)Eltern und Kindern von 5 – 9 Jahre",
+   "start": "2026-10-28T15:00",
+   "end": null,
+   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
+   "street": "Schaffnerstraße 18/1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53720/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-223678226&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40324,
+   "lon": 9.99371,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-yd1rlz"
   }
  ]
 }
