@@ -1,30 +1,7 @@
 {
- "generated": "2026-10-13T21:13:44.418Z",
- "count": 278,
+ "generated": "2026-10-14T09:30:02.445Z",
+ "count": 277,
  "events": [
-  {
-   "title": "Happy Moin",
-   "subtitle": "Online - Raus aus den Federn und rein in die Freude",
-   "start": "2026-10-14T06:30",
-   "end": null,
-   "venue": "Lachen mit Laura",
-   "street": "Bgm.-Schiele-Str. 10",
-   "zip": "89233",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.41111,
-   "lon": 10.02892,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "wa8uhn"
-  },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
    "subtitle": "Weil frisch einfach besser ist!",
@@ -786,6 +763,29 @@
    ],
    "source": "ulm",
    "id": "t1fk2z"
+  },
+  {
+   "title": "Happy Moin",
+   "subtitle": "Online - Raus aus den Federn und rein in die Freude",
+   "start": "2026-10-15T06:30",
+   "end": null,
+   "venue": "Lachen mit Laura",
+   "street": "Bgm.-Schiele-Str. 10",
+   "zip": "89233",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386511721&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41111,
+   "lon": 10.02892,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "v6cnqy"
   },
   {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
@@ -5201,29 +5201,6 @@
    ],
    "source": "ulm",
    "id": "3uhsac"
-  },
-  {
-   "title": "Kulturtasche/Mäppchen - Nähkurs für Anfänger*innen",
-   "subtitle": "Nähen lernen und was Schönes mit nach Hause nehmen",
-   "start": "2026-10-23T15:00",
-   "end": null,
-   "venue": "Makerspace Zentralbibliothek Ulm",
-   "street": "Vestgasse 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52553/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=807040043&width=600&height=-1",
-   "categories": [
-    "Bildung"
-   ],
-   "lat": 48.39672,
-   "lon": 9.99263,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-8ywj30"
   },
   {
    "title": "Hermann-Hesse-Besinnungsweg",
