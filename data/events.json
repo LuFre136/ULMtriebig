@@ -1,79 +1,7 @@
 {
- "generated": "2026-10-14T20:11:34.222Z",
- "count": 284,
+ "generated": "2026-10-15T09:08:04.569Z",
+ "count": 282,
  "events": [
-  {
-   "title": "HPU - das Chamäleon unter den Stoffwechsel- und Entgiftungsstörungen",
-   "subtitle": "",
-   "start": "2026-10-14T18:00",
-   "end": null,
-   "venue": "Naturheilverein Ulm/Neu-Ulm e.V.",
-   "street": "Söflinger Straße 210",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Erwachsene/adult 10–15 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52581/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-331563026&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.39453,
-   "lon": 9.96238,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-xbeo2n"
-  },
-  {
-   "title": "John Garner Band",
-   "subtitle": "Inide-Folk-Rock aus Augsburg",
-   "start": "2026-10-14T19:30",
-   "end": null,
-   "venue": "Fiddler’s Green Irish Pub",
-   "street": "Volkertshofener Straße 7A",
-   "zip": "89284",
-   "city": "Pfaffenhofen",
-   "price": "Abendkasse 26 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53164/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=77865416&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.35089,
-   "lon": 10.15547,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-o89p9g"
-  },
-  {
-   "title": "Nachtwächter-Führung",
-   "subtitle": "Erlebnisführung im historischen Gewand",
-   "start": "2026-10-14T21:00",
-   "end": null,
-   "venue": "Treffpunkt: Gerberhaus, Weinhofberg",
-   "street": "Weinhofberg 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene 2025/26 15 € · Ermäßigt 2025/26 11 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38833/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600012964&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39661,
-   "lon": 9.98915,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "j4j97d"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -4798,6 +4726,30 @@
    ],
    "source": "ulm",
    "id": "-3ro1mt"
+  },
+  {
+   "title": "Nachtwächter-Führung",
+   "subtitle": "Erlebnisführung im historischen Gewand",
+   "start": "2026-10-21T21:00",
+   "end": null,
+   "venue": "Treffpunkt: Gerberhaus, Weinhofberg",
+   "street": "Weinhofberg 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene 2025/26 15 € · Ermäßigt 2025/26 11 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38833/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600012964&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39661,
+   "lon": 9.98915,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "ofvvxx"
   },
   {
    "title": "Mittwochsjam",
