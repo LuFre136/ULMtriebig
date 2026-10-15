@@ -1,54 +1,7 @@
 {
- "generated": "2026-10-15T09:08:04.569Z",
- "count": 282,
+ "generated": "2026-10-15T14:59:52.149Z",
+ "count": 285,
  "events": [
-  {
-   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
-   "subtitle": "Radio selber machen statt einfach nur hören",
-   "start": "2026-10-15T07:00",
-   "end": null,
-   "venue": "Radio freeFM",
-   "street": "Platzgasse 18",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40057,
-   "lon": 9.9912,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "rkyljh"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-15T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-vpfakv"
-  },
   {
    "title": "Ausstellung - Markus Botzenhart",
    "subtitle": "ALLES ist immer nur eine Frage des Stils",
@@ -218,29 +171,6 @@
    "id": "-ijlgd7"
   },
   {
-   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
-   "subtitle": "",
-   "start": "2026-10-15T11:30",
-   "end": null,
-   "venue": "Cafe Lebenswert",
-   "street": "Clara-Barton-Straße 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48813/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=340126813&width=600&height=-1",
-   "categories": [
-    "Stadt"
-   ],
-   "lat": 48.3767,
-   "lon": 10.00923,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-neqs3o"
-  },
-  {
    "title": "Solo-Show \"Long Stories Short ...\" by Jörg Döring",
    "subtitle": "„Paintings about Places, People and the Moments in Between“",
    "start": "2026-10-15T12:00",
@@ -287,52 +217,6 @@
    ],
    "source": "ulm",
    "id": "r17b70"
-  },
-  {
-   "title": "Lust auf einen Spaziergang?",
-   "subtitle": "Gemeinsam unterwegs in Ulm",
-   "start": "2026-10-15T13:30",
-   "end": null,
-   "venue": "Quartierszentrale",
-   "street": "Stifterweg 98",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51878/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-140722940&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40907,
-   "lon": 9.95956,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "3lp9rh"
-  },
-  {
-   "title": "Quartierstreff Mitte/Ost",
-   "subtitle": "Gemeinsam weniger allein",
-   "start": "2026-10-15T13:30",
-   "end": null,
-   "venue": "Bürgerhaus Mitte, Cafeteria (EG)",
-   "street": "Schaffnerstraße 17",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40354,
-   "lon": 9.99427,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-oykbsj"
   },
   {
    "title": "Mobilität im Wandel",
@@ -407,29 +291,6 @@
    "id": "-y5fais"
   },
   {
-   "title": "Lasercutter (X-Tool)-Einweisung",
-   "subtitle": "Gebündelte Ersteinweisung",
-   "start": "2026-10-15T15:00",
-   "end": null,
-   "venue": "Makerspace Zentralbibliothek Ulm",
-   "street": "Vestgasse 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49634/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=385221991&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39672,
-   "lon": 9.99263,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-e2litu"
-  },
-  {
    "title": "Hausaufgabenhilfe für Grundschulkinder in der Friedenskirche Neu-Ulm",
    "subtitle": "",
    "start": "2026-10-15T15:00",
@@ -474,30 +335,6 @@
    ],
    "source": "ulm",
    "id": "tgppx9"
-  },
-  {
-   "title": "Kasperle auf dem Bauernhof",
-   "subtitle": "",
-   "start": "2026-10-15T15:00",
-   "end": null,
-   "venue": "Erstes Ulmer Kasperle Theater",
-   "street": "Büchsengasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40072,
-   "lon": 9.99167,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-sxbsxw"
   },
   {
    "title": "Kurs für Anfänger*innen: Binde dein eigenes Notiz-/Skizzenbuch",
@@ -1001,6 +838,29 @@
    "id": "k681qp"
   },
   {
+   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
+   "subtitle": "Radio selber machen statt einfach nur hören",
+   "start": "2026-10-16T07:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ktk2r0"
+  },
+  {
    "title": "Café für alle",
    "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
    "start": "2026-10-16T09:00",
@@ -1022,6 +882,30 @@
    ],
    "source": "ulm",
    "id": "qv62xn"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-16T10:00",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-4pamy8"
   },
   {
    "title": "Känguru-Kunst in \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
@@ -1141,6 +1025,30 @@
    ],
    "source": "ulm",
    "id": "fz1r3k"
+  },
+  {
+   "title": "Kasperle auf dem Bauernhof",
+   "subtitle": "",
+   "start": "2026-10-16T15:00",
+   "end": null,
+   "venue": "Erstes Ulmer Kasperle Theater",
+   "street": "Büchsengasse 3",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40072,
+   "lon": 9.99167,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-ngzs1v"
   },
   {
    "title": "Begegnungscafe",
@@ -1283,6 +1191,30 @@
    ],
    "source": "ulm",
    "id": "-qdpmaj"
+  },
+  {
+   "title": "Teatro Offener Treff",
+   "subtitle": "Theater spielen und Spaß haben",
+   "start": "2026-10-16T17:30",
+   "end": null,
+   "venue": "Bürgerhaus Mitte, Saal (1.OG)",
+   "street": "Schaffnerstraße 17",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53748/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=223974048&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40354,
+   "lon": 9.99427,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-wap4he"
   },
   {
    "title": "Freitags 18 Uhr - Spazieren und Leute treffen",
@@ -3527,6 +3459,30 @@
    "id": "-k4y0su"
   },
   {
+   "title": "Eishockey | Devils Ulm/Neu-Ulm",
+   "subtitle": "welcome to devilstown",
+   "start": "2026-10-18T18:00",
+   "end": null,
+   "venue": "Eissporthalle Donaubad -Devils Ulm/Neu-Ulm",
+   "street": "Wiblinger Straße 57",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos · Sitzplatz 10–15 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/44773/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1705856690&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.38482,
+   "lon": 9.98495,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-47rfl0"
+  },
+  {
    "title": "Maria Rosendorfsky & J. Emanuel Pichler: Was machst Du mit dem Knie, lieber Hans?",
    "subtitle": "Liederabend",
    "start": "2026-10-18T19:00",
@@ -3620,6 +3576,29 @@
    ],
    "source": "ulm",
    "id": "scsolc"
+  },
+  {
+   "title": "Quartierstreff Mitte/Ost",
+   "subtitle": "Gemeinsam weniger allein",
+   "start": "2026-10-19T13:30",
+   "end": null,
+   "venue": "Bürgerhaus Mitte, Cafeteria (EG)",
+   "street": "Schaffnerstraße 17",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40354,
+   "lon": 9.99427,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "p2jm1"
   },
   {
    "title": "Nähkurs",
@@ -4774,6 +4753,29 @@
    ],
    "source": "ulm",
    "id": "2ngi91"
+  },
+  {
+   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
+   "subtitle": "",
+   "start": "2026-10-22T11:30",
+   "end": null,
+   "venue": "Cafe Lebenswert",
+   "street": "Clara-Barton-Straße 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48813/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=340126813&width=600&height=-1",
+   "categories": [
+    "Stadt"
+   ],
+   "lat": 48.3767,
+   "lon": 10.00923,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-f8ts4o"
   },
   {
    "title": "Die Pest in Ulm",
@@ -6491,6 +6493,29 @@
    "id": "xe46zq"
   },
   {
+   "title": "Happy Dream",
+   "subtitle": "Online - Lachen statt Schäfchen zählen",
+   "start": "2026-10-27T20:00",
+   "end": null,
+   "venue": "Lachen mit Laura - Online-Veranstaltung",
+   "street": "Bgm.-Schiele-Str. 10",
+   "zip": "89233",
+   "city": "Neu-Ulm",
+   "price": "Erwachsene/adults 29,50 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53433/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1386506961&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41111,
+   "lon": 10.02892,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ajz8f3"
+  },
+  {
    "title": "Babytreff",
    "subtitle": "Beratung durch Hebamme Rebecca Biesenecker",
    "start": "2026-10-28T14:00",
@@ -6700,6 +6725,53 @@
    ],
    "source": "ulm",
    "id": "zacrn5"
+  },
+  {
+   "title": "Lasercutter (X-Tool)-Einweisung",
+   "subtitle": "Gebündelte Ersteinweisung",
+   "start": "2026-10-29T15:00",
+   "end": null,
+   "venue": "Makerspace Zentralbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49634/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=385221991&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-kfekgl"
+  },
+  {
+   "title": "Schlaganfall-Symposium – Mit Zuversicht zurück in den Alltag",
+   "subtitle": "Informationsnachmittag der Selbsthilfegruppe Schlaganfall Ulm zum Weltschlaganfalltag",
+   "start": "2026-10-29T15:00",
+   "end": null,
+   "venue": "Stadthaus Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53604/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1384657355&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-hu228r"
   }
  ]
 }
