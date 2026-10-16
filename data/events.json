@@ -1,77 +1,7 @@
 {
- "generated": "2026-10-16T09:00:23.837Z",
- "count": 275,
+ "generated": "2026-10-16T14:50:38.352Z",
+ "count": 281,
  "events": [
-  {
-   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
-   "subtitle": "Radio selber machen statt einfach nur hören",
-   "start": "2026-10-16T07:00",
-   "end": null,
-   "venue": "Radio freeFM",
-   "street": "Platzgasse 18",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40057,
-   "lon": 9.9912,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "ktk2r0"
-  },
-  {
-   "title": "Café für alle",
-   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
-   "start": "2026-10-16T09:00",
-   "end": null,
-   "venue": "Stadtteilbüro am Tannenplatz",
-   "street": "Pfullendorfer Straße 7",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35118,
-   "lon": 9.97476,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "qv62xn"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-16T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-4pamy8"
-  },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
@@ -143,30 +73,6 @@
    ],
    "source": "ulm",
    "id": "-k8mmvi"
-  },
-  {
-   "title": "Känguru-Kunst in \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
-   "subtitle": "",
-   "start": "2026-10-16T11:00",
-   "end": null,
-   "venue": "kunsthalle weishaupt",
-   "street": "Hans-und-Sophie-Scholl-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52111/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-550452243&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39746,
-   "lon": 9.99396,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "45a1qi"
   },
   {
    "title": "Die Einsteins - Museum einer Ulmer Familie",
@@ -263,29 +169,6 @@
    ],
    "source": "ulm",
    "id": "-cywk14"
-  },
-  {
-   "title": "Lust auf einen Spaziergang?",
-   "subtitle": "",
-   "start": "2026-10-16T13:00",
-   "end": null,
-   "venue": "Eisenkrautweg 12",
-   "street": "Eisenkrautweg 12",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51885/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-823219352&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.41322,
-   "lon": 9.96235,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-nz8tjn"
   },
   {
    "title": "Ernst Barlach. Facetten der Liebe",
@@ -432,52 +315,28 @@
    "id": "-75amw5"
   },
   {
-   "title": "TEXTILE STORIES",
-   "subtitle": "Workshop",
-   "start": "2026-10-16T15:00",
+   "title": "Schlittschuhlaufen",
+   "subtitle": "Zeit für Ihren Wintertraum",
+   "start": "2026-10-16T14:00",
    "end": null,
-   "venue": "NEUE 8",
-   "street": "Neue Straße 8",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53605/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-279761079&width=600&height=-1",
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
    "categories": [
     "Freizeit",
-    "Feste & Events"
+    "Sport"
    ],
-   "lat": 48.39521,
-   "lon": 9.98192,
+   "lat": 48.38585,
+   "lon": 9.98554,
    "types": [
-    "feste"
+    "sport"
    ],
    "source": "ulm",
-   "id": "fz1r3k"
-  },
-  {
-   "title": "Kasperle auf dem Bauernhof",
-   "subtitle": "",
-   "start": "2026-10-16T15:00",
-   "end": null,
-   "venue": "Erstes Ulmer Kasperle Theater",
-   "street": "Büchsengasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40072,
-   "lon": 9.99167,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-ngzs1v"
+   "id": "pb1ck0"
   },
   {
    "title": "Begegnungscafe",
@@ -502,29 +361,6 @@
    ],
    "source": "ulm",
    "id": "-n4fvlb"
-  },
-  {
-   "title": "Freitagsvorlesen in der Kinderbibliothek",
-   "subtitle": "mit Abenteuer Lesen",
-   "start": "2026-10-16T15:30",
-   "end": null,
-   "venue": "Kinderbibliothek Ulm",
-   "street": "Vestgasse 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38828/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-658880330&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39672,
-   "lon": 9.99263,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-kpwvwj"
   },
   {
    "title": "Hofnarr in Ulm, Narr ohne Hof NEU!!!",
@@ -979,6 +815,30 @@
    "id": "-v8vfvq"
   },
   {
+   "title": "TEXTILE STORIES",
+   "subtitle": "UPCYCLING WORKSHOP",
+   "start": "2026-10-16T19:00",
+   "end": null,
+   "venue": "NEUE 8",
+   "street": "Neue Straße 8",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53606/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-573057848&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.39521,
+   "lon": 9.98192,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "-vv9t3g"
+  },
+  {
    "title": "Siegfried Kreitner",
    "subtitle": "Minimalkinetik",
    "start": "2026-10-16T19:00",
@@ -1001,6 +861,31 @@
    ],
    "source": "ulm",
    "id": "-87ncga"
+  },
+  {
+   "title": "Groove on Ice",
+   "subtitle": "Die Oldies Night",
+   "start": "2026-10-16T19:00",
+   "end": null,
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Eintritt 5–7 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53758/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-69429213&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.38585,
+   "lon": 9.98554,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "jeaemy"
   },
   {
    "title": "Ein Abend mit Michael Moravek & Electric Traveling Show",
@@ -1364,6 +1249,30 @@
    "id": "-9ahrhq"
   },
   {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-17T10:00",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "mau0of"
+  },
+  {
    "title": "TEXTILE STORIES",
    "subtitle": "SOMA LAB",
    "start": "2026-10-17T10:00",
@@ -1552,6 +1461,30 @@
    ],
    "source": "ulm",
    "id": "-2xcu8q"
+  },
+  {
+   "title": "Kasperle auf dem Bauernhof",
+   "subtitle": "",
+   "start": "2026-10-17T15:00",
+   "end": null,
+   "venue": "Erstes Ulmer Kasperle Theater",
+   "street": "Büchsengasse 3",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40072,
+   "lon": 9.99167,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-i0nr5u"
   },
   {
    "title": "Tik Tok",
@@ -1887,6 +1820,55 @@
    ],
    "source": "ulm",
    "id": "-x342ar"
+  },
+  {
+   "title": "Eisdisco - Der coolste Samstagabend!",
+   "subtitle": "Eissportanlage am Donaubad",
+   "start": "2026-10-17T19:00",
+   "end": null,
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Familie groß 17,50 € · Familie klein 11 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53756/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-327559323&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.38585,
+   "lon": 9.98554,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "aje59c"
+  },
+  {
+   "title": "Sperrstunde 2.0",
+   "subtitle": "Eins ist klar: Es wird mindestens genauso ausgefallen & wild wie letztes Mal.",
+   "start": "2026-10-17T19:00",
+   "end": null,
+   "venue": "Parkhaus am Bahnhof",
+   "street": "Bahnhofplatz 8",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53386/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=812530282&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39958,
+   "lon": 9.98387,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-4gv9oe"
   },
   {
    "title": "Improtheater: \"Impro und Wein\"",
@@ -2982,6 +2964,29 @@
    ],
    "source": "ulm",
    "id": "qlxmny"
+  },
+  {
+   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
+   "subtitle": "Radio selber machen statt einfach nur hören",
+   "start": "2026-10-19T07:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "jcidl"
   },
   {
    "title": "Bücherbabys in der Stadtteilbibliothek Weststadt",
@@ -4587,6 +4592,52 @@
    "id": "-6okwb"
   },
   {
+   "title": "Café für alle",
+   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
+   "start": "2026-10-23T09:00",
+   "end": null,
+   "venue": "Stadtteilbüro am Tannenplatz",
+   "street": "Pfullendorfer Straße 7",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35118,
+   "lon": 9.97476,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "6l51vj"
+  },
+  {
+   "title": "Lust auf einen Spaziergang?",
+   "subtitle": "",
+   "start": "2026-10-23T13:00",
+   "end": null,
+   "venue": "Eisenkrautweg 12",
+   "street": "Eisenkrautweg 12",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51885/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-823219352&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41322,
+   "lon": 9.96235,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "g0tzo1"
+  },
+  {
    "title": "Frauenwirtschaftstag 2026",
    "subtitle": "Stark. Selbstbestimmt. Gemeinsam Zukunft gestalten.",
    "start": "2026-10-23T13:00",
@@ -4679,6 +4730,29 @@
    ],
    "source": "ulm",
    "id": "3uhsac"
+  },
+  {
+   "title": "Freitagsvorlesen in der Kinderbibliothek",
+   "subtitle": "mit Abenteuer Lesen",
+   "start": "2026-10-23T15:30",
+   "end": null,
+   "venue": "Kinderbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38828/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-658880330&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "3dqcpt"
   },
   {
    "title": "Hermann-Hesse-Besinnungsweg",
@@ -5466,6 +5540,30 @@
    ],
    "source": "ulm",
    "id": "-70sk1q"
+  },
+  {
+   "title": "The Blues Mothers LIVE",
+   "subtitle": "Ulmer Bluesrock Urgestein LIVE",
+   "start": "2026-10-24T20:00",
+   "end": null,
+   "venue": "Schlicker Kneipe & Kultur",
+   "street": "Obere Dorfstr. 1",
+   "zip": "89547",
+   "city": "Gerstetten",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53753/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-716912826&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.59048,
+   "lon": 10.10557,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "ygn55x"
   },
   {
    "title": "SHINE – Gala Edition",
@@ -6536,6 +6634,52 @@
    ],
    "source": "ulm",
    "id": "-80ym17"
+  },
+  {
+   "title": "Das Grüffelokind",
+   "subtitle": "Die Junge Ulmer Bühne liest vor (ab 4 J.)",
+   "start": "2026-10-30T15:00",
+   "end": null,
+   "venue": "Kinderbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53535/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1139108036&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-jd5ztk"
+  },
+  {
+   "title": "Stickmaschinen-Einweisung",
+   "subtitle": "Gebündelte Ersteinweinsung",
+   "start": "2026-10-30T15:30",
+   "end": null,
+   "venue": "Makerspace Zentralbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49489/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=572664673&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-27tm00"
   }
  ]
 }
