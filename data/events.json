@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-15T19:53:15.021Z",
- "count": 276,
+ "generated": "2026-10-16T09:00:23.837Z",
+ "count": 275,
  "events": [
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
@@ -1887,30 +1887,6 @@
    ],
    "source": "ulm",
    "id": "-x342ar"
-  },
-  {
-   "title": "Sperrstunde 2.0",
-   "subtitle": "mindestens genauso wild wie beim letzten Mal",
-   "start": "2026-10-17T19:00",
-   "end": null,
-   "venue": "wird noch bekanntgegeben",
-   "street": "",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53386/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=812530282&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.40397,
-   "lon": 10.00001,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-vnx3sb"
   },
   {
    "title": "Improtheater: \"Impro und Wein\"",
