@@ -1,296 +1,7 @@
 {
- "generated": "2026-10-16T19:33:27.053Z",
- "count": 279,
+ "generated": "2026-10-17T08:32:37.753Z",
+ "count": 276,
  "events": [
-  {
-   "title": "Schlittschuhlaufen",
-   "subtitle": "Zeit für Ihren Wintertraum",
-   "start": "2026-10-16T14:00",
-   "end": null,
-   "venue": "Eissportanlage des Donaubad",
-   "street": "Wiblingerstr. 55",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.38585,
-   "lon": 9.98554,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "pb1ck0"
-  },
-  {
-   "title": "Open 3D-Drucker Lab",
-   "subtitle": "Offenes 3D Drucken für alle",
-   "start": "2026-10-16T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "rtmt52"
-  },
-  {
-   "title": "Fashion Lab",
-   "subtitle": "Nähen - Upcyceln - Reparieren",
-   "start": "2026-10-16T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "eddf8k"
-  },
-  {
-   "title": "Open Game Lab",
-   "subtitle": "Virtual Reality - Indie und Retro Gaming",
-   "start": "2026-10-16T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-c43ih8"
-  },
-  {
-   "title": "Open Fab Lab",
-   "subtitle": "Repair, Lasercutten und Löten",
-   "start": "2026-10-16T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-d7c7v3"
-  },
-  {
-   "title": "Heinrich Del Core - Juhu, meine Frau wird Oma!",
-   "subtitle": "",
-   "start": "2026-10-16T19:00",
-   "end": null,
-   "venue": "Birkenlauhalle",
-   "street": "Blaubeurer Straße 70",
-   "zip": "89155",
-   "city": "Erbach",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53135/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1131265208&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.34924,
-   "lon": 9.81612,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "tgi8k7"
-  },
-  {
-   "title": "Groove on Ice",
-   "subtitle": "Die Oldies Night",
-   "start": "2026-10-16T19:00",
-   "end": null,
-   "venue": "Eissportanlage des Donaubad",
-   "street": "Wiblingerstr. 55",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Eintritt 5–7 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53758/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-69429213&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.38585,
-   "lon": 9.98554,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "jeaemy"
-  },
-  {
-   "title": "Himmelwärts und mittendrin",
-   "subtitle": "Kabarett mit Marlies Blume",
-   "start": "2026-10-16T20:00",
-   "end": null,
-   "venue": "Haus der Begegnung",
-   "street": "Grüner Hof 7",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Eintritt 10–15 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53083/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1943828112&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39736,
-   "lon": 9.99715,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "qreeyk"
-  },
-  {
-   "title": "ULMFASSBAR",
-   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
-   "start": "2026-10-16T20:00",
-   "end": null,
-   "venue": "Florian Zimmer Theater",
-   "street": "Grethe-Weiser-Straße 2/1",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.38393,
-   "lon": 10.00759,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "19694v"
-  },
-  {
-   "title": "Wie es euch gefällt",
-   "subtitle": "Von William Shakespeare, in einer Neuübersetzung von Sebastian Schug",
-   "start": "2026-10-16T20:00",
-   "end": null,
-   "venue": "Theater Ulm, GROSSES HAUS",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53678/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-152812412&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-mmc2l1"
-  },
-  {
-   "title": "#love90’s | Blacklight Edition",
-   "subtitle": "",
-   "start": "2026-10-16T22:30",
-   "end": null,
-   "venue": "Cocomo Club Ulm",
-   "street": "Hirschstraße 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53444/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1224311113&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.39889,
-   "lon": 9.98925,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-szjomb"
-  },
-  {
-   "title": "ABGESAGT - Jahreskonzert des Ulmer Zupforchesters",
-   "subtitle": "",
-   "start": "2026-10-17T00:00",
-   "end": null,
-   "venue": "Lukaskirche Ulm",
-   "street": "Hermann-Stehr-Weg 3",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51971/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.40724,
-   "lon": 9.96261,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "67a659"
-  },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
    "subtitle": "Weil frisch einfach besser ist!",
@@ -866,6 +577,30 @@
    "id": "t9qy3c"
   },
   {
+   "title": "Schlittschuhlaufen",
+   "subtitle": "Zeit für Ihren Wintertraum",
+   "start": "2026-10-17T14:00",
+   "end": null,
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.38585,
+   "lon": 9.98554,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-h6rnu7"
+  },
+  {
    "title": "Samstagsnachmittag - Spazieren und Leute treffen",
    "subtitle": "peerwalk",
    "start": "2026-10-17T15:00",
@@ -911,6 +646,30 @@
    ],
    "source": "ulm",
    "id": "-2xcu8q"
+  },
+  {
+   "title": "ULMFASSBAR",
+   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
+   "start": "2026-10-17T15:00",
+   "end": null,
+   "venue": "Florian Zimmer Theater",
+   "street": "Grethe-Weiser-Straße 2/1",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
+   "image": "",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.38393,
+   "lon": 10.00759,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "e529c4"
   },
   {
    "title": "Kasperle auf dem Bauernhof",
@@ -4514,6 +4273,101 @@
    "id": "-xn7nuo"
   },
   {
+   "title": "Open 3D-Drucker Lab",
+   "subtitle": "Offenes 3D Drucken für alle",
+   "start": "2026-10-23T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-gd9rdq"
+  },
+  {
+   "title": "Fashion Lab",
+   "subtitle": "Nähen - Upcyceln - Reparieren",
+   "start": "2026-10-23T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-ttj5a8"
+  },
+  {
+   "title": "Open Game Lab",
+   "subtitle": "Virtual Reality - Indie und Retro Gaming",
+   "start": "2026-10-23T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "eq3yz4"
+  },
+  {
+   "title": "Open Fab Lab",
+   "subtitle": "Repair, Lasercutten und Löten",
+   "start": "2026-10-23T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "dmv9l9"
+  },
+  {
    "title": "\"Musik gegen das Vergessen\" - Vortrag von Stephani Maser (erfahrene Ergotherapeutin und Validationstrainerin)",
    "subtitle": "InfoTREFF \"Teilhabe am Leben - Demenzcafé\"",
    "start": "2026-10-23T18:00",
@@ -5108,6 +4962,30 @@
    ],
    "source": "ulm",
    "id": "-3b8b6w"
+  },
+  {
+   "title": "Wie es euch gefällt",
+   "subtitle": "Von William Shakespeare, in einer Neuübersetzung von Sebastian Schug",
+   "start": "2026-10-24T19:00",
+   "end": null,
+   "venue": "Theater Ulm, GROSSES HAUS",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53678/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-152812412&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-8kwote"
   },
   {
    "title": "Musa Dagh",
@@ -6627,6 +6505,55 @@
    ],
    "source": "ulm",
    "id": "-6qfts"
+  },
+  {
+   "title": "HALLOWEEN! Part 1",
+   "subtitle": "",
+   "start": "2026-10-30T21:00",
+   "end": null,
+   "venue": "Cocomo Club Ulm",
+   "street": "Hirschstraße 12",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53449/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1869699618&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.39889,
+   "lon": 9.98925,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "6qamie"
+  },
+  {
+   "title": "Einführung in die Gewaltfreie Kommunikation",
+   "subtitle": "Veränderung beginnt in Dir – Einführungsseminar",
+   "start": "2026-10-31T09:30",
+   "end": null,
+   "venue": "Martinusheim",
+   "street": "Dreifaltigkeitsweg 21",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50446/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1282682776&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.35821,
+   "lon": 9.98022,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "ua5rv2"
   }
  ]
 }
