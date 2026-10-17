@@ -1,55 +1,7 @@
 {
- "generated": "2026-10-17T08:32:37.753Z",
- "count": 276,
+ "generated": "2026-10-17T13:42:32.751Z",
+ "count": 274,
  "events": [
-  {
-   "title": "Ulmer Wochenmarkt | Münsterplatz",
-   "subtitle": "Weil frisch einfach besser ist!",
-   "start": "2026-10-17T07:00",
-   "end": null,
-   "venue": "Münsterplatz Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "-psuqll"
-  },
-  {
-   "title": "Neu-Ulmer Wochenmarkt",
-   "subtitle": "",
-   "start": "2026-10-17T07:00",
-   "end": null,
-   "venue": "Petrusplatz",
-   "street": "Petrusplatz",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39401,
-   "lon": 9.99917,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "tbelmi"
-  },
   {
    "title": "Gras & Krempel mit Genussmarkt",
    "subtitle": "Der Name ist Programm: Gräservielfalt, Gartenflohmarkt und ein spannendes Rahmenprogramm.",
@@ -96,30 +48,6 @@
    ],
    "source": "ulm",
    "id": "-9ahrhq"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "mau0of"
   },
   {
    "title": "Prophetieseminar",
@@ -218,30 +146,6 @@
    "id": "-aabq48"
   },
   {
-   "title": "TEXTILE STORIES",
-   "subtitle": "SOMA LAB",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "NEUE 8",
-   "street": "Neue Straße 8",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53607/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-866463157&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.39521,
-   "lon": 9.98192,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "e54abu"
-  },
-  {
    "title": "Ernst Barlach. Facetten der Liebe",
    "subtitle": "Sonderausstellung im Kunstmuseum",
    "start": "2026-10-17T10:00",
@@ -266,30 +170,6 @@
    "id": "o25m6p"
   },
   {
-   "title": "Kinder-Hochschule: Von Planeten, Sonnen und schwarzen Löchern – ein Blick durch das Teleskop und darüber hinaus",
-   "subtitle": "",
-   "start": "2026-10-17T10:30",
-   "end": null,
-   "venue": "Realschule Blaustein, Mensa",
-   "street": "Felsenstr. 10",
-   "zip": "89134",
-   "city": "Blaustein",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53647/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=598281634&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.41752,
-   "lon": 9.92305,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-xe56ze"
-  },
-  {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
    "subtitle": "",
    "start": "2026-10-17T11:00",
@@ -312,29 +192,6 @@
    ],
    "source": "ulm",
    "id": "ty6mt0"
-  },
-  {
-   "title": "Kreatives Schreiben mit Spazieren – jeden Samstag",
-   "subtitle": "",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51932/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-249240985&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "ob6l6v"
   },
   {
    "title": "Ausstellung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
@@ -409,30 +266,6 @@
    "id": "-8r6e64"
   },
   {
-   "title": "Norbert Klaus: Von Chaos und Ordnung",
-   "subtitle": "Skulpturen und Prägedrucke",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "Galerie im Kornhauskeller",
-   "street": "Hafengasse 19",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53334/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2023248169&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39916,
-   "lon": 9.99546,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-fs6cuo"
-  },
-  {
    "title": "Traces in a Sandbox — Julius Bobke / Wolfgang Günther",
    "subtitle": "Spannender künstlerischer Dialog im historischen Schuhhaussaal",
    "start": "2026-10-17T11:00",
@@ -455,54 +288,6 @@
    ],
    "source": "ulm",
    "id": "5a0xyv"
-  },
-  {
-   "title": "Siegfried Kreitner",
-   "subtitle": "Minimalkinetik",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "Galerie Tobias Schrade",
-   "street": "Auf der Insel 2",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53740/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-810759768&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39631,
-   "lon": 9.98948,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "6t5i31"
-  },
-  {
-   "title": "Öffentliche Führung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
-   "subtitle": "",
-   "start": "2026-10-17T14:00",
-   "end": null,
-   "venue": "kunsthalle weishaupt",
-   "street": "Hans-und-Sophie-Scholl-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52107/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=517612964&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39746,
-   "lon": 9.99396,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "su04hz"
   },
   {
    "title": "Equilibrio — Zeichnungen und Druckgrafik von Johannes Pfeiffer",
@@ -553,28 +338,28 @@
    "id": "-8c4ps6"
   },
   {
-   "title": "Spiele- und Abenteuer-Nachmittag",
-   "subtitle": "für alle Menschen ab 12 Jahren, die gerne spielen!",
+   "title": "TEXTILE STORIES",
+   "subtitle": "UPCYCLING WORKSHOP",
    "start": "2026-10-17T14:00",
    "end": null,
-   "venue": "Haus der Nachhaltigkeit und Temporärhaus",
-   "street": "Augsburger Straße 23",
-   "zip": "89231",
-   "city": "Neu-Ulm",
+   "venue": "NEUE 8",
+   "street": "Neue Straße 8",
+   "zip": "89077",
+   "city": "Ulm",
    "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53597/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-360738576&width=600&height=-1",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53608/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1160127542&width=600&height=-1",
    "categories": [
     "Freizeit",
     "Feste & Events"
    ],
-   "lat": 48.39626,
-   "lon": 10.00211,
+   "lat": 48.39521,
+   "lon": 9.98192,
    "types": [
     "feste"
    ],
    "source": "ulm",
-   "id": "t9qy3c"
+   "id": "-xp79v6"
   },
   {
    "title": "Schlittschuhlaufen",
@@ -599,6 +384,30 @@
    ],
    "source": "ulm",
    "id": "-h6rnu7"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-17T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "s3qvau"
   },
   {
    "title": "Samstagsnachmittag - Spazieren und Leute treffen",
@@ -694,30 +503,6 @@
    ],
    "source": "ulm",
    "id": "-i0nr5u"
-  },
-  {
-   "title": "Tik Tok",
-   "subtitle": "",
-   "start": "2026-10-17T15:00",
-   "end": null,
-   "venue": "altersarmut Ulm nein e.V.",
-   "street": "Marktplatz 10",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53710/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=69721383&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.39671,
-   "lon": 9.99458,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "373ejv"
   },
   {
    "title": "Foto Walk: spazieren und fotografieren – jeden Samstag",
@@ -1749,6 +1534,30 @@
    "id": "-y8wxho"
   },
   {
+   "title": "Öffentliche Führung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
+   "subtitle": "",
+   "start": "2026-10-18T14:00",
+   "end": null,
+   "venue": "kunsthalle weishaupt",
+   "street": "Hans-und-Sophie-Scholl-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52107/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=517612964&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39746,
+   "lon": 9.99396,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "omc8iu"
+  },
+  {
    "title": "Atlantis - Versunkene Welten",
    "subtitle": "Führung durch die Sonderausstellung",
    "start": "2026-10-18T14:00",
@@ -2645,6 +2454,30 @@
    "id": "-tz20sy"
   },
   {
+   "title": "Norbert Klaus: Von Chaos und Ordnung",
+   "subtitle": "Skulpturen und Prägedrucke",
+   "start": "2026-10-20T14:00",
+   "end": null,
+   "venue": "Galerie im Kornhauskeller",
+   "street": "Hafengasse 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53334/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2023248169&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39916,
+   "lon": 9.99546,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-tl4o0r"
+  },
+  {
    "title": "Café Lebenswert ist geöffnet für Jung und Alt",
    "subtitle": "",
    "start": "2026-10-20T15:00",
@@ -3116,6 +2949,54 @@
    "id": "91jmg9"
   },
   {
+   "title": "Ulmer Wochenmarkt | Münsterplatz",
+   "subtitle": "Weil frisch einfach besser ist!",
+   "start": "2026-10-21T07:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "hiwmu6"
+  },
+  {
+   "title": "Neu-Ulmer Wochenmarkt",
+   "subtitle": "",
+   "start": "2026-10-21T07:00",
+   "end": null,
+   "venue": "Petrusplatz",
+   "street": "Petrusplatz",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39401,
+   "lon": 9.99917,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "zbjsur"
+  },
+  {
    "title": "Info am Morgen: Pressefreiheit - in Deutschland kein Problem?",
    "subtitle": "Kurz-Seminar mit Rudolf Kübler, Journalist",
    "start": "2026-10-21T10:00",
@@ -3185,6 +3066,30 @@
    ],
    "source": "ulm",
    "id": "y301xa"
+  },
+  {
+   "title": "Siegfried Kreitner",
+   "subtitle": "Minimalkinetik",
+   "start": "2026-10-21T13:00",
+   "end": null,
+   "venue": "Galerie Tobias Schrade",
+   "street": "Auf der Insel 2",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53740/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-810759768&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39631,
+   "lon": 9.98948,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-rqhi5m"
   },
   {
    "title": "Sprachcafé für Eltern und Kinder",
@@ -4819,6 +4724,29 @@
    ],
    "source": "ulm",
    "id": "-1aczg"
+  },
+  {
+   "title": "Kreatives Schreiben mit Spazieren – jeden Samstag",
+   "subtitle": "",
+   "start": "2026-10-24T11:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51932/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-249240985&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "dl7wtf"
   },
   {
    "title": "Große Erlebniswelt-Tour in der Seeberger Genusswelt",
@@ -6554,6 +6482,30 @@
    ],
    "source": "ulm",
    "id": "ua5rv2"
+  },
+  {
+   "title": "3 Museen Tour NEU!",
+   "subtitle": "Ulmer Extras",
+   "start": "2026-10-31T13:00",
+   "end": null,
+   "venue": "Dentler-Museum",
+   "street": "Gerbergasse 3",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene 13 € · Ermäßigt 9 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50674/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=862499949&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39676,
+   "lon": 9.98851,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "wbsi7k"
   }
  ]
 }
