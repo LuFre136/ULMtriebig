@@ -1,31 +1,7 @@
 {
- "generated": "2026-10-17T13:42:32.751Z",
- "count": 274,
+ "generated": "2026-10-17T18:29:14.800Z",
+ "count": 257,
  "events": [
-  {
-   "title": "Gras & Krempel mit Genussmarkt",
-   "subtitle": "Der Name ist Programm: Gräservielfalt, Gartenflohmarkt und ein spannendes Rahmenprogramm.",
-   "start": "2026-10-17T09:00",
-   "end": null,
-   "venue": "Staudengärtnerei Gaißmayer",
-   "street": "Jungviehweide 3",
-   "zip": "89257",
-   "city": "Illertissen",
-   "price": "kostenlos · Erwachsene / adults 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46073/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-649753203&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.23945,
-   "lon": 10.13226,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "rmichi"
-  },
   {
    "title": "Durga Puja",
    "subtitle": "",
@@ -48,318 +24,6 @@
    ],
    "source": "ulm",
    "id": "-9ahrhq"
-  },
-  {
-   "title": "Prophetieseminar",
-   "subtitle": "Hören, erkennen, weitergeben - Leben in der prophetischen Dimension",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "Connect Church Ulm",
-   "street": "Riedweg 37d",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52648/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1237928482&width=600&height=-1",
-   "categories": [
-    "Stadt",
-    "Religion"
-   ],
-   "lat": 48.40136,
-   "lon": 9.94318,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "nsv6xd"
-  },
-  {
-   "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
-   "subtitle": "",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "Stadthaus Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52996/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2001598522&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-upyhip"
-  },
-  {
-   "title": "Mobilität im Wandel",
-   "subtitle": "",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "m25",
-   "street": "Münsterplatz 25",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53240/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1930692297&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39843,
-   "lon": 9.99414,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-4jtsno"
-  },
-  {
-   "title": "10 Jahre \"Migration verbindet\"",
-   "subtitle": "Ausstellung im Kabinett",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "Donauschwäbisches Zentralmuseum",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53356/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1692469737&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-aabq48"
-  },
-  {
-   "title": "Ernst Barlach. Facetten der Liebe",
-   "subtitle": "Sonderausstellung im Kunstmuseum",
-   "start": "2026-10-17T10:00",
-   "end": null,
-   "venue": "Edwin Scharff Museum, Kunstmuseum",
-   "street": "Petrusplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52526/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=712877683&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39361,
-   "lon": 9.9991,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "o25m6p"
-  },
-  {
-   "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
-   "subtitle": "",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48141/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1551979863&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "ty6mt0"
-  },
-  {
-   "title": "Ausstellung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
-   "subtitle": "",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "kunsthalle weishaupt",
-   "street": "Hans-und-Sophie-Scholl-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52063/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1219780103&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39746,
-   "lon": 9.99396,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-ogaiun"
-  },
-  {
-   "title": "Die Einsteins - Museum einer Ulmer Familie",
-   "subtitle": "",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "Museum „Die Einsteins“",
-   "street": "Weinhof 19",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51014/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=852855434&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39598,
-   "lon": 9.99137,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "qvm5ma"
-  },
-  {
-   "title": "Stadtgeschichtliche Dauerausstellung",
-   "subtitle": "",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "Haus der Stadtgeschichte / Stadtarchiv Ulm",
-   "street": "Weinhof 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47192/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1913238188&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39625,
-   "lon": 9.99058,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-8r6e64"
-  },
-  {
-   "title": "Traces in a Sandbox — Julius Bobke / Wolfgang Günther",
-   "subtitle": "Spannender künstlerischer Dialog im historischen Schuhhaussaal",
-   "start": "2026-10-17T11:00",
-   "end": null,
-   "venue": "Kunstverein Ulm, Schuhhaussaal",
-   "street": "Kramgasse 4",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53347/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2117119687&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39814,
-   "lon": 9.99381,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "5a0xyv"
-  },
-  {
-   "title": "Equilibrio — Zeichnungen und Druckgrafik von Johannes Pfeiffer",
-   "subtitle": "Der Ulmer Metzgerturm wird zur vertikalen Galerie",
-   "start": "2026-10-17T14:00",
-   "end": null,
-   "venue": "Metzgerturm",
-   "street": "Unter der Metzig 7",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52449/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1831005381&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39604,
-   "lon": 9.99326,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-5lseqm"
-  },
-  {
-   "title": "Einladung zum Spiele-Nachmittag: Gemeinsam Zukunft gestalten",
-   "subtitle": "Dein Samstag-Nachmittag voller Spiele & Abenteuer!",
-   "start": "2026-10-17T14:00",
-   "end": null,
-   "venue": "Haus der Nachhaltigkeit (HdN)",
-   "street": "Augsburger Straße 2325",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "für Snacks und Getränke 5 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53230/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2012540940&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.39519,
-   "lon": 10.00002,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "-8c4ps6"
-  },
-  {
-   "title": "TEXTILE STORIES",
-   "subtitle": "UPCYCLING WORKSHOP",
-   "start": "2026-10-17T14:00",
-   "end": null,
-   "venue": "NEUE 8",
-   "street": "Neue Straße 8",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53608/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1160127542&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.39521,
-   "lon": 9.98192,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "-xp79v6"
   },
   {
    "title": "Schlittschuhlaufen",
@@ -386,244 +50,6 @@
    "id": "-h6rnu7"
   },
   {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-17T14:30",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "s3qvau"
-  },
-  {
-   "title": "Samstagsnachmittag - Spazieren und Leute treffen",
-   "subtitle": "peerwalk",
-   "start": "2026-10-17T15:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50639/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1611376830&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "5igcrt"
-  },
-  {
-   "title": "Unterwegs mit dem Ulmer Stadtmusikanten",
-   "subtitle": "Erlebnisführung im historischen Gewand",
-   "start": "2026-10-17T15:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene 15 € · Ermäßigt 11 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/5221/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1696387475&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-2xcu8q"
-  },
-  {
-   "title": "ULMFASSBAR",
-   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
-   "start": "2026-10-17T15:00",
-   "end": null,
-   "venue": "Florian Zimmer Theater",
-   "street": "Grethe-Weiser-Straße 2/1",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.38393,
-   "lon": 10.00759,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "e529c4"
-  },
-  {
-   "title": "Kasperle auf dem Bauernhof",
-   "subtitle": "",
-   "start": "2026-10-17T15:00",
-   "end": null,
-   "venue": "Erstes Ulmer Kasperle Theater",
-   "street": "Büchsengasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40072,
-   "lon": 9.99167,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-i0nr5u"
-  },
-  {
-   "title": "Foto Walk: spazieren und fotografieren – jeden Samstag",
-   "subtitle": "peerwalk",
-   "start": "2026-10-17T16:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47800/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=759148766&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "fky87i"
-  },
-  {
-   "title": "Kulinarische Reise durch die Tropen",
-   "subtitle": "Gewächshausführung mit exotischen Häppchen",
-   "start": "2026-10-17T17:30",
-   "end": null,
-   "venue": "Botanischer Garten der Universität Ulm",
-   "street": "Hans-Krebs-Weg",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "47 47 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51684/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.42354,
-   "lon": 9.95926,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "jhdr1c"
-  },
-  {
-   "title": "Leaves & Lights music festival",
-   "subtitle": "mit Sunny, Philip Bölter und MEL",
-   "start": "2026-10-17T17:30",
-   "end": null,
-   "venue": "Biergarten Teutonia",
-   "street": "Friedrichsau 6",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Abendkasse 22 € · Vorverkauf 18 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53357/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1823953990&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.40755,
-   "lon": 10.01421,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-fjhvap"
-  },
-  {
-   "title": "Basketball Oberliga Baden-Württemberg",
-   "subtitle": "vamos! TSG Söflingen - Malmsheim",
-   "start": "2026-10-17T17:45",
-   "end": null,
-   "venue": "Theodor-Pfizer-Halle",
-   "street": "Harthauser Straße 99",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53071/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1979352147&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.39766,
-   "lon": 9.94483,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "oar03k"
-  },
-  {
-   "title": "Eat the Music",
-   "subtitle": "Besondere Erlebnisse von Fescht & Fein",
-   "start": "2026-10-17T18:00",
-   "end": null,
-   "venue": "Manufaktur-Café ANIMO!",
-   "street": "Syrlinstr. 17",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52761/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-755576174&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.40394,
-   "lon": 9.99019,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "-tjks3a"
-  },
-  {
    "title": "13. ZAM-ZAM FIGHTNIGHT",
    "subtitle": "Kickboxen live in der Ulmer Kuhberghalle!",
    "start": "2026-10-17T18:00",
@@ -646,30 +72,6 @@
    ],
    "source": "ulm",
    "id": "-1ngfyz"
-  },
-  {
-   "title": "VOXTETT - mehrstimmige Vokalmusik aus Ulm",
-   "subtitle": "",
-   "start": "2026-10-17T18:00",
-   "end": null,
-   "venue": "Haus der Begegnung",
-   "street": "Grüner Hof 7",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53696/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1040553388&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.39736,
-   "lon": 9.99715,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-tvxdl2"
   },
   {
    "title": "Mords-Kolleginnen",
@@ -744,54 +146,6 @@
    "id": "-oc15ee"
   },
   {
-   "title": "Jahreskonzert der Jungen Bläserphilharmonie Ulm 2026",
-   "subtitle": "unter der Leitung von Lukas Weiss",
-   "start": "2026-10-17T19:00",
-   "end": null,
-   "venue": "Congress Centrum Ulm (CCU), Einsteinsaal",
-   "street": "Basteistraße 40",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Schüler, Studenten 9,70–11,90 € · Erwachsene 16,40–20,80 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52899/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1110779252&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.40045,
-   "lon": 10.00501,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-6onbiq"
-  },
-  {
-   "title": "Hexenhaus Live: PODRIDAO + BELLIGERENCE + CORPSEROT",
-   "subtitle": "Death Metal",
-   "start": "2026-10-17T19:00",
-   "end": null,
-   "venue": "Hexenhaus e.V.",
-   "street": "Mähringer Weg 75",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Eintritt 15 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53121/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1356583091&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.41054,
-   "lon": 9.9635,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-e6x6x3"
-  },
-  {
    "title": "Bruder Feuer: Franz von Assisi",
    "subtitle": "Lesung und Musik zu seinem 800. Todestag",
    "start": "2026-10-17T19:00",
@@ -814,30 +168,6 @@
    ],
    "source": "ulm",
    "id": "-38v9nd"
-  },
-  {
-   "title": "Ein Korb voller Geschichten",
-   "subtitle": ";ärchenabend",
-   "start": "2026-10-17T19:00",
-   "end": null,
-   "venue": "fbs Familienbildungsstätte",
-   "street": "Sattlergasse 6",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53252/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1683834420&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Literatur"
-   ],
-   "lat": 48.39688,
-   "lon": 9.99157,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-x342ar"
   },
   {
    "title": "Eisdisco - Der coolste Samstagabend!",
@@ -889,53 +219,6 @@
    "id": "-4gv9oe"
   },
   {
-   "title": "Improtheater: \"Impro und Wein\"",
-   "subtitle": "",
-   "start": "2026-10-17T19:30",
-   "end": null,
-   "venue": "Theater in der Bastion",
-   "street": "Unterer Kuhberg 16",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51980/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1972316116&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.3848,
-   "lon": 9.97098,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-cx4iij"
-  },
-  {
-   "title": "Völlig Losgelöst: Chorkonzert",
-   "subtitle": "Rock- und Pop Highlights in raffinierten Chorarrangements",
-   "start": "2026-10-17T19:30",
-   "end": null,
-   "venue": "Robert-Bosch-Halle Albeck",
-   "street": "Turnhallenweg 15",
-   "zip": "89129",
-   "city": "Langenau",
-   "price": "Ermäßigt 8 € · Erwachsene 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53666/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=686124674&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.48332,
-   "lon": 10.06233,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "x7yv1y"
-  },
-  {
    "title": "Stehaufmädchen",
    "subtitle": "Von Rola El-Halabi, für die Bühne bearbeitet von WNZR:WNZR",
    "start": "2026-10-17T19:30",
@@ -984,54 +267,6 @@
    "id": "8q2sfy"
   },
   {
-   "title": "Il Civetto",
-   "subtitle": "Albumtour 2026",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "ROXY Ulm, Werkhalle",
-   "street": "Schillerstraße 1/12",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "VVK 38,20 € · AK 46 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51298/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-987284912&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.39131,
-   "lon": 9.98535,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "geja84"
-  },
-  {
-   "title": "Stipendiatenkonzert",
-   "subtitle": "der Albert-Eckstein-Stiftung",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "Kulturzentrum Wolfgang-Eychmüller-Haus",
-   "street": "Hettstetter Platz 1",
-   "zip": "89269",
-   "city": "Vöhringen",
-   "price": "Abendkasse 30–34 € · Kategorie 2 26 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51805/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1526112096&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.28986,
-   "lon": 10.09115,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "lvteg4"
-  },
-  {
    "title": "Basketball 2. Regionalliga Baden-Württemberg",
    "subtitle": "vamos! TSG Söflingen - Remseck",
    "start": "2026-10-17T20:00",
@@ -1056,172 +291,52 @@
    "id": "vq1w80"
   },
   {
-   "title": "Ein Geschenk der Götter",
-   "subtitle": "von Oliver Haffner",
+   "title": "ULMFASSBAR",
+   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
    "start": "2026-10-17T20:00",
    "end": null,
-   "venue": "theaterWerkstatt Ulm e.V.",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Ermäßigt 10 € · Normal 13 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53048/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-534243767&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-ouc8j0"
-  },
-  {
-   "title": "Eine weitere fantastische Begegnung mit Edda Bork",
-   "subtitle": "Edda Bork liest in der Übermorgenwelt aus ihrer Trilogie um TELAMON und präsentiert ihre selbstgestalteten Buchcover, Charakterkarten, Bilder und Weltkarten.",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "Übermorgenwelt",
-   "street": "Fort Albeck 14",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Ermäßigt 5 € · Erwachsene 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53224/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1472503543&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Literatur"
-   ],
-   "lat": 48.41531,
-   "lon": 10.00093,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "1x8j9q"
-  },
-  {
-   "title": "HOLZHEIM ROCKT",
-   "subtitle": "Rockkonzert mit der Band WANTED LIVE",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "Schulsporthalle Holzheim",
-   "street": "Schulstraße 34",
-   "zip": "89291",
-   "city": "Holzheim",
-   "price": "Abendkasse 14 € · Vorverkauf 12 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53389/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1199776753&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.37645,
-   "lon": 10.10376,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "65occw"
-  },
-  {
-   "title": "OhrTon & Orange",
-   "subtitle": "German Punk & Rock",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "Bonanzbar",
-   "street": "Illerholzweg 11",
+   "venue": "Florian Zimmer Theater",
+   "street": "Grethe-Weiser-Straße 2/1",
    "zip": "89231",
    "city": "Neu-Ulm",
-   "price": "Preis 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/43309/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2099438690&width=600&height=-1",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
+   "image": "",
    "categories": [
     "Freizeit",
     "Feste & Events"
    ],
-   "lat": 48.36882,
-   "lon": 10.00285,
+   "lat": 48.38393,
+   "lon": 10.00759,
    "types": [
     "feste"
    ],
    "source": "ulm",
-   "id": "zhze5z"
+   "id": "1fwspq"
   },
   {
-   "title": "Achtsam morden",
-   "subtitle": "Kriminalkomödie von Karsten Dusse",
+   "title": "TEXTILE STORIES",
+   "subtitle": "DANCE JOURNEY",
    "start": "2026-10-17T20:00",
    "end": null,
-   "venue": "Theaterei Herrlingen",
-   "street": "Oberherrlinger Straße 22",
-   "zip": "89134",
-   "city": "Blaustein",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/37758/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-523182915&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.42139,
-   "lon": 9.89585,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-9w2fu9"
-  },
-  {
-   "title": "Christina Lux & Oliver George",
-   "subtitle": "Poesie, Groove & Energie",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "Zum fröhlichen Nix - Kleinkunst-Cafe",
-   "street": "Hirschgasse 1",
-   "zip": "89143",
-   "city": "Blaubeuren",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53525/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1432773445&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.41276,
-   "lon": 9.78462,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "4wnsr1"
-  },
-  {
-   "title": "Chanson Trottoir & FLAWI",
-   "subtitle": "live im Hemperium",
-   "start": "2026-10-17T20:00",
-   "end": null,
-   "venue": "Hemperium",
-   "street": "Zinglerstraße 1",
-   "zip": "89073",
+   "venue": "NEUE 8",
+   "street": "Neue Straße 8",
+   "zip": "89077",
    "city": "Ulm",
    "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53631/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=119284969&width=600&height=-1",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53609/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1453538995&width=600&height=-1",
    "categories": [
-    "Kultur",
-    "Bühne"
+    "Freizeit",
+    "Feste & Events"
    ],
-   "lat": 48.39649,
-   "lon": 9.98529,
+   "lat": 48.39521,
+   "lon": 9.98192,
    "types": [
-    "buehne"
+    "feste"
    ],
    "source": "ulm",
-   "id": "-bquj1e"
+   "id": "g9yz6x"
   },
   {
    "title": "Andreas Diehlmann",
@@ -1344,6 +459,30 @@
    "id": "j8ta37"
   },
   {
+   "title": "10 Jahre \"Migration verbindet\"",
+   "subtitle": "Ausstellung im Kabinett",
+   "start": "2026-10-18T10:00",
+   "end": null,
+   "venue": "Donauschwäbisches Zentralmuseum",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53356/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1692469737&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-pjo1br"
+  },
+  {
    "title": "TEXTILE STORIES",
    "subtitle": "COMMUNITY EVENT",
    "start": "2026-10-18T10:00",
@@ -1366,6 +505,30 @@
    ],
    "source": "ulm",
    "id": "5s4esp"
+  },
+  {
+   "title": "Ernst Barlach. Facetten der Liebe",
+   "subtitle": "Sonderausstellung im Kunstmuseum",
+   "start": "2026-10-18T10:00",
+   "end": null,
+   "venue": "Edwin Scharff Museum, Kunstmuseum",
+   "street": "Petrusplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52526/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=712877683&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39361,
+   "lon": 9.9991,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-7yaaum"
   },
   {
    "title": "Führung durch die Ausstellung Equilibrio im Ulmer Metzgerturm",
@@ -1416,6 +579,150 @@
    "id": "q6kzfd"
   },
   {
+   "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
+   "subtitle": "",
+   "start": "2026-10-18T11:00",
+   "end": null,
+   "venue": "HfG-Archiv Ulm",
+   "street": "Am Hochsträß 8",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48141/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1551979863&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.3814,
+   "lon": 9.94848,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-3r7zhp"
+  },
+  {
+   "title": "Ausstellung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
+   "subtitle": "",
+   "start": "2026-10-18T11:00",
+   "end": null,
+   "venue": "kunsthalle weishaupt",
+   "street": "Hans-und-Sophie-Scholl-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52063/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1219780103&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39746,
+   "lon": 9.99396,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-snyets"
+  },
+  {
+   "title": "Die Einsteins - Museum einer Ulmer Familie",
+   "subtitle": "",
+   "start": "2026-10-18T11:00",
+   "end": null,
+   "venue": "Museum „Die Einsteins“",
+   "street": "Weinhof 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51014/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=852855434&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39598,
+   "lon": 9.99137,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "r2cp75"
+  },
+  {
+   "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
+   "subtitle": "",
+   "start": "2026-10-18T11:00",
+   "end": null,
+   "venue": "Stadthaus Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52996/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2001598522&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "rbctwv"
+  },
+  {
+   "title": "Stadtgeschichtliche Dauerausstellung",
+   "subtitle": "",
+   "start": "2026-10-18T11:00",
+   "end": null,
+   "venue": "Haus der Stadtgeschichte / Stadtarchiv Ulm",
+   "street": "Weinhof 12",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47192/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1913238188&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39625,
+   "lon": 9.99058,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-cqe04d"
+  },
+  {
+   "title": "Traces in a Sandbox — Julius Bobke / Wolfgang Günther",
+   "subtitle": "Spannender künstlerischer Dialog im historischen Schuhhaussaal",
+   "start": "2026-10-18T11:00",
+   "end": null,
+   "venue": "Kunstverein Ulm, Schuhhaussaal",
+   "street": "Kramgasse 4",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53347/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2117119687&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39814,
+   "lon": 9.99381,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "wa5lli"
+  },
+  {
    "title": "Frauenflohmarkt",
    "subtitle": "",
    "start": "2026-10-18T11:00",
@@ -1461,6 +768,30 @@
    ],
    "source": "ulm",
    "id": "l5axd"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-18T11:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-ui1lta"
   },
   {
    "title": "Sonntag Mittag Spaziergang – Jeden Sonntag",
@@ -1558,6 +889,30 @@
    "id": "omc8iu"
   },
   {
+   "title": "Equilibrio — Zeichnungen und Druckgrafik von Johannes Pfeiffer",
+   "subtitle": "Der Ulmer Metzgerturm wird zur vertikalen Galerie",
+   "start": "2026-10-18T14:00",
+   "end": null,
+   "venue": "Metzgerturm",
+   "street": "Unter der Metzig 7",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52449/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1831005381&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39604,
+   "lon": 9.99326,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-jkkdel"
+  },
+  {
    "title": "Atlantis - Versunkene Welten",
    "subtitle": "Führung durch die Sonderausstellung",
    "start": "2026-10-18T14:00",
@@ -1580,6 +935,30 @@
    ],
    "source": "ulm",
    "id": "-xgwkuz"
+  },
+  {
+   "title": "Mobilität im Wandel",
+   "subtitle": "",
+   "start": "2026-10-18T14:00",
+   "end": null,
+   "venue": "m25",
+   "street": "Münsterplatz 25",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53240/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1930692297&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39843,
+   "lon": 9.99414,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "9zp52h"
   },
   {
    "title": "Arzneipflanzen und ihre Wirkung Teil 1",
@@ -1770,6 +1149,30 @@
    "id": "-oej2bf"
   },
   {
+   "title": "Kasperle auf dem Bauernhof",
+   "subtitle": "",
+   "start": "2026-10-18T15:00",
+   "end": null,
+   "venue": "Erstes Ulmer Kasperle Theater",
+   "street": "Büchsengasse 3",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45129/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40072,
+   "lon": 9.99167,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-ckbq9t"
+  },
+  {
    "title": "Chess'n'Beats",
    "subtitle": "Spannende Schach-Runden und entspannte Beats",
    "start": "2026-10-18T16:00",
@@ -1889,6 +1292,30 @@
    "id": "i2sshp"
   },
   {
+   "title": "Achtsam morden",
+   "subtitle": "Kriminalkomödie von Karsten Dusse",
+   "start": "2026-10-18T17:00",
+   "end": null,
+   "venue": "Theaterei Herrlingen",
+   "street": "Oberherrlinger Straße 22",
+   "zip": "89134",
+   "city": "Blaustein",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/37758/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-523182915&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.42139,
+   "lon": 9.89585,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "t18e52"
+  },
+  {
    "title": "Offene Bühne! Vöhringen",
    "subtitle": "",
    "start": "2026-10-18T18:00",
@@ -1958,6 +1385,30 @@
    ],
    "source": "ulm",
    "id": "-k4y0su"
+  },
+  {
+   "title": "VOXTETT - mehrstimmige Vokalmusik aus Ulm",
+   "subtitle": "",
+   "start": "2026-10-18T18:00",
+   "end": null,
+   "venue": "Petruskirche",
+   "street": "Petrusplatz 8",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53696/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1040553388&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39376,
+   "lon": 9.99946,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-y4zywo"
   },
   {
    "title": "Eishockey | Devils Ulm/Neu-Ulm",
@@ -4509,6 +3960,30 @@
    "id": "sdrmhc"
   },
   {
+   "title": "Ein Geschenk der Götter",
+   "subtitle": "von Oliver Haffner",
+   "start": "2026-10-23T20:00",
+   "end": null,
+   "venue": "theaterWerkstatt Ulm e.V.",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Ermäßigt 10 € · Normal 13 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53048/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-534243767&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-5hle6p"
+  },
+  {
    "title": "Simoné Goldschmidt-Lechner liest Nerd Girl Magic",
    "subtitle": "Digi-Talk",
    "start": "2026-10-23T20:00",
@@ -4795,6 +4270,52 @@
    ],
    "source": "ulm",
    "id": "-g9ddm"
+  },
+  {
+   "title": "Samstagsnachmittag - Spazieren und Leute treffen",
+   "subtitle": "peerwalk",
+   "start": "2026-10-24T15:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50639/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1611376830&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-57ibln"
+  },
+  {
+   "title": "Foto Walk: spazieren und fotografieren – jeden Samstag",
+   "subtitle": "peerwalk",
+   "start": "2026-10-24T16:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47800/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=759148766&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "4uzju2"
   },
   {
    "title": "Mobiles Atelier mit Sanna Reitz",
@@ -6199,6 +5720,30 @@
    "id": "-aqw500"
   },
   {
+   "title": "Prophetieseminar",
+   "subtitle": "Hören, erkennen, weitergeben - Leben in der prophetischen Dimension",
+   "start": "2026-10-30T17:00",
+   "end": null,
+   "venue": "Connect Church Ulm",
+   "street": "Riedweg 37d",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52648/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1237928482&width=600&height=-1",
+   "categories": [
+    "Stadt",
+    "Religion"
+   ],
+   "lat": 48.40136,
+   "lon": 9.94318,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-gz0727"
+  },
+  {
    "title": "Die MitMacherei",
    "subtitle": "Gemeinsam Schönes gestalten - für ander",
    "start": "2026-10-30T17:00",
@@ -6506,6 +6051,54 @@
    ],
    "source": "ulm",
    "id": "wbsi7k"
+  },
+  {
+   "title": "Grusel-Nachtwanderung",
+   "subtitle": "Halloween-Programm des Botanischen Gartens",
+   "start": "2026-10-31T18:00",
+   "end": null,
+   "venue": "Botanischer Garten der Universität Ulm",
+   "street": "Hans-Krebs-Weg",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "6 6 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51688/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=406756175&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.42354,
+   "lon": 9.95926,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-nlx7x0"
+  },
+  {
+   "title": "Live im Hexenhaus e.V.: RAW ENSEMBLE + ABRASIVE + ARKHAM CIRCLE",
+   "subtitle": "Thrash Metal",
+   "start": "2026-10-31T19:00",
+   "end": null,
+   "venue": "Hexenhaus e.V.",
+   "street": "Mähringer Weg 75",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "Eintritt 15 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53561/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-257364275&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.41054,
+   "lon": 9.9635,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "q8tbkg"
   }
  ]
 }
