@@ -1,54 +1,7 @@
 {
- "generated": "2026-10-18T18:37:36.582Z",
+ "generated": "2026-10-19T09:52:18.355Z",
  "count": 235,
  "events": [
-  {
-   "title": "Junges Orchester Kollektiv Ulm - Konzert",
-   "subtitle": "",
-   "start": "2026-10-18T18:00",
-   "end": null,
-   "venue": "Edwin-Scharff-Haus",
-   "street": "Silcherstraße 40",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52724/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=805180229&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39345,
-   "lon": 9.9911,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "7m8l8d"
-  },
-  {
-   "title": "Eishockey | Devils Ulm/Neu-Ulm",
-   "subtitle": "welcome to devilstown",
-   "start": "2026-10-18T18:00",
-   "end": null,
-   "venue": "Eissporthalle Donaubad -Devils Ulm/Neu-Ulm",
-   "street": "Wiblinger Straße 57",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos · Sitzplatz 10–15 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/44773/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1705856690&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.38482,
-   "lon": 9.98495,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "-47rfl0"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -71,29 +24,6 @@
    ],
    "source": "ulm",
    "id": "jcidl"
-  },
-  {
-   "title": "Bücherbabys in der Stadtteilbibliothek Weststadt",
-   "subtitle": "Musikalischer Krabbeltreff für Kinder von 6 - 24 Monaten",
-   "start": "2026-10-19T10:00",
-   "end": null,
-   "venue": "Stadtteilbibliothek Weststadt",
-   "street": "Moltkestraße 10",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48386/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1203679940&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39332,
-   "lon": 9.96611,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "scsolc"
   },
   {
    "title": "Stadtführung mit Besichtigung des Münsters",
@@ -2934,6 +2864,30 @@
    "id": "-12senq"
   },
   {
+   "title": "Eishockey | Devils Ulm/Neu-Ulm",
+   "subtitle": "welcome to devilstown",
+   "start": "2026-10-23T20:00",
+   "end": null,
+   "venue": "Eissporthalle Donaubad -Devils Ulm/Neu-Ulm",
+   "street": "Wiblinger Straße 57",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos · Sitzplatz 10–15 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/44773/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1705856690&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.38482,
+   "lon": 9.98495,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "2rzw49"
+  },
+  {
    "title": "2000er Smash Hits!",
    "subtitle": "",
    "start": "2026-10-23T21:00",
@@ -5573,6 +5527,53 @@
    ],
    "source": "ulm",
    "id": "5dff0y"
+  },
+  {
+   "title": "ShortCuts Trio / Richard Galliano \"New Viaggio\"",
+   "subtitle": "50 Jahre Verein für moderne Musik",
+   "start": "2026-11-01T19:30",
+   "end": null,
+   "venue": "Stadthaus Ulm, Saal",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "ermäßigt (Schüler, Stud./Schwerbeh./ Mitglieder des Vereins für moderne Musik und des Fördervereins Neue Musik im Stadthaus 35 € · Normalpreis / adults 45 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53045/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-919140822&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-ftv3n5"
+  },
+  {
+   "title": "Bücherbabys in der Stadtteilbibliothek Wiblingen",
+   "subtitle": "Musikalischer Krabbeltreff für Kinder von 6 - 24 Monaten",
+   "start": "2026-11-02T10:00",
+   "end": null,
+   "venue": "Stadtteilbibliothek Wiblingen",
+   "street": "Buchauerstraße 9",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48311/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1685312670&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35305,
+   "lon": 9.97572,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "lyaeex"
   }
  ]
 }
