@@ -1,243 +1,7 @@
 {
- "generated": "2026-10-19T16:58:57.034Z",
- "count": 236,
+ "generated": "2026-10-20T09:24:28.551Z",
+ "count": 234,
  "events": [
-  {
-   "title": "Nähkurs",
-   "subtitle": "Für Einsteiger*innen und Fortgeschrittene",
-   "start": "2026-10-19T16:00",
-   "end": null,
-   "venue": "Café Vorfeld INN",
-   "street": "Steubenstraße 34",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Erwachsene 30 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53746/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-34264606&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39036,
-   "lon": 10.00766,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "yk5k9q"
-  },
-  {
-   "title": "Montagsmalen: acryl und struktur",
-   "subtitle": "malen (workshop)",
-   "start": "2026-10-19T17:00",
-   "end": null,
-   "venue": "atelier creanne, Nelson-Barracks",
-   "street": "Hirthstraße 3",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53345/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1856890121&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39147,
-   "lon": 10.01412,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-hz8xw1"
-  },
-  {
-   "title": "KI Walk – jeden Montag",
-   "subtitle": "peerwalk",
-   "start": "2026-10-19T18:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47145/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-525081788&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-ersmp"
-  },
-  {
-   "title": "Lesung \"Hannah\" mit Autorin Miku Sophie Kühmel",
-   "subtitle": "",
-   "start": "2026-10-19T18:00",
-   "end": null,
-   "venue": "KZ-Gedenkstätte Oberer Kuhberg",
-   "street": "Am Hochsträß 1",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "normal und ermäßigt 5 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53183/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-590171513&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Literatur"
-   ],
-   "lat": 48.38237,
-   "lon": 9.95087,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "agdc5t"
-  },
-  {
-   "title": "Französisch Spaziergang - jeden Montag",
-   "subtitle": "peerwalk",
-   "start": "2026-10-19T18:30",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47143/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-785434234&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-7o1zlx"
-  },
-  {
-   "title": "Briefe aus Jerusalem – Gaza auf dem Weg in die Westbank?",
-   "subtitle": "Eine Analyse des B’Tselem-Berichts: „Project of Elimination“ – Das „Auslöschungsprojekt“",
-   "start": "2026-10-19T19:00",
-   "end": null,
-   "venue": "Bürgerzentrum Eselsberg",
-   "street": "Virchowstraße 4",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Bildung 10 € · Erwachsene/adults 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53581/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-841835057&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.4144,
-   "lon": 9.94541,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-nn937b"
-  },
-  {
-   "title": "Wild Feelings - starke Gefühle bei Kindern verstehen und begleiten",
-   "subtitle": "Großer Bildungsvortrag mit Dr. Eliane Retz",
-   "start": "2026-10-19T19:30",
-   "end": null,
-   "venue": "Klostergasthof Roggenburg",
-   "street": "Klosterstr. 2",
-   "zip": "89297",
-   "city": "Roggenburg",
-   "price": "Eintritt pro Person ermäßigt 6 € · Eintritt pro Person 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52850/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1096819733&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.27582,
-   "lon": 10.22904,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-5pribj"
-  },
-  {
-   "title": "Schwertfechten: Langschwert Einsteigerkurs 2026",
-   "subtitle": "Historisches Fechten beim SSV Ulm",
-   "start": "2026-10-19T20:00",
-   "end": null,
-   "venue": "Eduard-Mörike-Halle",
-   "street": "Hofäckerweg 84",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51983/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1587271605&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.42535,
-   "lon": 10.01713,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "66b9v8"
-  },
-  {
-   "title": "Orchester - Lords of the Sound",
-   "subtitle": "Die Musik von Hans Zimmer",
-   "start": "2026-10-19T20:00",
-   "end": null,
-   "venue": "Edwin-Scharff-Haus",
-   "street": "Silcherstraße 40",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52725/",
-   "image": "",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39345,
-   "lon": 9.9911,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-8blsai"
-  },
-  {
-   "title": "FUCKIN' MONDAY: Getränkebörse!",
-   "subtitle": "We fuckin' make you love Monday!",
-   "start": "2026-10-19T21:00",
-   "end": null,
-   "venue": "Hinteres Kreuz",
-   "street": "Schelergasse 2",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50410/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1175140435&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.3967,
-   "lon": 9.99471,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-d73qys"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -260,30 +24,6 @@
    ],
    "source": "ulm",
    "id": "-65av2l"
-  },
-  {
-   "title": "Fasziengymnastik - für jedes Alter",
-   "subtitle": "Faszien stärken ohne Faszienrolle",
-   "start": "2026-10-20T09:30",
-   "end": null,
-   "venue": "Johanneshaus",
-   "street": "Johannesplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Teilnahmebeitrag pro Treffen 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.39453,
-   "lon": 10.00008,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "-prklqs"
   },
   {
    "title": "Stadtführung mit Besichtigung des Münsters",
@@ -1633,6 +1373,29 @@
    "id": "-ux9r3b"
   },
   {
+   "title": "Nähkurs",
+   "subtitle": "Für Einsteiger*innen und Fortgeschrittene",
+   "start": "2026-10-22T16:00",
+   "end": null,
+   "venue": "Quartiersmanagement Innenstadt Ost",
+   "street": "Wallstraße 11",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Erwachsene 30 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53746/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-34264606&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.3969,
+   "lon": 10.00451,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-37zt45"
+  },
+  {
    "title": "Die Pest in Ulm",
    "subtitle": "Erlebnisführung im historischen Gewand",
    "start": "2026-10-22T17:00",
@@ -1965,6 +1728,30 @@
    ],
    "source": "ulm",
    "id": "-6okwb"
+  },
+  {
+   "title": "Neue Ausstellung „Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik“",
+   "subtitle": "",
+   "start": "2026-10-23",
+   "end": null,
+   "venue": "HfG-Archiv Ulm",
+   "street": "Am Hochsträß 8",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53777/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-785375732&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.3814,
+   "lon": 9.94848,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-sop984"
   },
   {
    "title": "Café für alle",
@@ -3938,6 +3725,52 @@
    "id": "2d00yg"
   },
   {
+   "title": "KI Walk – jeden Montag",
+   "subtitle": "peerwalk",
+   "start": "2026-10-26T18:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47145/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-525081788&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-b4qh05"
+  },
+  {
+   "title": "Französisch Spaziergang - jeden Montag",
+   "subtitle": "peerwalk",
+   "start": "2026-10-26T18:30",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47143/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-785434234&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-ie0nzd"
+  },
+  {
    "title": "Rockballaden bei Kerzenschein",
    "subtitle": "",
    "start": "2026-10-26T19:00",
@@ -3983,6 +3816,79 @@
    ],
    "source": "ulm",
    "id": "mk9951"
+  },
+  {
+   "title": "Schwertfechten: Langschwert Einsteigerkurs 2026",
+   "subtitle": "Historisches Fechten beim SSV Ulm",
+   "start": "2026-10-26T20:00",
+   "end": null,
+   "venue": "Eduard-Mörike-Halle",
+   "street": "Hofäckerweg 84",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51983/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1587271605&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.42535,
+   "lon": 10.01713,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "pa79hs"
+  },
+  {
+   "title": "FUCKIN' MONDAY: Getränkebörse!",
+   "subtitle": "We fuckin' make you love Monday!",
+   "start": "2026-10-26T21:00",
+   "end": null,
+   "venue": "Hinteres Kreuz",
+   "street": "Schelergasse 2",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50410/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1175140435&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.3967,
+   "lon": 9.99471,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "-xk0dls"
+  },
+  {
+   "title": "Fasziengymnastik - für jedes Alter",
+   "subtitle": "Faszien stärken ohne Faszienrolle",
+   "start": "2026-10-27T09:30",
+   "end": null,
+   "venue": "Johanneshaus",
+   "street": "Johannesplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Teilnahmebeitrag pro Treffen 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.39453,
+   "lon": 10.00008,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-22a7az"
   },
   {
    "title": "Die spannende Welt der Haie",
@@ -5596,6 +5502,54 @@
    ],
    "source": "ulm",
    "id": "-lrzqvd"
+  },
+  {
+   "title": "Ein neues Kapitel-wir stellen vier neue Bücher vor",
+   "subtitle": "",
+   "start": "2026-11-02T19:30",
+   "end": null,
+   "venue": "Café Aegis",
+   "street": "Hafengasse 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53260/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1953693447&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Literatur"
+   ],
+   "lat": 48.39916,
+   "lon": 9.99546,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "oq93ko"
+  },
+  {
+   "title": "Wanderfotoausstellung \"Faces of moms*\"",
+   "subtitle": "Über 25 Jahre Kath. Beratungsstelle für Schwangerschaft und junge Familien Neu-Ulm",
+   "start": "2026-11-03T10:00",
+   "end": null,
+   "venue": "Kath. Beratungsstelle für Schwangerschaftsfragen SkF",
+   "street": "Johannesplatz 2",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53509/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1759019001&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39474,
+   "lon": 9.99983,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-609e91"
   }
  ]
 }
