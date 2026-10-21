@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T19:59:20.400Z",
- "count": 240,
+ "generated": "2026-10-21T09:21:10.074Z",
+ "count": 241,
  "events": [
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
@@ -74,30 +74,6 @@
    "id": "zbjsur"
   },
   {
-   "title": "Die Drei ??? Kids",
-   "subtitle": "Der singende Geist",
-   "start": "2026-10-21T09:30",
-   "end": null,
-   "venue": "Altes Theater Ulm",
-   "street": "Wagnerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Eintritt 9 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48239/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-733562657&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39336,
-   "lon": 9.98005,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-u4xfg5"
-  },
-  {
    "title": "Stadtführung mit Besichtigung des Münsters",
    "subtitle": "Klassische Führung",
    "start": "2026-10-21T10:00",
@@ -144,29 +120,6 @@
    ],
    "source": "ulm",
    "id": "-ed8yag"
-  },
-  {
-   "title": "Gerda gackert für Gerechtigkeit",
-   "subtitle": "Theater für Kinder 3+",
-   "start": "2026-10-21T10:00",
-   "end": null,
-   "venue": "Theater Mücke",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Für Kinder und Erwachsene 8 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-4lypq"
   },
   {
    "title": "Info am Morgen: Pressefreiheit - in Deutschland kein Problem?",
@@ -784,6 +737,53 @@
    ],
    "source": "ulm",
    "id": "2ngi91"
+  },
+  {
+   "title": "Die Drei ??? Kids",
+   "subtitle": "Der singende Geist",
+   "start": "2026-10-22T09:30",
+   "end": null,
+   "venue": "Altes Theater Ulm",
+   "street": "Wagnerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Eintritt 9 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48239/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-733562657&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39336,
+   "lon": 9.98005,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "6jgtjg"
+  },
+  {
+   "title": "Gerda gackert für Gerechtigkeit",
+   "subtitle": "Theater für Kinder 3+",
+   "start": "2026-10-22T10:00",
+   "end": null,
+   "venue": "Theater Mücke",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Für Kinder und Erwachsene 8 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "3d80oz"
   },
   {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
@@ -5694,6 +5694,30 @@
    ],
    "source": "ulm",
    "id": "e12z79"
+  },
+  {
+   "title": "Ferienworkshop mit Joo Fürst: Wir produzieren unser eigenes Hörspiel! (Für 6- bis 8-Jährige)",
+   "subtitle": "",
+   "start": "2026-11-04T10:00",
+   "end": null,
+   "venue": "Zehntstadel Leipheim",
+   "street": "Schlosshof 2",
+   "zip": "89340",
+   "city": "Leipheim",
+   "price": "Teilnahmegebühr 35 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52748/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=732670475&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.45026,
+   "lon": 10.21928,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-m0s9ik"
   }
  ]
 }
