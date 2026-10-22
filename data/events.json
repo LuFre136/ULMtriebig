@@ -1,31 +1,7 @@
 {
- "generated": "2026-10-21T20:08:42.105Z",
- "count": 240,
+ "generated": "2026-10-22T09:23:41.756Z",
+ "count": 241,
  "events": [
-  {
-   "title": "Nachtwächter-Führung",
-   "subtitle": "Erlebnisführung im historischen Gewand",
-   "start": "2026-10-21T21:00",
-   "end": null,
-   "venue": "Treffpunkt: Gerberhaus, Weinhofberg",
-   "street": "Weinhofberg 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene 2025/26 15 € · Ermäßigt 2025/26 11 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38833/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600012964&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39661,
-   "lon": 9.98915,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "ofvvxx"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -48,30 +24,6 @@
    ],
    "source": "ulm",
    "id": "-jo3wnj"
-  },
-  {
-   "title": "Die Drei ??? Kids",
-   "subtitle": "Der singende Geist",
-   "start": "2026-10-22T09:30",
-   "end": null,
-   "venue": "Altes Theater Ulm",
-   "street": "Wagnerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Eintritt 9 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48239/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-733562657&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39336,
-   "lon": 9.98005,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "6jgtjg"
   },
   {
    "title": "Stadtführung mit Besichtigung des Münsters",
@@ -120,29 +72,6 @@
    ],
    "source": "ulm",
    "id": "-aveyvr"
-  },
-  {
-   "title": "Gerda gackert für Gerechtigkeit",
-   "subtitle": "Theater für Kinder 3+",
-   "start": "2026-10-22T10:00",
-   "end": null,
-   "venue": "Theater Mücke",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Für Kinder und Erwachsene 8 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "3d80oz"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -2091,6 +2020,53 @@
    "id": "-57ibln"
   },
   {
+   "title": "Die Drei ??? Kids",
+   "subtitle": "Der singende Geist",
+   "start": "2026-10-24T15:00",
+   "end": null,
+   "venue": "Altes Theater Ulm",
+   "street": "Wagnerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Eintritt 9 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48239/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-733562657&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39336,
+   "lon": 9.98005,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-sj98ei"
+  },
+  {
+   "title": "Gerda gackert für Gerechtigkeit",
+   "subtitle": "Theater für Kinder 3+",
+   "start": "2026-10-24T15:00",
+   "end": null,
+   "venue": "Theater Mücke",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Für Kinder und Erwachsene 8 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-125k9s"
+  },
+  {
    "title": "Foto Walk: spazieren und fotografieren – jeden Samstag",
    "subtitle": "peerwalk",
    "start": "2026-10-24T16:00",
@@ -3962,6 +3938,30 @@
    "id": "c0qsrk"
   },
   {
+   "title": "Nachtwächter-Führung",
+   "subtitle": "Erlebnisführung im historischen Gewand",
+   "start": "2026-10-28T21:00",
+   "end": null,
+   "venue": "Treffpunkt: Gerberhaus, Weinhofberg",
+   "street": "Weinhofberg 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene 2025/26 15 € · Ermäßigt 2025/26 11 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38833/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600012964&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39661,
+   "lon": 9.98915,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-ri3zus"
+  },
+  {
    "title": "Mittwochsjam",
    "subtitle": "Jeden Mittwoch improvisiertes musizieren. Egal ob Anfänge oder Profi.",
    "start": "2026-10-28T21:00",
@@ -5201,7 +5201,7 @@
    "id": "lyaeex"
   },
   {
-   "title": "Bücherbabys in der Kinderbibliothek",
+   "title": "AUSGEBUCHT: Bücherbabys in der Kinderbibliothek",
    "subtitle": "Musikalischer Krabbeltreff von 6-18 Monaten",
    "start": "2026-11-02T10:30",
    "end": null,
@@ -5210,8 +5210,8 @@
    "zip": "89073",
    "city": "Ulm",
    "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51421/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1849799062&width=600&height=-1",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53814/",
+   "image": "",
    "categories": [
     "Freizeit"
    ],
@@ -5221,7 +5221,7 @@
     "sonstiges"
    ],
    "source": "ulm",
-   "id": "exjvfk"
+   "id": "emx9zv"
   },
   {
    "title": "Lust auf einen Spaziergang?",
@@ -5692,6 +5692,30 @@
    ],
    "source": "ulm",
    "id": "-dzxdx5"
+  },
+  {
+   "title": "Ferienworkshop mit Joo Fürst: Wir vertonen einen Film! (Für 8- bis 12-Jährige)",
+   "subtitle": "",
+   "start": "2026-11-05T10:00",
+   "end": null,
+   "venue": "Zehntstadel Leipheim",
+   "street": "Schlosshof 2",
+   "zip": "89340",
+   "city": "Leipheim",
+   "price": "Teilnahmegebühr 35 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52749/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=863629672&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.45026,
+   "lon": 10.21928,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "bdkdet"
   }
  ]
 }
