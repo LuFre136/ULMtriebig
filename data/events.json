@@ -1,31 +1,7 @@
 {
- "generated": "2026-10-22T20:05:50.775Z",
+ "generated": "2026-10-23T09:20:15.707Z",
  "count": 245,
  "events": [
-  {
-   "title": "Eröffnung der Ausstellung Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik (23.10.2026 – 29.03.2027)",
-   "subtitle": "",
-   "start": "2026-10-22T18:30",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53323/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2109272759&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "jtdytz"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -5808,6 +5784,30 @@
    ],
    "source": "ulm",
    "id": "-rqq28u"
+  },
+  {
+   "title": "Wolle-Festival Ulm",
+   "subtitle": "Handarbeitsmesse zum Stricken, Häkeln, Nähen, Austauschen und Lernen",
+   "start": "2026-11-06T10:00",
+   "end": null,
+   "venue": "Ulm-Messe",
+   "street": "Böfinger Straße 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53156/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1454949421&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.41182,
+   "lon": 10.01061,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-97tfiu"
   }
  ]
 }
