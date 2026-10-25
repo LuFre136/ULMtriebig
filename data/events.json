@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-25T09:08:07.494Z",
- "count": 249,
+ "generated": "2026-10-25T14:22:00.058Z",
+ "count": 254,
  "events": [
   {
    "title": "Ausstellung",
@@ -26,29 +26,6 @@
    "id": "-p03jii"
   },
   {
-   "title": "Eltern mit Baby Spaziergang – jeden Sonntag",
-   "subtitle": "peerwalk",
-   "start": "2026-10-25T09:30",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47802/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1015178652&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "wtfet9"
-  },
-  {
    "title": "Vinyl+CD-Markt Ulm",
    "subtitle": "Größte Schallplattenboerse Süddeutschlands",
    "start": "2026-10-25T10:00",
@@ -71,30 +48,6 @@
    ],
    "source": "ulm",
    "id": "pqb7e0"
-  },
-  {
-   "title": "Gottesdienst",
-   "subtitle": "Begegne Gott neu - lebendig & persönlich",
-   "start": "2026-10-25T10:00",
-   "end": null,
-   "venue": "Connect Church Ulm",
-   "street": "Riedweg 37d",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47593/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=22472329&width=600&height=-1",
-   "categories": [
-    "Stadt",
-    "Religion"
-   ],
-   "lat": 48.40136,
-   "lon": 9.94318,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "dkg4e0"
   },
   {
    "title": "Führungen in der Bundesfestung Ulm: Fort Albeck Werk XXXIX, Albecker Steige",
@@ -265,30 +218,6 @@
    "id": "71jdh6"
   },
   {
-   "title": "Matinée: 1. und 2. Philharmonisches Konzert 2026",
-   "subtitle": "Einführungsveranstaltung",
-   "start": "2026-10-25T11:00",
-   "end": null,
-   "venue": "Theater Ulm, FOYER",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53684/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-962472053&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "scke5s"
-  },
-  {
    "title": "Neue Ausstellung „Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik“",
    "subtitle": "",
    "start": "2026-10-25T11:00",
@@ -313,76 +242,6 @@
    "id": "4gjzb8"
   },
   {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-25T11:30",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "fag81i"
-  },
-  {
-   "title": "Sonntag Mittag Spaziergang – Jeden Sonntag",
-   "subtitle": "Spazieren und Leute treffen - peerwalk",
-   "start": "2026-10-25T12:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48284/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1450805097&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-hp9kcs"
-  },
-  {
-   "title": "Mosaik Meisterwek für Dein Zuhause - Ulm",
-   "subtitle": "Ein Tablett? Das ist Kunst to go!",
-   "start": "2026-10-25T13:00",
-   "end": null,
-   "venue": "werk.stadt.ulm",
-   "street": "Rosengasse 11",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Einzelticket 65 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51643/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1103317200&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40114,
-   "lon": 9.99491,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "8r8so"
-  },
-  {
    "title": "Schlittschuhlaufen",
    "subtitle": "Zeit für Ihren Wintertraum",
    "start": "2026-10-25T13:00",
@@ -405,54 +264,6 @@
    ],
    "source": "ulm",
    "id": "-8rgjn5"
-  },
-  {
-   "title": "Öffentliche Führung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
-   "subtitle": "",
-   "start": "2026-10-25T14:00",
-   "end": null,
-   "venue": "kunsthalle weishaupt",
-   "street": "Hans-und-Sophie-Scholl-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52107/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=517612964&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39746,
-   "lon": 9.99396,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-mb4kty"
-  },
-  {
-   "title": "Donau Flussgeschichten",
-   "subtitle": "Öffentliche Führung",
-   "start": "2026-10-25T14:00",
-   "end": null,
-   "venue": "Donauschwäbisches Zentralmuseum",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Normalpreis 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48001/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1476676272&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "7r9ueg"
   },
   {
    "title": "Mobilität im Wandel",
@@ -503,27 +314,28 @@
    "id": "gcv6o9"
   },
   {
-   "title": "Lust auf einen Spaziergang?",
-   "subtitle": "Gemeinsam unterwegs in Ulm",
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
    "start": "2026-10-25T14:30",
    "end": null,
-   "venue": "Haltestelle Botanischer Garten, Linie 2, Steig A",
-   "street": "Albert-Einstein-Allee",
-   "zip": "89081",
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
    "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51890/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1760190706&width=600&height=-1",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
    "categories": [
-    "Freizeit"
+    "Freizeit",
+    "Führungen & Exkursionen"
    ],
-   "lat": 48.42248,
-   "lon": 9.94753,
+   "lat": 48.39801,
+   "lon": 9.9907,
    "types": [
-    "sonstiges"
+    "fuehrungen"
    ],
    "source": "ulm",
-   "id": "-yc3oxu"
+   "id": "tv9at5"
   },
   {
    "title": "Sonntag Nachmittag Spaziergang – Jeden Sonntag",
@@ -595,29 +407,6 @@
    ],
    "source": "ulm",
    "id": "jkg153"
-  },
-  {
-   "title": "Gerda gackert für Gerechtigkeit",
-   "subtitle": "Theater für Kinder 3+",
-   "start": "2026-10-25T15:00",
-   "end": null,
-   "venue": "Theater Mücke",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Für Kinder und Erwachsene 8 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "2fof4x"
   },
   {
    "title": "Öffentliche Führungen: Vom Logo zur Identität",
@@ -3340,6 +3129,30 @@
    "id": "wbsi7k"
   },
   {
+   "title": "Öffentliche Führung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
+   "subtitle": "",
+   "start": "2026-10-31T14:00",
+   "end": null,
+   "venue": "kunsthalle weishaupt",
+   "street": "Hans-und-Sophie-Scholl-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52107/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=517612964&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39746,
+   "lon": 9.99396,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "606jrj"
+  },
+  {
    "title": "Samstagsnachmittag - Spazieren und Leute treffen",
    "subtitle": "peerwalk",
    "start": "2026-10-31T15:00",
@@ -3796,6 +3609,53 @@
    "id": "suqz1f"
   },
   {
+   "title": "Eltern mit Baby Spaziergang – jeden Sonntag",
+   "subtitle": "peerwalk",
+   "start": "2026-11-01T09:30",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47802/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1015178652&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "8g4nbu"
+  },
+  {
+   "title": "Gottesdienst",
+   "subtitle": "Begegne Gott neu - lebendig & persönlich",
+   "start": "2026-11-01T10:00",
+   "end": null,
+   "venue": "Connect Church Ulm",
+   "street": "Riedweg 37d",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47593/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=22472329&width=600&height=-1",
+   "categories": [
+    "Stadt",
+    "Religion"
+   ],
+   "lat": 48.40136,
+   "lon": 9.94318,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-8tt7b9"
+  },
+  {
    "title": "Prinzessin Lillifee Geburtstagsparty",
    "subtitle": "",
    "start": "2026-11-01T10:30",
@@ -3891,6 +3751,29 @@
    "id": "-inootk"
   },
   {
+   "title": "Sonntag Mittag Spaziergang – Jeden Sonntag",
+   "subtitle": "Spazieren und Leute treffen - peerwalk",
+   "start": "2026-11-01T12:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48284/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1450805097&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "syjq4x"
+  },
+  {
    "title": "FLO-Zirkus by Florian Zimmer",
    "subtitle": "Die Zaubershow für Kinder",
    "start": "2026-11-01T13:00",
@@ -3983,6 +3866,29 @@
    ],
    "source": "ulm",
    "id": "-ce80s9"
+  },
+  {
+   "title": "Lust auf einen Spaziergang?",
+   "subtitle": "Gemeinsam unterwegs in Ulm",
+   "start": "2026-11-01T14:30",
+   "end": null,
+   "venue": "Haltestelle Botanischer Garten, Linie 2, Steig A",
+   "street": "Albert-Einstein-Allee",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51890/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1760190706&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.42248,
+   "lon": 9.94753,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "j4rsqp"
   },
   {
    "title": "Inteaktive Kinderführung \"Bunt gedacht\"",
@@ -4924,6 +4830,30 @@
    ],
    "source": "ulm",
    "id": "10ricb"
+  },
+  {
+   "title": "Donau Flussgeschichten",
+   "subtitle": "Öffentliche Führung",
+   "start": "2026-11-06T15:30",
+   "end": null,
+   "venue": "Donauschwäbisches Zentralmuseum",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Normalpreis 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48001/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1476676272&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "tc8neu"
   },
   {
    "title": "Osteoporose Selbsthilfe Treff",
@@ -5907,6 +5837,197 @@
    ],
    "source": "ulm",
    "id": "4jma66"
+  },
+  {
+   "title": "Monatliche Jubiläumssonntage",
+   "subtitle": "mit Kirchen- und Klosterführung",
+   "start": "2026-11-08T10:00",
+   "end": null,
+   "venue": "Prämonstratenser-Kloster Roggenburg",
+   "street": "Klosterstraße 5",
+   "zip": "89297",
+   "city": "Roggenburg",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50665/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1287378251&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.27507,
+   "lon": 10.22868,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "3l83pm"
+  },
+  {
+   "title": "Matinée: Ball im Savoy",
+   "subtitle": "Einführungsveranstaltung zur Premiere am Theater Ulm",
+   "start": "2026-11-08T11:00",
+   "end": null,
+   "venue": "Theater Ulm, FOYER",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53689/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-314971804&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "tld50v"
+  },
+  {
+   "title": "RANDALE",
+   "subtitle": "",
+   "start": "2026-11-08T14:00",
+   "end": null,
+   "venue": "ROXY Ulm, Werkhalle",
+   "street": "Schillerstraße 1/12",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "VVK 20,80 € · VVK Ermäßigt 16,40 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51301/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-757460789&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39131,
+   "lon": 9.98535,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "t63waq"
+  },
+  {
+   "title": "Donauschwaben. Aufbruch und Begegnung",
+   "subtitle": "Öffentliche Führung",
+   "start": "2026-11-08T14:00",
+   "end": null,
+   "venue": "Donauschwäbisches Zentralmuseum",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Normalpreis 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47995/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1744014909&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "npnp72"
+  },
+  {
+   "title": "Arzneipflanzen und ihre Wirkung Teil 2",
+   "subtitle": "Webinar (ZOOM)",
+   "start": "2026-11-08T14:15",
+   "end": null,
+   "venue": "Botanischer Garten der Universität Ulm",
+   "street": "Hans-Krebs-Weg",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51690/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-749116688&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.42354,
+   "lon": 9.95926,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-kchf60"
+  },
+  {
+   "title": "Offener Familiennachmittag im „werklabor“",
+   "subtitle": "Eltern mit Kindern ab 5 Jahren",
+   "start": "2026-11-08T15:00",
+   "end": null,
+   "venue": "Werklabor des Museum Ulm",
+   "street": "Neue Straße 92",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53322/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2058807016&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.39723,
+   "lon": 9.99432,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "freson"
+  },
+  {
+   "title": "Gerda gackert für Gerechtigkeit",
+   "subtitle": "Theater für Kinder 3+",
+   "start": "2026-11-08T15:00",
+   "end": null,
+   "venue": "Theater Mücke",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Für Kinder und Erwachsene 8 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "86zd8l"
+  },
+  {
+   "title": "Das Grüffelokind",
+   "subtitle": "Fortsetzung des Kinderbuchklassikers",
+   "start": "2026-11-08T15:00",
+   "end": null,
+   "venue": "Altes Theater Ulm",
+   "street": "Wagnerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Ticket 9 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53360/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=627035286&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39336,
+   "lon": 9.98005,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-d4s1mg"
   }
  ]
 }
