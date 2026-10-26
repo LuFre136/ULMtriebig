@@ -1,103 +1,7 @@
 {
- "generated": "2026-10-25T19:01:35.438Z",
- "count": 253,
+ "generated": "2026-10-26T10:05:09.854Z",
+ "count": 252,
  "events": [
-  {
-   "title": "Führungen in der Bundesfestung Ulm: Fort Albeck Werk XXXIX, Albecker Steige",
-   "subtitle": "Ulmer Extras",
-   "start": "2026-10-25T11:00",
-   "end": null,
-   "venue": "Treffpunkt: Fort Albeck Werk XXXIX, Eingang zum Reduit",
-   "street": "Fort Albeck, Albecker Steige",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Erwachsene 13 € · Ermäßigt) 9 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45656/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2098578051&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.4174,
-   "lon": 9.99119,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-nok7u"
-  },
-  {
-   "title": "Schlittschuhlaufen",
-   "subtitle": "Zeit für Ihren Wintertraum",
-   "start": "2026-10-25T13:00",
-   "end": null,
-   "venue": "Eissportanlage des Donaubad",
-   "street": "Wiblingerstr. 55",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.38585,
-   "lon": 9.98554,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "-8rgjn5"
-  },
-  {
-   "title": "Öffentliche Führung in der Sonderausstellung „Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik“",
-   "subtitle": "",
-   "start": "2026-10-25T15:00",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53326/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1720181404&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.38129,
-   "lon": 9.94872,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "p21htg"
-  },
-  {
-   "title": "Öffentliche Führungen: Vom Logo zur Identität",
-   "subtitle": "",
-   "start": "2026-10-25T15:00",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53599/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-104708722&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-64iyj8"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -214,6 +118,30 @@
    ],
    "source": "ulm",
    "id": "33wyr1"
+  },
+  {
+   "title": "Schlittschuhlaufen",
+   "subtitle": "Zeit für Ihren Wintertraum",
+   "start": "2026-10-26T12:00",
+   "end": null,
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.38585,
+   "lon": 9.98554,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-i0i1zj"
   },
   {
    "title": "Quartierstreff Mitte/Ost",
@@ -5693,6 +5621,54 @@
    ],
    "source": "ulm",
    "id": "tld50v"
+  },
+  {
+   "title": "Öffentliche Führung in der Sonderausstellung „Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik“",
+   "subtitle": "",
+   "start": "2026-11-08T11:15",
+   "end": null,
+   "venue": "HfG-Archiv Ulm",
+   "street": "Am Hochsträß 8",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53481/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.3814,
+   "lon": 9.94848,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "qi62p4"
+  },
+  {
+   "title": "Öffentliche Führungen: Vom Logo zur Identität",
+   "subtitle": "",
+   "start": "2026-11-08T11:15",
+   "end": null,
+   "venue": "HfG-Archiv Ulm",
+   "street": "Am Hochsträß 8",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53599/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-104708722&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.3814,
+   "lon": 9.94848,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-4oednk"
   },
   {
    "title": "RANDALE",
