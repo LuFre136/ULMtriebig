@@ -1,100 +1,7 @@
 {
- "generated": "2026-10-26T10:05:09.854Z",
- "count": 252,
+ "generated": "2026-10-26T16:47:15.998Z",
+ "count": 256,
  "events": [
-  {
-   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
-   "subtitle": "Radio selber machen statt einfach nur hören",
-   "start": "2026-10-26T07:00",
-   "end": null,
-   "venue": "Radio freeFM",
-   "street": "Platzgasse 18",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40057,
-   "lon": 9.9912,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "obe25p"
-  },
-  {
-   "title": "Feuerrot & Neonblau",
-   "subtitle": "Das Herbstferienprogramm in Ulm für Kinder und Jugendliche von 7 bis 17 Jahren",
-   "start": "2026-10-26T09:00",
-   "end": null,
-   "venue": "Obere Donaubastion",
-   "street": "Schillerstraße 1-4",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53385/",
-   "image": "",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39262,
-   "lon": 9.98334,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "4g15sl"
-  },
-  {
-   "title": "Ausstellung",
-   "subtitle": "Im Licht des Schattens",
-   "start": "2026-10-26T09:00",
-   "end": null,
-   "venue": "Petruskirche",
-   "street": "Petrusplatz 8",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53694/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1255875318&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39376,
-   "lon": 9.99946,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-vri2az"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-26T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-jymy5r"
-  },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
@@ -144,29 +51,6 @@
    "id": "-i0i1zj"
   },
   {
-   "title": "Quartierstreff Mitte/Ost",
-   "subtitle": "Gemeinsam weniger allein",
-   "start": "2026-10-26T13:30",
-   "end": null,
-   "venue": "Bürgerhaus Mitte, Cafeteria (EG)",
-   "street": "Schaffnerstraße 17",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40354,
-   "lon": 9.99427,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-wstihf"
-  },
-  {
    "title": "Pokemon TCG Trainer Akademie",
    "subtitle": "Dein Pokémon TCG Einsteiger-Event in Ulm",
    "start": "2026-10-26T14:00",
@@ -189,29 +73,6 @@
    ],
    "source": "ulm",
    "id": "knh5qc"
-  },
-  {
-   "title": "Lust auf einen Spaziergang?",
-   "subtitle": "Gemeinsam unterwegs in Ulm",
-   "start": "2026-10-26T14:30",
-   "end": null,
-   "venue": "Gegenüber Straßenbahnhaltestelle Staufenring",
-   "street": "Staufenring",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48574/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=227769541&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40605,
-   "lon": 10.00078,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-5yuswa"
   },
   {
    "title": "Vortrag über Heilung auf geistigem Weg durch die Lehre Bruno Grönings",
@@ -380,6 +241,75 @@
    "id": "-xk0dls"
   },
   {
+   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
+   "subtitle": "Radio selber machen statt einfach nur hören",
+   "start": "2026-10-27T07:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "hjzjd8"
+  },
+  {
+   "title": "Feuerrot & Neonblau",
+   "subtitle": "Das Herbstferienprogramm in Ulm für Kinder und Jugendliche von 7 bis 17 Jahren",
+   "start": "2026-10-27T09:00",
+   "end": null,
+   "venue": "Obere Donaubastion",
+   "street": "Schillerstraße 1-4",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53385/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39262,
+   "lon": 9.98334,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "4yi0tw"
+  },
+  {
+   "title": "Ausstellung",
+   "subtitle": "Im Licht des Schattens",
+   "start": "2026-10-27T09:00",
+   "end": null,
+   "venue": "Petruskirche",
+   "street": "Petrusplatz 8",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53694/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1255875318&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39376,
+   "lon": 9.99946,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "wi7gvo"
+  },
+  {
    "title": "Fasziengymnastik - für jedes Alter",
    "subtitle": "Faszien stärken ohne Faszienrolle",
    "start": "2026-10-27T09:30",
@@ -402,6 +332,30 @@
    ],
    "source": "ulm",
    "id": "-22a7az"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-27T10:00",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "71hpgw"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -1539,6 +1493,29 @@
    "id": "-d7cj4x"
   },
   {
+   "title": "Quartierstreff Mitte/Ost",
+   "subtitle": "Gemeinsam weniger allein",
+   "start": "2026-10-29T13:30",
+   "end": null,
+   "venue": "Bürgerhaus Mitte, Cafeteria (EG)",
+   "street": "Schaffnerstraße 17",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40354,
+   "lon": 9.99427,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-vbddfa"
+  },
+  {
    "title": "Traces in a Sandbox — Julius Bobke / Wolfgang Günther",
    "subtitle": "Spannender künstlerischer Dialog im historischen Schuhhaussaal",
    "start": "2026-10-29T14:00",
@@ -1750,6 +1727,29 @@
    ],
    "source": "ulm",
    "id": "77jjn2"
+  },
+  {
+   "title": "Erneuerbar, grün und clever",
+   "subtitle": "Energiewende selber machen!",
+   "start": "2026-10-29T17:30",
+   "end": null,
+   "venue": "Weststadthaus",
+   "street": "Moltkestraße 10",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53838/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=11859206&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.39332,
+   "lon": 9.96611,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "mn4jee"
   },
   {
    "title": "Ulms ungelöste Rätsel – NEU!",
@@ -2745,30 +2745,6 @@
    ],
    "source": "ulm",
    "id": "2v98fz"
-  },
-  {
-   "title": "3 Museen Tour NEU!",
-   "subtitle": "Ulmer Extras",
-   "start": "2026-10-31T13:00",
-   "end": null,
-   "venue": "Dentler-Museum",
-   "street": "Gerbergasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene 13 € · Ermäßigt 9 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50674/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=862499949&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39676,
-   "lon": 9.98851,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "wbsi7k"
   },
   {
    "title": "Öffentliche Führung \"Wenn Farben Formen finden. Werke aus der Sammlung\"",
@@ -4520,6 +4496,29 @@
    "id": "-rqq28u"
   },
   {
+   "title": "Winterfreude pur beim Eisstockschießen",
+   "subtitle": "Winterfreude pur – Eisstockschießen & Genuss in der Seeberger Genusswelt!",
+   "start": "2026-11-06T08:00",
+   "end": null,
+   "venue": "Seeberger Genusswelt GmbH",
+   "street": "Hans-Lorenser-Str. 20",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "1 Stunde 79 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50661/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=770724919&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35945,
+   "lon": 9.95132,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-7hzdt"
+  },
+  {
    "title": "Wolle-Festival Ulm",
    "subtitle": "Handarbeitsmesse zum Stricken, Häkeln, Nähen, Austauschen und Lernen",
    "start": "2026-11-06T10:00",
@@ -4613,6 +4612,30 @@
    ],
    "source": "ulm",
    "id": "-svfy39"
+  },
+  {
+   "title": "Pfadfindertreff \"Royal Rangers\"",
+   "subtitle": "",
+   "start": "2026-11-06T17:00",
+   "end": null,
+   "venue": "Connect Church Ulm",
+   "street": "Riedweg 37d",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50844/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=733885478&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Vereine"
+   ],
+   "lat": 48.40136,
+   "lon": 9.94318,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-utkrq3"
   },
   {
    "title": "Teatro Offener Treff",
@@ -4733,6 +4756,30 @@
    ],
    "source": "ulm",
    "id": "47i19x"
+  },
+  {
+   "title": "Joke Busters",
+   "subtitle": "Open Mic Comedy",
+   "start": "2026-11-06T19:00",
+   "end": null,
+   "venue": "Studentencafé",
+   "street": "Stuttgarter Strasse 15",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53825/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-81986456&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40793,
+   "lon": 9.99946,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-kjh55f"
   },
   {
    "title": "Mina Richman Different Flavours of Being Happy Tour",
@@ -5977,6 +6024,54 @@
    ],
    "source": "ulm",
    "id": "-6bjtw9"
+  },
+  {
+   "title": "Weihnachtsbaumsetzung",
+   "subtitle": "Hotel Ulmer Stuben",
+   "start": "2026-11-09T14:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz Ulm",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53750/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1101793493&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39843,
+   "lon": 9.99095,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-qfxa98"
+  },
+  {
+   "title": "Nie genug von Sumsebar",
+   "subtitle": "Ein upgecyceltes Musiktheaterstück über Nachhaltigkeit und Kreativität",
+   "start": "2026-11-09T15:00",
+   "end": null,
+   "venue": "Kulturzentrum Wolfgang-Eychmüller-Haus",
+   "street": "Hettstetter Platz 1",
+   "zip": "89269",
+   "city": "Vöhringen",
+   "price": "Einheitskategorie 5 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52160/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2146255923&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.28986,
+   "lon": 10.09115,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "598ia"
   }
  ]
 }
