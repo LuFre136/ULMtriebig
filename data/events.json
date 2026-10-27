@@ -1,124 +1,7 @@
 {
- "generated": "2026-10-27T09:47:44.543Z",
+ "generated": "2026-10-27T15:52:38.690Z",
  "count": 250,
  "events": [
-  {
-   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
-   "subtitle": "Radio selber machen statt einfach nur hören",
-   "start": "2026-10-27T07:00",
-   "end": null,
-   "venue": "Radio freeFM",
-   "street": "Platzgasse 18",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40057,
-   "lon": 9.9912,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "hjzjd8"
-  },
-  {
-   "title": "Feuerrot & Neonblau",
-   "subtitle": "Das Herbstferienprogramm in Ulm für Kinder und Jugendliche von 7 bis 17 Jahren",
-   "start": "2026-10-27T09:00",
-   "end": null,
-   "venue": "Obere Donaubastion",
-   "street": "Schillerstraße 1-4",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53385/",
-   "image": "",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39262,
-   "lon": 9.98334,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "4yi0tw"
-  },
-  {
-   "title": "Ausstellung",
-   "subtitle": "Im Licht des Schattens",
-   "start": "2026-10-27T09:00",
-   "end": null,
-   "venue": "Petruskirche",
-   "street": "Petrusplatz 8",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53694/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1255875318&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39376,
-   "lon": 9.99946,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "wi7gvo"
-  },
-  {
-   "title": "Fasziengymnastik - für jedes Alter",
-   "subtitle": "Faszien stärken ohne Faszienrolle",
-   "start": "2026-10-27T09:30",
-   "end": null,
-   "venue": "Johanneshaus",
-   "street": "Johannesplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Teilnahmebeitrag pro Treffen 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.39453,
-   "lon": 10.00008,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "-22a7az"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-27T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "71hpgw"
-  },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
@@ -264,29 +147,6 @@
    "id": "82usoy"
   },
   {
-   "title": "Offene Beratung für Eltern",
-   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
-   "start": "2026-10-27T12:00",
-   "end": null,
-   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
-   "street": "Schaffnerstraße 18/1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40324,
-   "lon": 9.99371,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-rmapvd"
-  },
-  {
    "title": "Schlittschuhlaufen",
    "subtitle": "Zeit für Ihren Wintertraum",
    "start": "2026-10-27T12:00",
@@ -356,30 +216,6 @@
    ],
    "source": "ulm",
    "id": "6cndh6"
-  },
-  {
-   "title": "Die spannende Welt der Haie",
-   "subtitle": "Kindervortrag von Enno Stiller",
-   "start": "2026-10-27T15:00",
-   "end": null,
-   "venue": "Naturmuseum Ulm",
-   "street": "Kornhausgasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53512/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1338901487&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.3998,
-   "lon": 9.99573,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "8mymld"
   },
   {
    "title": "Schneideplotter-Einweisung",
@@ -761,6 +597,29 @@
    "id": "9rnbnb"
   },
   {
+   "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
+   "subtitle": "Radio selber machen statt einfach nur hören",
+   "start": "2026-10-28T07:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53213/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1933648928&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "asl0kr"
+  },
+  {
    "title": "Neu-Ulmer Wochenmarkt",
    "subtitle": "",
    "start": "2026-10-28T07:00",
@@ -783,6 +642,76 @@
    ],
    "source": "ulm",
    "id": "8l8462"
+  },
+  {
+   "title": "Feuerrot & Neonblau",
+   "subtitle": "Das Herbstferienprogramm in Ulm für Kinder und Jugendliche von 7 bis 17 Jahren",
+   "start": "2026-10-28T09:00",
+   "end": null,
+   "venue": "Obere Donaubastion",
+   "street": "Schillerstraße 1-4",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53385/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39262,
+   "lon": 9.98334,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "5gyvv7"
+  },
+  {
+   "title": "Ausstellung",
+   "subtitle": "Im Licht des Schattens",
+   "start": "2026-10-28T09:00",
+   "end": null,
+   "venue": "Petruskirche",
+   "street": "Petrusplatz 8",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53694/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1255875318&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39376,
+   "lon": 9.99946,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "pqsy37"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-28T10:00",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "y1md3j"
   },
   {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
@@ -3162,14 +3091,15 @@
    "city": "Neu-Ulm",
    "price": "",
    "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53425/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1938151148&width=600&height=-1",
+   "image": "",
    "categories": [
-    "Freizeit"
+    "Freizeit",
+    "Feste & Events"
    ],
    "lat": 48.38393,
    "lon": 10.00759,
    "types": [
-    "sonstiges"
+    "feste"
    ],
    "source": "ulm",
    "id": "-g2vhx4"
@@ -3714,6 +3644,29 @@
    ],
    "source": "ulm",
    "id": "-l0nq6u"
+  },
+  {
+   "title": "Offene Beratung für Eltern",
+   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
+   "start": "2026-11-03T12:00",
+   "end": null,
+   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
+   "street": "Schaffnerstraße 18/1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40324,
+   "lon": 9.99371,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "pukrt6"
   },
   {
    "title": "Farbexperimente - alles ganz zwanglos",
@@ -5926,6 +5879,54 @@
    ],
    "source": "ulm",
    "id": "-aha2kh"
+  },
+  {
+   "title": "Fasziengymnastik - für jedes Alter",
+   "subtitle": "Faszien stärken ohne Faszienrolle",
+   "start": "2026-11-10T09:30",
+   "end": null,
+   "venue": "Johanneshaus",
+   "street": "Johannesplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Teilnahmebeitrag pro Treffen 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.39453,
+   "lon": 10.00008,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-8oayqc"
+  },
+  {
+   "title": "Wissenschaftscafé – Science Slam interaktiv",
+   "subtitle": "",
+   "start": "2026-11-10T16:30",
+   "end": null,
+   "venue": "Zentralbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53769/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-233711029&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-2nv9f4"
   }
  ]
 }
