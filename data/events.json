@@ -1,31 +1,7 @@
 {
- "generated": "2026-10-27T20:40:52.575Z",
+ "generated": "2026-10-28T10:33:24.000Z",
  "count": 246,
  "events": [
-  {
-   "title": "Haie – elegante und anmutige Räuber der Meere (Vortrag für Erwachsene)",
-   "subtitle": "Vortrag von Enno Stiller, Vorsitzender der Deutschen Elasmobranchier-Gesellschaft e. V.",
-   "start": "2026-10-27T18:00",
-   "end": null,
-   "venue": "Naturmuseum Ulm",
-   "street": "Kornhausgasse 3",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53513/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=733493400&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.3998,
-   "lon": 9.99573,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "enwvai"
-  },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
    "subtitle": "Weil frisch einfach besser ist!",
@@ -5831,6 +5807,29 @@
    ],
    "source": "ulm",
    "id": "-scfs5m"
+  },
+  {
+   "title": "Info am Morgen: Wording und Framing",
+   "subtitle": "Kurz-Seminar mit Rudolf Kübler, Journalist",
+   "start": "2026-11-11T10:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53662/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-631537717&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "uxcxs7"
   }
  ]
 }
