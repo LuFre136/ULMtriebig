@@ -1,78 +1,7 @@
 {
- "generated": "2026-10-28T21:01:42.728Z",
+ "generated": "2026-10-29T10:53:10.504Z",
  "count": 255,
  "events": [
-  {
-   "title": "European Outdoor Film Tour 26/27 - EOFT",
-   "subtitle": "Die besten Outdoor & Abenteuer Film des Jahres",
-   "start": "2026-10-28T19:30",
-   "end": null,
-   "venue": "Kornhaus",
-   "street": "Kornhausplatz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "VVK 22–24 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50858/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1036847853&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Film"
-   ],
-   "lat": 48.39971,
-   "lon": 9.99475,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "3dax42"
-  },
-  {
-   "title": "Irish Folk Session",
-   "subtitle": "wie in Irland",
-   "start": "2026-10-28T20:00",
-   "end": null,
-   "venue": "Fiddler’s Green Irish Pub",
-   "street": "Volkertshofener Straße 7A",
-   "zip": "89284",
-   "city": "Pfaffenhofen",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53784/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1467867608&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35089,
-   "lon": 10.15547,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "c0qsrk"
-  },
-  {
-   "title": "Nachtwächter-Führung",
-   "subtitle": "Erlebnisführung im historischen Gewand",
-   "start": "2026-10-28T21:00",
-   "end": null,
-   "venue": "Treffpunkt: Gerberhaus, Weinhofberg",
-   "street": "Weinhofberg 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene 2025/26 15 € · Ermäßigt 2025/26 11 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38833/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600012964&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39661,
-   "lon": 9.98915,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-ri3zus"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -141,30 +70,6 @@
    ],
    "source": "ulm",
    "id": "izefaq"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-10-29T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-9zd18y"
   },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
@@ -499,6 +404,30 @@
    ],
    "source": "ulm",
    "id": "-cfd16v"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-10-29T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-46g6mj"
   },
   {
    "title": "Lasercutter (X-Tool)-Einweisung",
@@ -3744,6 +3673,30 @@
    "id": "-c5jo40"
   },
   {
+   "title": "Nachtwächter-Führung",
+   "subtitle": "Erlebnisführung im historischen Gewand",
+   "start": "2026-11-04T21:00",
+   "end": null,
+   "venue": "Treffpunkt: Gerberhaus, Weinhofberg",
+   "street": "Weinhofberg 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene 2025/26 15 € · Ermäßigt 2025/26 11 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38833/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1600012964&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39661,
+   "lon": 9.98915,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "gi2rh5"
+  },
+  {
    "title": "Mittwochsjam",
    "subtitle": "Jeden Mittwoch improvisiertes musizieren. Egal ob Anfänge oder Profi.",
    "start": "2026-11-04T21:00",
@@ -6049,6 +6002,53 @@
    ],
    "source": "ulm",
    "id": "uidwhe"
+  },
+  {
+   "title": "Seeberger Sonderverkauf am 12. & 13. November 2026",
+   "subtitle": "Großer Sonderverkauf in der Seeberger Genusswelt",
+   "start": "2026-11-12T08:00",
+   "end": null,
+   "venue": "Seeberger Genusswelt GmbH",
+   "street": "Hans-Lorenser-Str. 20",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50956/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=191088460&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.35945,
+   "lon": 9.95132,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-xjflp7"
+  },
+  {
+   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
+   "subtitle": "donnerstags",
+   "start": "2026-11-12T09:30",
+   "end": null,
+   "venue": "Ev.-Freikirchliche Gemeinde Ulm/Neu-Ulm",
+   "street": "John-F.-Kennedy-Straße 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.37963,
+   "lon": 10.00735,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-cw1i0o"
   }
  ]
 }
