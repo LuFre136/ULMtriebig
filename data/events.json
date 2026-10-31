@@ -1,246 +1,7 @@
 {
- "generated": "2026-10-30T20:46:44.722Z",
- "count": 272,
+ "generated": "2026-10-31T10:22:19.184Z",
+ "count": 276,
  "events": [
-  {
-   "title": "Die Kunst des Brot(backen)s - ABGESAGT",
-   "subtitle": "Erleben Sie handwerkliche Brotkunst mit allen Sinnen.",
-   "start": "2026-10-30T16:30",
-   "end": null,
-   "venue": "Seeberger Genusswelt GmbH",
-   "street": "Hans-Lorenser-Str. 20",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "Erwachsener 79,90 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53379/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1495010310&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35945,
-   "lon": 9.95132,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-e4oc3z"
-  },
-  {
-   "title": "Abendglimmen",
-   "subtitle": "Lichtkunst im Wald bei Böfingen",
-   "start": "2026-10-30T17:00",
-   "end": null,
-   "venue": "Turnhalle der Eduard-Mörike-Schule",
-   "street": "Hofäckerweg 84",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Vollzahler 1 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52942/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.42535,
-   "lon": 10.01713,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-zddpk7"
-  },
-  {
-   "title": "Open 3D-Drucker Lab",
-   "subtitle": "Offenes 3D Drucken für alle",
-   "start": "2026-10-30T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "agxq2m"
-  },
-  {
-   "title": "Fashion Lab",
-   "subtitle": "Nähen - Upcyceln - Reparieren",
-   "start": "2026-10-30T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-2zbntw"
-  },
-  {
-   "title": "Open Game Lab",
-   "subtitle": "Virtual Reality - Indie und Retro Gaming",
-   "start": "2026-10-30T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-tgsljo"
-  },
-  {
-   "title": "Open Fab Lab",
-   "subtitle": "Repair, Lasercutten und Löten",
-   "start": "2026-10-30T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-uk1axj"
-  },
-  {
-   "title": "The Blues Mothers LIVE",
-   "subtitle": "LIVE in der Pflugbrauerei Hörvelsingen",
-   "start": "2026-10-30T19:30",
-   "end": null,
-   "venue": "Pflugbrauerei Hörvelsingen",
-   "street": "Wirtsgasse 7",
-   "zip": "89129",
-   "city": "Langenau",
-   "price": "Erwachsene 12 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53752/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-843663127&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4862,
-   "lon": 10.02768,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-vvpfew"
-  },
-  {
-   "title": "ULMFASSBAR",
-   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
-   "start": "2026-10-30T20:00",
-   "end": null,
-   "venue": "Florian Zimmer Theater",
-   "street": "Grethe-Weiser-Straße 2/1",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.38393,
-   "lon": 10.00759,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "bqgpl3"
-  },
-  {
-   "title": "Wie es euch gefällt",
-   "subtitle": "Von William Shakespeare, in einer Neuübersetzung von Sebastian Schug",
-   "start": "2026-10-30T20:00",
-   "end": null,
-   "venue": "Theater Ulm, GROSSES HAUS",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53678/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-152812412&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "ew249v"
-  },
-  {
-   "title": "HALLOWEEN! Part 1",
-   "subtitle": "",
-   "start": "2026-10-30T21:00",
-   "end": null,
-   "venue": "Cocomo Club Ulm",
-   "street": "Hirschstraße 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53449/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1869699618&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.39889,
-   "lon": 9.98925,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "6qamie"
-  },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
    "subtitle": "Weil frisch einfach besser ist!",
@@ -719,6 +480,30 @@
    "id": "-fxgzz3"
   },
   {
+   "title": "ULMFASSBAR",
+   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
+   "start": "2026-10-31T15:00",
+   "end": null,
+   "venue": "Florian Zimmer Theater",
+   "street": "Grethe-Weiser-Straße 2/1",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
+   "image": "",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.38393,
+   "lon": 10.00759,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "omcpsc"
+  },
+  {
    "title": "Kasperle und das Schlossgespenst",
    "subtitle": "",
    "start": "2026-10-31T15:00",
@@ -790,27 +575,27 @@
   },
   {
    "title": "Abendglimmen",
-   "subtitle": "Lichtkunst im Böfinger Wald",
+   "subtitle": "Lichtkunst im Wald bei Böfingen",
    "start": "2026-10-31T17:00",
    "end": null,
-   "venue": "Stadtteilbibliothek Böfingen",
-   "street": "Haslacher Weg 93",
+   "venue": "Turnhalle der Eduard-Mörike-Schule",
+   "street": "Hofäckerweg 84",
    "zip": "89075",
    "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52953/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1217590289&width=600&height=-1",
+   "price": "Vollzahler 1 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52942/",
+   "image": "",
    "categories": [
     "Kultur",
-    "Literatur"
+    "Ausstellungen"
    ],
-   "lat": 48.43058,
-   "lon": 10.02007,
+   "lat": 48.42535,
+   "lon": 10.01713,
    "types": [
-    "bildung"
+    "ausstellungen"
    ],
    "source": "ulm",
-   "id": "6g1lj7"
+   "id": "-xbie14"
   },
   {
    "title": "Halloween im Naturmuseum",
@@ -3576,6 +3361,101 @@
    ],
    "source": "ulm",
    "id": "-x2wvnb"
+  },
+  {
+   "title": "Open 3D-Drucker Lab",
+   "subtitle": "Offenes 3D Drucken für alle",
+   "start": "2026-11-06T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-alyta2"
+  },
+  {
+   "title": "Fashion Lab",
+   "subtitle": "Nähen - Upcyceln - Reparieren",
+   "start": "2026-11-06T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-o2876k"
+  },
+  {
+   "title": "Open Game Lab",
+   "subtitle": "Virtual Reality - Indie und Retro Gaming",
+   "start": "2026-11-06T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "khex2s"
+  },
+  {
+   "title": "Open Fab Lab",
+   "subtitle": "Repair, Lasercutten und Löten",
+   "start": "2026-11-06T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "je67ox"
   },
   {
    "title": "Kirtan und Aarti",
@@ -6461,6 +6341,219 @@
    ],
    "source": "ulm",
    "id": "s5jerb"
+  },
+  {
+   "title": "Temple Bar Session",
+   "subtitle": "wie in Dublin",
+   "start": "2026-11-13T21:30",
+   "end": null,
+   "venue": "Fiddler’s Green Irish Pub",
+   "street": "Volkertshofener Straße 7A",
+   "zip": "89284",
+   "city": "Pfaffenhofen",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53789/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-820260091&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35089,
+   "lon": 10.15547,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "vfklqi"
+  },
+  {
+   "title": "Habibiparty",
+   "subtitle": "Clubevent elektronische Musik mit arabischen, türkischen Einflüssen. International",
+   "start": "2026-11-13T22:00",
+   "end": null,
+   "venue": "Cabaret Eden",
+   "street": "Karlstraße 71",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53515/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1726157578&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.40638,
+   "lon": 9.99534,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "6rftgs"
+  },
+  {
+   "title": "Bhakti Wochenende",
+   "subtitle": "",
+   "start": "2026-11-14T10:00",
+   "end": null,
+   "venue": "Sri Neem Karoli Baba Mandir",
+   "street": "Nelsonallee 22",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48139/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-228297154&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39025,
+   "lon": 10.01669,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-vucyua"
+  },
+  {
+   "title": "Louise Stomps. Konturen des Inneren",
+   "subtitle": "Sonderausstellung im Kunstmuseum",
+   "start": "2026-11-14T10:00",
+   "end": null,
+   "venue": "Edwin Scharff Museum, Kunstmuseum",
+   "street": "Petrusplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53652/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-338397624&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39361,
+   "lon": 9.9991,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-g3ub8c"
+  },
+  {
+   "title": "Dein Einstieg: Radio-Baukasten bei Radio free FM - Redaktion/Recherche, Moderation/Interview",
+   "subtitle": "Radio machen statt einfach nur hören",
+   "start": "2026-11-14T10:00",
+   "end": null,
+   "venue": "Radio freeFM",
+   "street": "Platzgasse 18",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53657/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=304876325&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.40057,
+   "lon": 9.9912,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-sjywvn"
+  },
+  {
+   "title": "Lachyoga Ausbildung",
+   "subtitle": "Learning by doing, Sicherheit und Kompetenz in der Anleitung",
+   "start": "2026-11-14T10:00",
+   "end": null,
+   "venue": "Albertinum",
+   "street": "Heinz-Rühmann-Str. 7",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Erwachsene/adults 375 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50084/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-690455726&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.38427,
+   "lon": 10.00665,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-jx38bq"
+  },
+  {
+   "title": "Kinder-Hochschule: Stadt der Zukunft – wie wollen wir morgen leben",
+   "subtitle": "",
+   "start": "2026-11-14T10:30",
+   "end": null,
+   "venue": "vh Ulm, Club Orange",
+   "street": "Kornhausplatz 5",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53646/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=471394117&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.40006,
+   "lon": 9.99453,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-l7135v"
+  },
+  {
+   "title": "Große Erlebniswelt-Tour in der Seeberger Genusswelt",
+   "subtitle": "",
+   "start": "2026-11-14T11:00",
+   "end": null,
+   "venue": "Seeberger Genusswelt GmbH",
+   "street": "Hans-Lorenser-Str. 20",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "Erwachsener 8,50 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50337/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=788016879&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.35945,
+   "lon": 9.95132,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "szbqfr"
+  },
+  {
+   "title": "Kleiderkarussell",
+   "subtitle": "tauschen, verschenken, mitnehmen",
+   "start": "2026-11-14T11:00",
+   "end": null,
+   "venue": "Haus der Nachhaltigkeit",
+   "street": "Augsburger Straße 23- 25",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53663/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1138764940&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39632,
+   "lon": 10.00203,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-l22dm6"
   }
  ]
 }
