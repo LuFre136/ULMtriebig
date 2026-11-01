@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-31T19:57:43.364Z",
- "count": 284,
+ "generated": "2026-11-01T11:14:47.580Z",
+ "count": 277,
  "events": [
   {
    "title": "Einführung in die Gewaltfreie Kommunikation",
    "subtitle": "Veränderung beginnt in Dir – Einführungsseminar",
-   "start": "2026-10-31T09:30",
+   "start": "2026-11-01T09:00",
    "end": null,
    "venue": "Martinusheim",
    "street": "Dreifaltigkeitsweg 21",
@@ -24,370 +24,7 @@
     "bildung"
    ],
    "source": "ulm",
-   "id": "ua5rv2"
-  },
-  {
-   "title": "Schlittschuhlaufen",
-   "subtitle": "Zeit für Ihren Wintertraum",
-   "start": "2026-10-31T14:00",
-   "end": null,
-   "venue": "Eissportanlage des Donaubad",
-   "street": "Wiblingerstr. 55",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.38585,
-   "lon": 9.98554,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "i5xl8p"
-  },
-  {
-   "title": "Open Tower - Halloween Edition",
-   "subtitle": "Gruseln in den historischen Mauern der Wilhelmsburg",
-   "start": "2026-10-31T16:00",
-   "end": null,
-   "venue": "Wilhelmsburg Ulm",
-   "street": "Prittwitzstraße 100",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53822/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-471075323&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.41192,
-   "lon": 9.98291,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "jjhkxb"
-  },
-  {
-   "title": "Abendglimmen",
-   "subtitle": "Lichtkunst im Wald bei Böfingen",
-   "start": "2026-10-31T17:00",
-   "end": null,
-   "venue": "Turnhalle der Eduard-Mörike-Schule",
-   "street": "Hofäckerweg 84",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Vollzahler 1 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52942/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.42535,
-   "lon": 10.01713,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-xbie14"
-  },
-  {
-   "title": "Mords-Kolleginnen",
-   "subtitle": "Krimi-Komödie von Frank Piotraschke",
-   "start": "2026-10-31T19:00",
-   "end": null,
-   "venue": "Theater Neu-Ulm",
-   "street": "Hermann-Köhl-Straße 3",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51541/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1350739725&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39431,
-   "lon": 9.99757,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "om7gzq"
-  },
-  {
-   "title": "Live im Hexenhaus e.V.: RAW ENSEMBLE + ABRASIVE + ARKHAM CIRCLE",
-   "subtitle": "Thrash Metal",
-   "start": "2026-10-31T19:00",
-   "end": null,
-   "venue": "Hexenhaus e.V.",
-   "street": "Mähringer Weg 75",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Eintritt 15 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53561/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-257364275&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.41054,
-   "lon": 9.9635,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "q8tbkg"
-  },
-  {
-   "title": "La Juive (Die Jüdin)",
-   "subtitle": "Oper in fünf Akten, Musik von Fromental Halévy, Libretto von Eugène Scribe, In französischer Sprache mit deutschen Übertiteln",
-   "start": "2026-10-31T19:00",
-   "end": null,
-   "venue": "Theater Ulm",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-667079160&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-78vqtf"
-  },
-  {
-   "title": "Eisdisco - Der coolste Samstagabend!",
-   "subtitle": "Eissportanlage am Donaubad",
-   "start": "2026-10-31T19:00",
-   "end": null,
-   "venue": "Eissportanlage des Donaubad",
-   "street": "Wiblingerstr. 55",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Familie groß 17,50 € · Familie klein 11 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53756/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-327559323&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.38585,
-   "lon": 9.98554,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-p50nmw"
-  },
-  {
-   "title": "Spaceman",
-   "subtitle": "Nach dem Roman SPACEMAN OF BOHEMIA von Jaroslav Kalfa, aus dem Amerikanischen von Barbara Heller, für die Bühne bearbeitet von Greta Calinescu und Peter Krauch",
-   "start": "2026-10-31T19:30",
-   "end": null,
-   "venue": "Theater Ulm, PODIUM",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53679/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1013721683&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "475tbm"
-  },
-  {
-   "title": "Parshad - Emotional sein Vadder",
-   "subtitle": "Live Comedy Tour",
-   "start": "2026-10-31T20:00",
-   "end": null,
-   "venue": "Edwin-Scharff-Haus",
-   "street": "Silcherstraße 40",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51784/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2016980854&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39345,
-   "lon": 9.9911,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "uy1xuq"
-  },
-  {
-   "title": "ULMFASSBAR",
-   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
-   "start": "2026-10-31T20:00",
-   "end": null,
-   "venue": "Florian Zimmer Theater",
-   "street": "Grethe-Weiser-Straße 2/1",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.38393,
-   "lon": 10.00759,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "bx795y"
-  },
-  {
-   "title": "HALLOWEEN! Part 2",
-   "subtitle": "",
-   "start": "2026-10-31T20:00",
-   "end": null,
-   "venue": "Cocomo Club Ulm",
-   "street": "Hirschstraße 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53450/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=414519372&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.39889,
-   "lon": 9.98925,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-jzrfk9"
-  },
-  {
-   "title": "Randale & Liebe",
-   "subtitle": "Live im Fiddlers Green Pub",
-   "start": "2026-10-31T20:30",
-   "end": null,
-   "venue": "Fiddler’s Green Irish Pub",
-   "street": "Volkertshofener Straße 7A",
-   "zip": "89284",
-   "city": "Pfaffenhofen",
-   "price": "Erwachsene/adults 16 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53785/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1336892279&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.35089,
-   "lon": 10.15547,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "-jwxzce"
-  },
-  {
-   "title": "Halloween",
-   "subtitle": "",
-   "start": "2026-10-31T21:00",
-   "end": null,
-   "venue": "Wiley Club",
-   "street": "Wileystraße 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51290/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2057593056&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.38049,
-   "lon": 10.00716,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-ym30g"
-  },
-  {
-   "title": "HALLOWEEN HORROR HAUSPARTY - Ulms gruseligste Studentenparty zu Halloween!",
-   "subtitle": "The only place to survive Halloween...",
-   "start": "2026-10-31T22:00",
-   "end": null,
-   "venue": "Biergarten Teutonia",
-   "street": "Friedrichsau 6",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Studenten 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53643/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=82286374&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.40755,
-   "lon": 10.01421,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-9yov7d"
-  },
-  {
-   "title": "Halloween im Studentencafé",
-   "subtitle": "2 Floors: Cave Acceleration // Graveyard Deceleration mit Techno, Trance House & DnB",
-   "start": "2026-10-31T22:00",
-   "end": null,
-   "venue": "Studentencafé",
-   "street": "Stuttgarter Strasse 15",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "Halloween 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53731/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-385978746&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.40793,
-   "lon": 9.99946,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "suqz1f"
+   "id": "-yewr7b"
   },
   {
    "title": "Ausstellung",
@@ -413,29 +50,6 @@
    "id": "fmy795"
   },
   {
-   "title": "Eltern mit Baby Spaziergang – jeden Sonntag",
-   "subtitle": "peerwalk",
-   "start": "2026-11-01T09:30",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47802/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1015178652&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "8g4nbu"
-  },
-  {
    "title": "Gottesdienst",
    "subtitle": "Begegne Gott neu - lebendig & persönlich",
    "start": "2026-11-01T10:00",
@@ -458,30 +72,6 @@
    ],
    "source": "ulm",
    "id": "-8tt7b9"
-  },
-  {
-   "title": "Prinzessin Lillifee Geburtstagsparty",
-   "subtitle": "",
-   "start": "2026-11-01T10:30",
-   "end": null,
-   "venue": "Spielburg Cafe",
-   "street": "Hummelstraße 9",
-   "zip": "89134",
-   "city": "Blaustein",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53201/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1273208088&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.41444,
-   "lon": 9.92092,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "lwnea"
   },
   {
    "title": "MARIMBA - FRIEDENSMESSE",
@@ -770,6 +360,30 @@
    "id": "syjq4x"
   },
   {
+   "title": "Schlittschuhlaufen",
+   "subtitle": "Zeit für Ihren Wintertraum",
+   "start": "2026-11-01T12:00",
+   "end": null,
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Eintritt Kinder 5 € · Eintritt Erwachsene ermäßigt 6 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53757/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-200381686&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.38585,
+   "lon": 9.98554,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "ew451p"
+  },
+  {
    "title": "FLO-Zirkus by Florian Zimmer",
    "subtitle": "Die Zaubershow für Kinder",
    "start": "2026-11-01T13:00",
@@ -983,6 +597,30 @@
    "id": "l02hxy"
   },
   {
+   "title": "ULMFASSBAR",
+   "subtitle": "by Florian Zimmer Die große Show der Illusionen",
+   "start": "2026-11-01T15:00",
+   "end": null,
+   "venue": "Florian Zimmer Theater",
+   "street": "Grethe-Weiser-Straße 2/1",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52889/",
+   "image": "",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.38393,
+   "lon": 10.00759,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "-swbn06"
+  },
+  {
    "title": "Kasperle und das Schlossgespenst",
    "subtitle": "",
    "start": "2026-11-01T15:00",
@@ -1005,6 +643,30 @@
    ],
    "source": "ulm",
    "id": "6xn55"
+  },
+  {
+   "title": "Mords-Kolleginnen",
+   "subtitle": "Krimi-Komödie von Frank Piotraschke",
+   "start": "2026-11-01T16:00",
+   "end": null,
+   "venue": "Theater Neu-Ulm",
+   "street": "Hermann-Köhl-Straße 3",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51541/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1350739725&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39431,
+   "lon": 9.99757,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-majlcl"
   },
   {
    "title": "Ideen und Projekte Walk – jeden Sonntag",
@@ -2205,30 +1867,6 @@
    ],
    "source": "ulm",
    "id": "-6gyr3l"
-  },
-  {
-   "title": "Buddhistischer Einführungsvortrag",
-   "subtitle": "",
-   "start": "2026-11-04T19:00",
-   "end": null,
-   "venue": "Buddhistisches Zentrum Ulm/Neu-Ulm der Karma Kagyü Linie",
-   "street": "Hermann-Köhl-Str. 21",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/40786/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1031380816&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39307,
-   "lon": 9.99922,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-dzxdx5"
   },
   {
    "title": "Sänger:innen willkommen - Ulmer Konzertchor S/A/T/B/m/w/d/LGTBQ+",
@@ -3486,6 +3124,30 @@
    "id": "ocr4wh"
   },
   {
+   "title": "La Juive (Die Jüdin)",
+   "subtitle": "Oper in fünf Akten, Musik von Fromental Halévy, Libretto von Eugène Scribe, In französischer Sprache mit deutschen Übertiteln",
+   "start": "2026-11-06T20:00",
+   "end": null,
+   "venue": "Theater Ulm",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-667079160&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "7ve6lq"
+  },
+  {
    "title": "Uli Boettcher | Ü60 – Das Leben rächt sich",
    "subtitle": "Wenn das Leben plötzlich ein H-Kennzeichen trägt",
    "start": "2026-11-06T20:00",
@@ -3937,6 +3599,31 @@
    "id": "-mi2o5w"
   },
   {
+   "title": "Eisdisco - Der coolste Samstagabend!",
+   "subtitle": "Eissportanlage am Donaubad",
+   "start": "2026-11-07T19:00",
+   "end": null,
+   "venue": "Eissportanlage des Donaubad",
+   "street": "Wiblingerstr. 55",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Familie groß 17,50 € · Familie klein 11 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53756/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-327559323&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.38585,
+   "lon": 9.98554,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "5ad3kw"
+  },
+  {
    "title": "Peace on Earth - Friedenskonzert",
    "subtitle": "Markus Stockhausen, Dinesh Mishra & Friends",
    "start": "2026-11-07T19:00",
@@ -3983,6 +3670,30 @@
    ],
    "source": "ulm",
    "id": "-x7g3d6"
+  },
+  {
+   "title": "Spaceman",
+   "subtitle": "Nach dem Roman SPACEMAN OF BOHEMIA von Jaroslav Kalfa, aus dem Amerikanischen von Barbara Heller, für die Bühne bearbeitet von Greta Calinescu und Peter Krauch",
+   "start": "2026-11-07T19:30",
+   "end": null,
+   "venue": "Theater Ulm, PODIUM",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53679/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1013721683&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-tm7qdi"
   },
   {
    "title": "Rüdiger Hoffmann - \"Andererseits...\"",
@@ -4272,6 +3983,29 @@
    ],
    "source": "ulm",
    "id": "4jma66"
+  },
+  {
+   "title": "Eltern mit Baby Spaziergang – jeden Sonntag",
+   "subtitle": "peerwalk",
+   "start": "2026-11-08T09:30",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47802/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1015178652&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "niwzq9"
   },
   {
    "title": "Monatliche Jubiläumssonntage",
@@ -6744,6 +6478,102 @@
    ],
    "source": "ulm",
    "id": "tpjn18"
+  },
+  {
+   "title": "Manyakz",
+   "subtitle": "",
+   "start": "2026-11-14T22:00",
+   "end": null,
+   "venue": "Cocomo Club Ulm",
+   "street": "Hirschstraße 12",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53843/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-928907164&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.39889,
+   "lon": 9.98925,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "m2armh"
+  },
+  {
+   "title": "Bhakti Wochenende",
+   "subtitle": "",
+   "start": "2026-11-15T10:00",
+   "end": null,
+   "venue": "Sri Neem Karoli Baba Mandir",
+   "street": "Nelsonallee 22",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48140/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1683485624&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39025,
+   "lon": 10.01669,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-3b1x9d"
+  },
+  {
+   "title": "Führungen in der Bundesfestung Ulm: Wilhelmsburg",
+   "subtitle": "Deutschlands größtes erhaltenes Festungsensemble",
+   "start": "2026-11-15T11:00",
+   "end": null,
+   "venue": "Treffpunkt: Wilhelmsburg Werk XII",
+   "street": "Prittwitzstraße 100",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/2278/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=268942384&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.41192,
+   "lon": 9.98291,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "y8pxo5"
+  },
+  {
+   "title": "2. Kammerkonzert 2026",
+   "subtitle": "mit Werken von Wolfgang Amadeus Mozart, Dmitri Schostakowitsch und Edvard Grieg",
+   "start": "2026-11-15T11:00",
+   "end": null,
+   "venue": "Theater Ulm, FOYER",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53855/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-964300123&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "jpf97"
   }
  ]
 }
