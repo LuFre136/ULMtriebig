@@ -1,55 +1,7 @@
 {
- "generated": "2026-11-01T20:29:25.758Z",
- "count": 274,
+ "generated": "2026-11-02T12:21:24.631Z",
+ "count": 269,
  "events": [
-  {
-   "title": "Einführung in die Gewaltfreie Kommunikation",
-   "subtitle": "Veränderung beginnt in Dir – Einführungsseminar",
-   "start": "2026-11-01T09:00",
-   "end": null,
-   "venue": "Martinusheim",
-   "street": "Dreifaltigkeitsweg 21",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50446/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1282682776&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.35821,
-   "lon": 9.98022,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-yewr7b"
-  },
-  {
-   "title": "MARIMBA - FRIEDENSMESSE",
-   "subtitle": "Elke Landenberger",
-   "start": "2026-11-01T10:30",
-   "end": null,
-   "venue": "Basilika St. Martin",
-   "street": "Schloßstraße 38",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53734/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2143848813&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.36173,
-   "lon": 9.9912,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "kyst7x"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -119,52 +71,6 @@
    ],
    "source": "ulm",
    "id": "-fllz06"
-  },
-  {
-   "title": "Bücherbabys in der Stadtteilbibliothek Wiblingen",
-   "subtitle": "Musikalischer Krabbeltreff für Kinder von 6 - 24 Monaten",
-   "start": "2026-11-02T10:00",
-   "end": null,
-   "venue": "Stadtteilbibliothek Wiblingen",
-   "street": "Buchauerstraße 9",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48311/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1685312670&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35305,
-   "lon": 9.97572,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "lyaeex"
-  },
-  {
-   "title": "AUSGEBUCHT: Bücherbabys in der Kinderbibliothek",
-   "subtitle": "Musikalischer Krabbeltreff von 6-18 Monaten",
-   "start": "2026-11-02T10:30",
-   "end": null,
-   "venue": "Kinderbibliothek Ulm",
-   "street": "Vestgasse 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53816/",
-   "image": "",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39672,
-   "lon": 9.99263,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "emx9zv"
   },
   {
    "title": "Schlittschuhlaufen",
@@ -258,6 +164,29 @@
    ],
    "source": "ulm",
    "id": "qq3qmi"
+  },
+  {
+   "title": "AUSGEBUCHT: Bücherbabys in der Kinderbibliothek",
+   "subtitle": "Musikalischer Krabbeltreff von 6-18 Monaten",
+   "start": "2026-11-02T15:00",
+   "end": null,
+   "venue": "Kinderbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53816/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-5smg9v"
   },
   {
    "title": "Technik verstehen? Gemeinsam gehts einfacher",
@@ -1539,29 +1468,6 @@
    "id": "cmwk4h"
   },
   {
-   "title": "Gesundheits-Cafe - Selbsthilfe",
-   "subtitle": "offenes Treffen",
-   "start": "2026-11-05T15:00",
-   "end": null,
-   "venue": "Naturheilverein Ulm/Neu-Ulm e.V.",
-   "street": "Söflinger Straße 210",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/40322/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2057933238&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39453,
-   "lon": 9.96238,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "iklyxh"
-  },
-  {
    "title": "Donnerstagsgeschichten",
    "subtitle": "",
    "start": "2026-11-05T15:00",
@@ -1901,7 +1807,7 @@
    "city": "Ulm",
    "price": "Kinder bis 16 Jahre 5 € · Ermäßigter Preis 12–15 €",
    "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53417/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-92526234&width=600&height=-1",
+   "image": "",
    "categories": [
     "Kultur",
     "Literatur"
@@ -2125,29 +2031,6 @@
    ],
    "source": "ulm",
    "id": "-qdplmr"
-  },
-  {
-   "title": "Osteoporose Selbsthilfe Treff",
-   "subtitle": "",
-   "start": "2026-11-06T16:30",
-   "end": null,
-   "venue": "Naturheilverein Ulm/Neu-Ulm e.V.",
-   "street": "Söflinger Straße 210",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/40318/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-990298107&width=600&height=-1",
-   "categories": [
-    "Bildung"
-   ],
-   "lat": 48.39453,
-   "lon": 9.96238,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-svfy39"
   },
   {
    "title": "Spazieren und Leute treffen - jeden Freitag 17 Uhr",
