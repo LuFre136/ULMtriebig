@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T23:29:18.638Z",
- "count": 274,
+ "generated": "2026-11-03T11:54:52.774Z",
+ "count": 275,
  "events": [
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
@@ -904,7 +904,7 @@
    "id": "9l5ybd"
   },
   {
-   "title": "Bilderbuchkino mit Basteln ab 4 Jahren",
+   "title": "AUSGEBUCHT: Bilderbuchkino mit Basteln ab 4 Jahren",
    "subtitle": "Was ist denn ein Kattonk?",
    "start": "2026-11-04T15:30",
    "end": null,
@@ -924,7 +924,7 @@
     "sonstiges"
    ],
    "source": "ulm",
-   "id": "u99uiv"
+   "id": "-rm893o"
   },
   {
    "title": "Lust auf einen Spaziergang?",
@@ -3894,6 +3894,30 @@
    "id": "k5fgad"
   },
   {
+   "title": "CAVEMAN",
+   "subtitle": "Du sammeln - ich jagen!",
+   "start": "2026-11-08T19:00",
+   "end": null,
+   "venue": "ROXY Ulm, Werkhalle",
+   "street": "Schillerstraße 1/12",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "VVK 28,50 € · AK 31 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53902/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-389925472&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39131,
+   "lon": 9.98535,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-v93uez"
+  },
+  {
    "title": "Mitsing-Liederabend",
    "subtitle": "Mit Liveband + special guest: Ernst Börkircher; Stadtpfarrer a.D.",
    "start": "2026-11-08T19:30",
@@ -5076,29 +5100,6 @@
    "id": "y1894i"
   },
   {
-   "title": "Bhakti Wochenende",
-   "subtitle": "",
-   "start": "2026-11-13T19:00",
-   "end": null,
-   "venue": "Sri Neem Karoli Baba Mandir",
-   "street": "Nelsonallee 22",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49031/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1265673882&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39025,
-   "lon": 10.01669,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-4ez8zw"
-  },
-  {
    "title": "Lange Saunaabende mit Motto",
    "subtitle": "",
    "start": "2026-11-13T19:00",
@@ -5194,6 +5195,29 @@
    ],
    "source": "ulm",
    "id": "-adcvpo"
+  },
+  {
+   "title": "Bhakti Wochenende",
+   "subtitle": "",
+   "start": "2026-11-13T19:00",
+   "end": null,
+   "venue": "Sri Neem Karoli Baba Mandir",
+   "street": "Nelsonallee 22",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53898/",
+   "image": "",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39025,
+   "lon": 10.01669,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-4ez8zw"
   },
   {
    "title": "Wahnsinn - Die Show 2026",
@@ -5580,29 +5604,6 @@
    "id": "6rftgs"
   },
   {
-   "title": "Bhakti Wochenende",
-   "subtitle": "",
-   "start": "2026-11-14T10:00",
-   "end": null,
-   "venue": "Sri Neem Karoli Baba Mandir",
-   "street": "Nelsonallee 22",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48139/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-228297154&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39025,
-   "lon": 10.01669,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-vucyua"
-  },
-  {
    "title": "Louise Stomps. Konturen des Inneren",
    "subtitle": "Sonderausstellung im Kunstmuseum",
    "start": "2026-11-14T10:00",
@@ -5672,6 +5673,29 @@
    ],
    "source": "ulm",
    "id": "-jx38bq"
+  },
+  {
+   "title": "Bhakti Wochenende",
+   "subtitle": "",
+   "start": "2026-11-14T10:00",
+   "end": null,
+   "venue": "Sri Neem Karoli Baba Mandir",
+   "street": "Nelsonallee 22",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53899/",
+   "image": "",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39025,
+   "lon": 10.01669,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-vucyua"
   },
   {
    "title": "Kinder-Hochschule: Stadt der Zukunft – wie wollen wir morgen leben",
@@ -6161,8 +6185,8 @@
    "zip": "89231",
    "city": "Neu-Ulm",
    "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/48140/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1683485624&width=600&height=-1",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53900/",
+   "image": "",
    "categories": [
     "Kultur"
    ],
