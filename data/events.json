@@ -1,78 +1,7 @@
 {
- "generated": "2026-11-03T21:46:00.155Z",
- "count": 274,
+ "generated": "2026-11-04T12:05:46.964Z",
+ "count": 273,
  "events": [
-  {
-   "title": "NSDAP-Mitgliederdatei und das neue Interesse an der Vergangenheit",
-   "subtitle": "SÜDWEST PRESSE forum im medienhaus",
-   "start": "2026-11-03T19:00",
-   "end": null,
-   "venue": "Medienhaus Neue Pressegesellschaft",
-   "street": "Olgastraße 121",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53772/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1430736917&width=600&height=-1",
-   "categories": [
-    "Bildung"
-   ],
-   "lat": 48.40246,
-   "lon": 9.99455,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "ofq5h2"
-  },
-  {
-   "title": "Soirée: Die schönste Version",
-   "subtitle": "Einführungsveranstaltung",
-   "start": "2026-11-03T19:00",
-   "end": null,
-   "venue": "Theater Ulm, PODIUM.BAR",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53686/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-704341687&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-djse1t"
-  },
-  {
-   "title": "Ulmer Wochenmarkt | Münsterplatz",
-   "subtitle": "Weil frisch einfach besser ist!",
-   "start": "2026-11-04T07:00",
-   "end": null,
-   "venue": "Münsterplatz Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "rs2cqi"
-  },
   {
    "title": "Verlängert bis Dezember 2026: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -95,30 +24,6 @@
    ],
    "source": "ulm",
    "id": "-jlhamq"
-  },
-  {
-   "title": "Neu-Ulmer Wochenmarkt",
-   "subtitle": "",
-   "start": "2026-11-04T07:00",
-   "end": null,
-   "venue": "Petrusplatz",
-   "street": "Petrusplatz",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39401,
-   "lon": 9.99917,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "-qrdnux"
   },
   {
    "title": "Ausstellung",
@@ -334,30 +239,6 @@
    ],
    "source": "ulm",
    "id": "-flk3zf"
-  },
-  {
-   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
-   "subtitle": "",
-   "start": "2026-11-04T12:00",
-   "end": null,
-   "venue": "Cafe Lebenswert",
-   "street": "Clara-Barton-Straße 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51285/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Vereine"
-   ],
-   "lat": 48.3767,
-   "lon": 10.00923,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "c0abh"
   },
   {
    "title": "Schlittschuhlaufen",
@@ -2158,6 +2039,54 @@
    ],
    "source": "ulm",
    "id": "32po9b"
+  },
+  {
+   "title": "Ulmer Wochenmarkt | Münsterplatz",
+   "subtitle": "Weil frisch einfach besser ist!",
+   "start": "2026-11-07T07:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "ogdsif"
+  },
+  {
+   "title": "Neu-Ulmer Wochenmarkt",
+   "subtitle": "",
+   "start": "2026-11-07T07:00",
+   "end": null,
+   "venue": "Petrusplatz",
+   "street": "Petrusplatz",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39401,
+   "lon": 9.99917,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "2dei4a"
   },
   {
    "title": "Stadtführung mit Besichtigung des Münsters",
@@ -4224,6 +4153,30 @@
    "id": "uxcxs7"
   },
   {
+   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
+   "subtitle": "",
+   "start": "2026-11-11T12:00",
+   "end": null,
+   "venue": "Cafe Lebenswert",
+   "street": "Clara-Barton-Straße 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51285/",
+   "image": "",
+   "categories": [
+    "Freizeit",
+    "Vereine"
+   ],
+   "lat": 48.3767,
+   "lon": 10.00923,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "8hxaah"
+  },
+  {
    "title": "Babytreff",
    "subtitle": "Beratung durch Hebamme Rebecca Biesenecker",
    "start": "2026-11-11T14:00",
@@ -6220,6 +6173,30 @@
    ],
    "source": "ulm",
    "id": "-73osh5"
+  },
+  {
+   "title": "Hagen Rether",
+   "subtitle": "LIEBE",
+   "start": "2026-11-15T18:00",
+   "end": null,
+   "venue": "ROXY Ulm, Werkhalle",
+   "street": "Schillerstraße 1/12",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "VVK 36,20 € · AK 39 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53923/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-845513397&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39131,
+   "lon": 9.98535,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "3ccx2w"
   },
   {
    "title": "Union Duke",
