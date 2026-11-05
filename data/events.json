@@ -1,31 +1,7 @@
 {
- "generated": "2026-11-04T21:51:10.559Z",
- "count": 277,
+ "generated": "2026-11-05T12:17:45.691Z",
+ "count": 278,
  "events": [
-  {
-   "title": "Buddhistischer Einführungsvortrag",
-   "subtitle": "",
-   "start": "2026-11-04T19:00",
-   "end": null,
-   "venue": "Buddhistisches Zentrum Ulm/Neu-Ulm der Karma Kagyü Linie",
-   "street": "Hermann-Köhl-Str. 21",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/40786/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1031380816&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39307,
-   "lon": 9.99922,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-dzxdx5"
-  },
   {
    "title": "Ausstellung",
    "subtitle": "Im Licht des Schattens",
@@ -6573,6 +6549,53 @@
    ],
    "source": "ulm",
    "id": "ihfx4u"
+  },
+  {
+   "title": "Ulmer Weihnachtsmarkt vom 19.11.26 bis 22.12.26",
+   "subtitle": "Tradition und Vorfreude - Wir sehen uns auf dem Münsterplatz!",
+   "start": "2026-11-19T10:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz Ulm",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53157/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2146116524&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39843,
+   "lon": 9.99095,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-uok09x"
+  },
+  {
+   "title": "Heilige Blüten und bittere Tränke - Pflanzen der Azteken",
+   "subtitle": "Botanische Mittagspause",
+   "start": "2026-11-19T12:15",
+   "end": null,
+   "venue": "Botanischer Garten der Universität Ulm",
+   "street": "Hans-Krebs-Weg",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51691/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-621835951&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.42354,
+   "lon": 9.95926,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-uo9uf7"
   }
  ]
 }
