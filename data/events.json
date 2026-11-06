@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-05T21:58:36.292Z",
- "count": 286,
+ "generated": "2026-11-06T12:04:23.609Z",
+ "count": 287,
  "events": [
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
@@ -47,29 +47,6 @@
    ],
    "source": "ulm",
    "id": "-7hzdt"
-  },
-  {
-   "title": "Café für alle",
-   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
-   "start": "2026-11-06T09:00",
-   "end": null,
-   "venue": "Stadtteilbüro am Tannenplatz",
-   "street": "Pfullendorfer Straße 7",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35118,
-   "lon": 9.97476,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "65hqu3"
   },
   {
    "title": "Ausstellung",
@@ -141,30 +118,6 @@
    ],
    "source": "ulm",
    "id": "-97tfiu"
-  },
-  {
-   "title": "Wanderfotoausstellung \"Faces of moms*\"",
-   "subtitle": "Über 25 Jahre Kath. Beratungsstelle für Schwangerschaft und junge Familien Neu-Ulm",
-   "start": "2026-11-06T10:00",
-   "end": null,
-   "venue": "Kath. Beratungsstelle für Schwangerschaftsfragen SkF",
-   "street": "Johannesplatz 2",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53509/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1759019001&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39474,
-   "lon": 9.99983,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-100pqg"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -2740,6 +2693,30 @@
    "id": "5s4xfi"
   },
   {
+   "title": "Wanderfotoausstellung \"Faces of moms*\"",
+   "subtitle": "Über 25 Jahre Kath. Beratungsstelle für Schwangerschaft und junge Familien Neu-Ulm",
+   "start": "2026-11-09T10:00",
+   "end": null,
+   "venue": "Kath. Beratungsstelle für Schwangerschaftsfragen SkF",
+   "street": "Johannesplatz 2",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53509/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1759019001&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39474,
+   "lon": 9.99983,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "407ys5"
+  },
+  {
    "title": "Quartierstreff Mitte/Ost",
    "subtitle": "Gemeinsam weniger allein",
    "start": "2026-11-09T13:30",
@@ -4273,6 +4250,29 @@
    "id": "fwm1o5"
   },
   {
+   "title": "Café für alle",
+   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
+   "start": "2026-11-13T09:00",
+   "end": null,
+   "venue": "Stadtteilbüro am Tannenplatz",
+   "street": "Pfullendorfer Straße 7",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35118,
+   "lon": 9.97476,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-e4ja81"
+  },
+  {
    "title": "Finance Day Ulm | Neu-Ulm",
    "subtitle": "Investieren - Anlegen - Vorsorgen",
    "start": "2026-11-13T09:30",
@@ -5586,30 +5586,6 @@
    "id": "-3b1x9d"
   },
   {
-   "title": "Führungen in der Bundesfestung Ulm: Wilhelmsburg",
-   "subtitle": "Deutschlands größtes erhaltenes Festungsensemble",
-   "start": "2026-11-15T11:00",
-   "end": null,
-   "venue": "Treffpunkt: Wilhelmsburg Werk XII",
-   "street": "Prittwitzstraße 100",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/2278/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=268942384&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.41192,
-   "lon": 9.98291,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "y8pxo5"
-  },
-  {
    "title": "2. Kammerkonzert 2026",
    "subtitle": "mit Werken von Wolfgang Amadeus Mozart, Dmitri Schostakowitsch und Edvard Grieg",
    "start": "2026-11-15T11:00",
@@ -5632,6 +5608,30 @@
    ],
    "source": "ulm",
    "id": "jpf97"
+  },
+  {
+   "title": "Führungen in der Bundesfestung Ulm: Wilhelmsburg",
+   "subtitle": "Deutschlands größtes erhaltenes Festungsensemble",
+   "start": "2026-11-15T11:00",
+   "end": null,
+   "venue": "Treffpunkt: Wilhelmsburg Werk XII",
+   "street": "Prittwitzstraße 100",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/2278/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=268942384&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.41192,
+   "lon": 9.98291,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "y8pxo5"
   },
   {
    "title": "Stift & Kunst",
@@ -6789,6 +6789,30 @@
    ],
    "source": "ulm",
    "id": "8wpt8u"
+  },
+  {
+   "title": "Trans Film Tage Ulm 2026",
+   "subtitle": "Filmreihe zum Trans* Day of Remembrance",
+   "start": "2026-11-20",
+   "end": null,
+   "venue": "Mephisto Kino",
+   "street": "Rosengasse 5",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53391/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-124451720&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.40103,
+   "lon": 9.99467,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "ny7mw0"
   }
  ]
 }
