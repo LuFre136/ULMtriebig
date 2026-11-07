@@ -1,175 +1,7 @@
 {
- "generated": "2026-11-06T21:28:55.693Z",
- "count": 286,
+ "generated": "2026-11-07T11:01:54.747Z",
+ "count": 289,
  "events": [
-  {
-   "title": "Open 3D-Drucker Lab",
-   "subtitle": "Offenes 3D Drucken für alle",
-   "start": "2026-11-06T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-alyta2"
-  },
-  {
-   "title": "Fashion Lab",
-   "subtitle": "Nähen - Upcyceln - Reparieren",
-   "start": "2026-11-06T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-o2876k"
-  },
-  {
-   "title": "Open Game Lab",
-   "subtitle": "Virtual Reality - Indie und Retro Gaming",
-   "start": "2026-11-06T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "khex2s"
-  },
-  {
-   "title": "Open Fab Lab",
-   "subtitle": "Repair, Lasercutten und Löten",
-   "start": "2026-11-06T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "je67ox"
-  },
-  {
-   "title": "ISLAND: Feuer und Farben, Elfen und Eis",
-   "subtitle": "",
-   "start": "2026-11-06T20:00",
-   "end": null,
-   "venue": "Edwin-Scharff-Haus",
-   "street": "Silcherstraße 40",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/33005/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1698670800&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.39345,
-   "lon": 9.9911,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "a7j84b"
-  },
-  {
-   "title": "Uli Boettcher | Ü60 – Das Leben rächt sich",
-   "subtitle": "Wenn das Leben plötzlich ein H-Kennzeichen trägt",
-   "start": "2026-11-06T20:00",
-   "end": null,
-   "venue": "Biergarten Teutonia",
-   "street": "Friedrichsau 6",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Sitzplatz 25 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53773/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1303459256&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40755,
-   "lon": 10.01421,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "yhm1zw"
-  },
-  {
-   "title": "PRIVACY x Ravechurch",
-   "subtitle": "",
-   "start": "2026-11-06T21:00",
-   "end": null,
-   "venue": "Cocomo Club Ulm",
-   "street": "Hirschstraße 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53452/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=672777482&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.39889,
-   "lon": 9.98925,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "32po9b"
-  },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
    "subtitle": "Weil frisch einfach besser ist!",
@@ -263,30 +95,6 @@
    ],
    "source": "ulm",
    "id": "-oxgxhp"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-11-07T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "5jqeun"
   },
   {
    "title": "Sauberes Vorfeld",
@@ -835,6 +643,30 @@
    ],
    "source": "ulm",
    "id": "wzo5tq"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-11-07T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "bcn9h2"
   },
   {
    "title": "Samstagsnachmittag - Spazieren und Leute treffen",
@@ -4080,6 +3912,101 @@
    "id": "-xs7h46"
   },
   {
+   "title": "Open 3D-Drucker Lab",
+   "subtitle": "Offenes 3D Drucken für alle",
+   "start": "2026-11-13T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "g88o6a"
+  },
+  {
+   "title": "Fashion Lab",
+   "subtitle": "Nähen - Upcyceln - Reparieren",
+   "start": "2026-11-13T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "2rza9s"
+  },
+  {
+   "title": "Open Game Lab",
+   "subtitle": "Virtual Reality - Indie und Retro Gaming",
+   "start": "2026-11-13T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-nphng0"
+  },
+  {
+   "title": "Open Fab Lab",
+   "subtitle": "Repair, Lasercutten und Löten",
+   "start": "2026-11-13T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-osqctv"
+  },
+  {
    "title": "Kindervernissage zur Ausstellung \"Louise Stomps. Konturen des Inneren\"",
    "subtitle": "",
    "start": "2026-11-13T18:00",
@@ -6791,6 +6718,147 @@
    ],
    "source": "ulm",
    "id": "-tiku4c"
+  },
+  {
+   "title": "Bäume und Sträucher im Winterzustand",
+   "subtitle": "Kursreihe Artenkenntnis",
+   "start": "2026-11-21T09:00",
+   "end": null,
+   "venue": "Botanischer Garten der Universität Ulm",
+   "street": "Hans-Krebs-Weg",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "45 45 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51693/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-361598225&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.42354,
+   "lon": 9.95926,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "112eom"
+  },
+  {
+   "title": "Frauenfrühstück",
+   "subtitle": "mit Katrin Striefler",
+   "start": "2026-11-21T09:30",
+   "end": null,
+   "venue": "Connect Church Ulm",
+   "street": "Riedweg 37d",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52598/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=278799112&width=600&height=-1",
+   "categories": [
+    "Stadt",
+    "Religion"
+   ],
+   "lat": 48.40136,
+   "lon": 9.94318,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "m2r4rx"
+  },
+  {
+   "title": "Meeresschutztag Ulm",
+   "subtitle": "Ozeane schützen beginnt vor unserer Haustür",
+   "start": "2026-11-21T10:00",
+   "end": null,
+   "venue": "Bürgerhaus Mitte",
+   "street": "Schaffnerstraße 17",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53238/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1251900156&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Vereine"
+   ],
+   "lat": 48.40354,
+   "lon": 9.99427,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-fcda67"
+  },
+  {
+   "title": "Workshop - Mealprep für das Immunsystem",
+   "subtitle": "So schmeckt eine gute Vorbereitung!",
+   "start": "2026-11-21T10:00",
+   "end": null,
+   "venue": "Johanneshaus",
+   "street": "Johannesplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53704/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=879378976&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39453,
+   "lon": 10.00008,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "4wk45p"
+  },
+  {
+   "title": "Internationaler Vorlesetag",
+   "subtitle": "Zweisprachiges Vorlesen und Basteln (ab 3 J.)",
+   "start": "2026-11-21T10:30",
+   "end": null,
+   "venue": "Kinderbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53539/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1655473984&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "29ivuz"
+  },
+  {
+   "title": "Tag der offenen Tür Akademie für Gesundheitsberufe am Universitäsklinikum Ulm",
+   "subtitle": "Faszinierende Einblicke in unsere vielfältigen Gesundheitsberufe im Kloster Wiblingen",
+   "start": "2026-11-21T11:00",
+   "end": null,
+   "venue": "Kloster Wiblingen",
+   "street": "Schlossstraße 38",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47359/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2093708920&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.36173,
+   "lon": 9.9912,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-azcpos"
   }
  ]
 }
