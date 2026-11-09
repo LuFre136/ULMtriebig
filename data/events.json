@@ -1,150 +1,7 @@
 {
- "generated": "2026-11-08T20:27:53.779Z",
- "count": 265,
+ "generated": "2026-11-09T12:49:49.586Z",
+ "count": 262,
  "events": [
-  {
-   "title": "Monatliche Jubiläumssonntage",
-   "subtitle": "mit Kirchen- und Klosterführung",
-   "start": "2026-11-08T10:00",
-   "end": null,
-   "venue": "Prämonstratenser-Kloster Roggenburg",
-   "street": "Klosterstraße 5",
-   "zip": "89297",
-   "city": "Roggenburg",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50665/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1287378251&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.27507,
-   "lon": 10.22868,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "3l83pm"
-  },
-  {
-   "title": "Öffentliche Führung in der Sonderausstellung „Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik“",
-   "subtitle": "",
-   "start": "2026-11-08T11:15",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53481/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "qi62p4"
-  },
-  {
-   "title": "Öffentliche Führungen: Vom Logo zur Identität",
-   "subtitle": "",
-   "start": "2026-11-08T11:15",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53599/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-104708722&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-4oednk"
-  },
-  {
-   "title": "Offener Familiennachmittag im „werklabor“",
-   "subtitle": "Eltern mit Kindern ab 5 Jahren",
-   "start": "2026-11-08T15:00",
-   "end": null,
-   "venue": "Werklabor des Museum Ulm",
-   "street": "Neue Straße 92",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53322/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2058807016&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.39723,
-   "lon": 9.99432,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "freson"
-  },
-  {
-   "title": "Das Grüffelokind",
-   "subtitle": "Fortsetzung des Kinderbuchklassikers",
-   "start": "2026-11-08T15:00",
-   "end": null,
-   "venue": "Altes Theater Ulm",
-   "street": "Wagnerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Ticket 9 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53360/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=627035286&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39336,
-   "lon": 9.98005,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-d4s1mg"
-  },
-  {
-   "title": "Karaoke mit der Groundlift Band",
-   "subtitle": "Live-Karaoke im Fiddlers Green Pub",
-   "start": "2026-11-08T19:30",
-   "end": null,
-   "venue": "Fiddler’s Green Irish Pub",
-   "street": "Volkertshofener Straße 7A",
-   "zip": "89284",
-   "city": "Pfaffenhofen",
-   "price": "Erwachsene 12 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53787/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1078497721&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35089,
-   "lon": 10.15547,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-6bjtw9"
-  },
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -4010,6 +3867,30 @@
    "id": "-3b1x9d"
   },
   {
+   "title": "Das Grüffelokind",
+   "subtitle": "Fortsetzung des Kinderbuchklassikers",
+   "start": "2026-11-15T11:00",
+   "end": null,
+   "venue": "Altes Theater Ulm",
+   "street": "Wagnerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Ticket 9 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53360/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=627035286&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39336,
+   "lon": 9.98005,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "c64jmw"
+  },
+  {
    "title": "2. Kammerkonzert 2026",
    "subtitle": "mit Werken von Wolfgang Amadeus Mozart, Dmitri Schostakowitsch und Edvard Grieg",
    "start": "2026-11-15T11:00",
@@ -4900,6 +4781,30 @@
    ],
    "source": "ulm",
    "id": "43j992"
+  },
+  {
+   "title": "Holofiction",
+   "subtitle": "",
+   "start": "2026-11-18T19:00",
+   "end": null,
+   "venue": "Museum „Die Einsteins“",
+   "street": "Weinhof 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53999/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2125105726&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Film"
+   ],
+   "lat": 48.39598,
+   "lon": 9.99137,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "xpft3i"
   },
   {
    "title": "Stehaufmädchen",
@@ -6215,6 +6120,30 @@
    ],
    "source": "ulm",
    "id": "-8jl8d7"
+  },
+  {
+   "title": "Öffentliche Führung in der Sonderausstellung „Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik“",
+   "subtitle": "",
+   "start": "2026-11-22T15:00",
+   "end": null,
+   "venue": "HfG-Archiv Ulm",
+   "street": "Am Hochsträß 8",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53481/",
+   "image": "",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.3814,
+   "lon": 9.94848,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "ksfhqw"
   },
   {
    "title": "Benefizkonzert mit dem Gospelchor \"Voices Alive\"",
