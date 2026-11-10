@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T00:14:27.265Z",
+ "generated": "2026-11-10T12:36:29.936Z",
  "count": 263,
  "events": [
   {
@@ -72,30 +72,6 @@
    "id": "pw6pgb"
   },
   {
-   "title": "Fasziengymnastik - für jedes Alter",
-   "subtitle": "Faszien stärken ohne Faszienrolle",
-   "start": "2026-11-10T09:30",
-   "end": null,
-   "venue": "Johanneshaus",
-   "street": "Johannesplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Teilnahmebeitrag pro Treffen 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.39453,
-   "lon": 10.00008,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "-8oayqc"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-10T10:00",
@@ -142,29 +118,6 @@
    ],
    "source": "ulm",
    "id": "-ub4fep"
-  },
-  {
-   "title": "Gerda gackert für Gerechtigkeit",
-   "subtitle": "Theater für Kinder 3+",
-   "start": "2026-11-10T10:00",
-   "end": null,
-   "venue": "Theater Mücke",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Für Kinder und Erwachsene 8 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "sz2hfl"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -261,29 +214,6 @@
    ],
    "source": "ulm",
    "id": "-ajnfc6"
-  },
-  {
-   "title": "Offene Beratung für Eltern",
-   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
-   "start": "2026-11-10T12:00",
-   "end": null,
-   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
-   "street": "Schaffnerstraße 18/1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40324,
-   "lon": 9.99371,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "z9lzji"
   },
   {
    "title": "Norbert Klaus: Von Chaos und Ordnung",
@@ -3889,6 +3819,29 @@
    "id": "2mvzg9"
   },
   {
+   "title": "Gerda gackert für Gerechtigkeit",
+   "subtitle": "Theater für Kinder 3+",
+   "start": "2026-11-15T15:00",
+   "end": null,
+   "venue": "Theater Mücke",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Für Kinder und Erwachsene 8 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "z16uox"
+  },
+  {
    "title": "Chess'n'Beats",
    "subtitle": "Schach und Beats",
    "start": "2026-11-15T16:00",
@@ -4313,6 +4266,53 @@
    "id": "-hgpr1c"
   },
   {
+   "title": "Fasziengymnastik - für jedes Alter",
+   "subtitle": "Faszien stärken ohne Faszienrolle",
+   "start": "2026-11-17T09:30",
+   "end": null,
+   "venue": "Johanneshaus",
+   "street": "Johannesplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Teilnahmebeitrag pro Treffen 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.39453,
+   "lon": 10.00008,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "f0zfph"
+  },
+  {
+   "title": "Offene Beratung für Eltern",
+   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
+   "start": "2026-11-17T12:00",
+   "end": null,
+   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
+   "street": "Schaffnerstraße 18/1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40324,
+   "lon": 9.99371,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-xeqri1"
+  },
+  {
    "title": "Kulturtasche/Mäppchen - Nähkurs für Anfänger*innen",
    "subtitle": "Nähen lernen und was Schönes mit nach Hause nehmen",
    "start": "2026-11-17T15:00",
@@ -4383,6 +4383,30 @@
    "id": "7nigzw"
   },
   {
+   "title": "Arco!",
+   "subtitle": "Konzert des Fachbereichs Streichinstrumente",
+   "start": "2026-11-17T18:30",
+   "end": null,
+   "venue": "Musikschule der Stadt Ulm, Konzertsaal",
+   "street": "Marktplatz 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53770/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1688864211&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39625,
+   "lon": 9.99358,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-jp9eej"
+  },
+  {
    "title": "Hanuman Chalisa und Aarti",
    "subtitle": "",
    "start": "2026-11-17T19:00",
@@ -4428,30 +4452,6 @@
    ],
    "source": "ulm",
    "id": "-s6brfx"
-  },
-  {
-   "title": "Arco!",
-   "subtitle": "Konzert des Fachbereichs Streichinstrumente",
-   "start": "2026-11-17T19:00",
-   "end": null,
-   "venue": "Musikschule der Stadt Ulm, Konzertsaal",
-   "street": "Marktplatz 19",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53770/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1688864211&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.39625,
-   "lon": 9.99358,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-246tt9"
   },
   {
    "title": "Kennen Sie Max Eyth? Zum 190. Geburtstag und 120. Todestag des Dichteringenieurs",
