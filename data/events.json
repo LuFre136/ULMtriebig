@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T21:47:42.980Z",
+ "generated": "2026-11-11T11:51:48.003Z",
  "count": 264,
  "events": [
   {
@@ -166,53 +166,6 @@
    ],
    "source": "ulm",
    "id": "-sn1j8i"
-  },
-  {
-   "title": "Info am Morgen: Wording und Framing",
-   "subtitle": "Kurz-Seminar mit Rudolf Kübler, Journalist",
-   "start": "2026-11-11T10:00",
-   "end": null,
-   "venue": "Radio freeFM",
-   "street": "Platzgasse 18",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53662/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-631537717&width=600&height=-1",
-   "categories": [
-    "Bildung"
-   ],
-   "lat": 48.40057,
-   "lon": 9.9912,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "uxcxs7"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-11T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "v5blea"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -428,6 +381,30 @@
    ],
    "source": "ulm",
    "id": "-9sel1v"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-11T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "5ytu6u"
   },
   {
    "title": "Kasperle und das Zauberduell",
@@ -6266,6 +6243,30 @@
    ],
    "source": "ulm",
    "id": "52j4ek"
+  },
+  {
+   "title": "Heimsuchung",
+   "subtitle": "von Jenny Erpenbeck",
+   "start": "2026-11-25T10:00",
+   "end": null,
+   "venue": "Altes Theater Ulm",
+   "street": "Wagnerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Erwachsene 16 € · Jugendliche 10 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49647/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646984613&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39336,
+   "lon": 9.98005,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-q5qt9r"
   }
  ]
 }
