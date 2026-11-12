@@ -1,30 +1,7 @@
 {
- "generated": "2026-11-11T22:40:52.876Z",
- "count": 267,
+ "generated": "2026-11-12T12:40:17.716Z",
+ "count": 266,
  "events": [
-  {
-   "title": "Harry Reischmann's Jam Night",
-   "subtitle": "Live im Pub",
-   "start": "2026-11-11T19:30",
-   "end": null,
-   "venue": "Fiddler’s Green Irish Pub",
-   "street": "Volkertshofener Straße 7A",
-   "zip": "89284",
-   "city": "Pfaffenhofen",
-   "price": "Erwachsene 25 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53788/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-951733084&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35089,
-   "lon": 10.15547,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "yqr1d1"
-  },
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -119,29 +96,6 @@
    "id": "cddnvd"
   },
   {
-   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
-   "subtitle": "donnerstags",
-   "start": "2026-11-12T09:30",
-   "end": null,
-   "venue": "Ev.-Freikirchliche Gemeinde Ulm/Neu-Ulm",
-   "street": "John-F.-Kennedy-Straße 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.37963,
-   "lon": 10.00735,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-cw1i0o"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-12T10:00",
@@ -188,30 +142,6 @@
    ],
    "source": "ulm",
    "id": "-qyyn2b"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-12T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-23fwnj"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -450,6 +380,30 @@
    ],
    "source": "ulm",
    "id": "-5412hs"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-12T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-r9xnuz"
   },
   {
    "title": "Märchenerzählung: Die Frau, die den kranken König heilte",
@@ -4500,6 +4454,29 @@
    ],
    "source": "ulm",
    "id": "-bbb8b8"
+  },
+  {
+   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
+   "subtitle": "donnerstags",
+   "start": "2026-11-19T09:30",
+   "end": null,
+   "venue": "Friedenskirche Neu-Ulm",
+   "street": "John-F.-Kennedy-Str. 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.37963,
+   "lon": 10.00735,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "kx8ys2"
   },
   {
    "title": "Ulmer Weihnachtsmarkt vom 19.11.26 bis 22.12.26",
