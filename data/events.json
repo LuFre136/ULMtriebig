@@ -1,31 +1,7 @@
 {
- "generated": "2026-11-12T22:14:25.918Z",
+ "generated": "2026-11-13T12:10:18.891Z",
  "count": 275,
  "events": [
-  {
-   "title": "La Juive (Die Jüdin)",
-   "subtitle": "Oper in fünf Akten, Musik von Fromental Halévy, Libretto von Eugène Scribe, In französischer Sprache mit deutschen Übertiteln",
-   "start": "2026-11-12T20:00",
-   "end": null,
-   "venue": "Theater Ulm",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53674/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-667079160&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-e20jhz"
-  },
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -97,29 +73,6 @@
    "id": "-gyuwxx"
   },
   {
-   "title": "Café für alle",
-   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
-   "start": "2026-11-13T09:00",
-   "end": null,
-   "venue": "Stadtteilbüro am Tannenplatz",
-   "street": "Pfullendorfer Straße 7",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35118,
-   "lon": 9.97476,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-e4ja81"
-  },
-  {
    "title": "Finance Day Ulm | Neu-Ulm",
    "subtitle": "Investieren - Anlegen - Vorsorgen",
    "start": "2026-11-13T09:30",
@@ -166,30 +119,6 @@
    ],
    "source": "ulm",
    "id": "p7xg2y"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-13T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-zc7epc"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -476,6 +405,30 @@
    ],
    "source": "ulm",
    "id": "-xar4k4"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-13T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "aiew2c"
   },
   {
    "title": "„Kiste auf“ im HfG-Archiv – neue Spezialführung",
@@ -1333,30 +1286,6 @@
    ],
    "source": "ulm",
    "id": "-zf55i5"
-  },
-  {
-   "title": "Heiteres mit Musik - \"g'zupft, g'songa ond g'lesa",
-   "subtitle": "Schwäbischer Abend zugunsten der Aktion 100.000",
-   "start": "2026-11-13T20:00",
-   "end": null,
-   "venue": "Museum Ulm",
-   "street": "Marktplatz 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Normalpreis 17,50 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53549/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1364430019&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.3971,
-   "lon": 9.99473,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "-iu7xa3"
   },
   {
    "title": "7 Years Bad Luck, Morgan Pines, Soapbox Radio + Captain Asshole im Club Schilli, Ulm",
@@ -2405,6 +2334,30 @@
    ],
    "source": "ulm",
    "id": "y8pxo5"
+  },
+  {
+   "title": "Gedenkstunde für den Widerstand 1933 bis 1945 und die Opfer des nationalsozialistischen Gewaltregimes",
+   "subtitle": "Vortrag: \"Wie konnte das passieren? Deutschland 1933 bis 1945\" von Dr. Götz Aly",
+   "start": "2026-11-15T11:00",
+   "end": null,
+   "venue": "KZ-Gedenkstätte Oberer Kuhberg",
+   "street": "Am Hochsträß 1",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54041/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1948006001&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.38237,
+   "lon": 9.95087,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "yo9lh5"
   },
   {
    "title": "Sonntag Mittag Spaziergang – Jeden Sonntag",
@@ -4740,6 +4693,29 @@
    "id": "ny7mw0"
   },
   {
+   "title": "Café für alle",
+   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
+   "start": "2026-11-20T09:00",
+   "end": null,
+   "venue": "Stadtteilbüro am Tannenplatz",
+   "street": "Pfullendorfer Straße 7",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35118,
+   "lon": 9.97476,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-yekba5"
+  },
+  {
    "title": "Bundesweiter Vorlesetag an der vh Ulm",
    "subtitle": "Wechselnde Vorleserunden für Kinder und Familien mit bekannten (Neu-)Ulmer Persönlichkeiten",
    "start": "2026-11-20T15:00",
@@ -6523,6 +6499,30 @@
    ],
    "source": "ulm",
    "id": "-eyzlhn"
+  },
+  {
+   "title": "Mittelalterlicher Weihnachtsmarkt in Neu-Ulm 2026",
+   "subtitle": "",
+   "start": "2026-11-27T11:30",
+   "end": null,
+   "venue": "Rathausplatz Neu-Ulm",
+   "street": "Augsburger Straße 15",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50754/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=132453292&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39542,
+   "lon": 10.00121,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "95p1dm"
   }
  ]
 }
