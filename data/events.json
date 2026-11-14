@@ -1,271 +1,7 @@
 {
- "generated": "2026-11-13T21:58:07.411Z",
- "count": 268,
+ "generated": "2026-11-14T11:26:51.676Z",
+ "count": 266,
  "events": [
-  {
-   "title": "„Kiste auf“ im HfG-Archiv – neue Spezialführung",
-   "subtitle": "",
-   "start": "2026-11-13T15:00",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53480/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "3fxax3"
-  },
-  {
-   "title": "Otl Aicher, Erscheinungsbilder",
-   "subtitle": "",
-   "start": "2026-11-13T15:00",
-   "end": null,
-   "venue": "HfG-Archiv Ulm",
-   "street": "Am Hochsträß 8",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53600/",
-   "image": "",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.3814,
-   "lon": 9.94848,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-cclt5x"
-  },
-  {
-   "title": "Filmpremiere: Pilsl's Internationale Weltuntergangstage",
-   "subtitle": "La Revolucion Surrealiste",
-   "start": "2026-11-13T17:15",
-   "end": null,
-   "venue": "Xinedome",
-   "street": "Am Lederhof 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53994/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1524478185&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Film"
-   ],
-   "lat": 48.39739,
-   "lon": 9.98566,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "mb6eml"
-  },
-  {
-   "title": "Open 3D-Drucker Lab",
-   "subtitle": "Offenes 3D Drucken für alle",
-   "start": "2026-11-13T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "g88o6a"
-  },
-  {
-   "title": "Fashion Lab",
-   "subtitle": "Nähen - Upcyceln - Reparieren",
-   "start": "2026-11-13T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "2rza9s"
-  },
-  {
-   "title": "Open Game Lab",
-   "subtitle": "Virtual Reality - Indie und Retro Gaming",
-   "start": "2026-11-13T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Kurse"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-nphng0"
-  },
-  {
-   "title": "Open Fab Lab",
-   "subtitle": "Repair, Lasercutten und Löten",
-   "start": "2026-11-13T18:00",
-   "end": null,
-   "venue": "Verschwörhaus",
-   "street": "Weinhof 9",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39646,
-   "lon": 9.99042,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-osqctv"
-  },
-  {
-   "title": "Vernissage \"Louise Stomps. Konturen des Inneren\"",
-   "subtitle": "",
-   "start": "2026-11-13T18:30",
-   "end": null,
-   "venue": "Edwin Scharff Museum",
-   "street": "Petrusplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53620/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=281579529&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39361,
-   "lon": 9.9991,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "y1894i"
-  },
-  {
-   "title": "Lange Saunaabende mit Motto",
-   "subtitle": "",
-   "start": "2026-11-13T19:00",
-   "end": null,
-   "venue": "Donaubad Neu-Ulm",
-   "street": "Wiblingerstr. 55",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/37710/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-382070367&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.38585,
-   "lon": 9.98554,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "-x7ks61"
-  },
-  {
-   "title": "Ball im Savoy",
-   "subtitle": "Operette in drei Akten Musik von Paul Abraham, Libretto von Alfred Grünwald und Fritz Löhner-Beda",
-   "start": "2026-11-13T19:30",
-   "end": null,
-   "venue": "Theater Ulm, GROSSES HAUS",
-   "street": "Herbert-von-Karajan-Platz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53690/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-904160282&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.4015,
-   "lon": 9.98642,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-fj4h4b"
-  },
-  {
-   "title": "Flashback 2010er Party",
-   "subtitle": "",
-   "start": "2026-11-13T21:00",
-   "end": null,
-   "venue": "Cocomo Club Ulm",
-   "street": "Hirschstraße 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53454/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=930909896&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.39889,
-   "lon": 9.98925,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "s5jerb"
-  },
   {
    "title": "Ulmer Wochenmarkt | Münsterplatz",
    "subtitle": "Weil frisch einfach besser ist!",
@@ -336,30 +72,6 @@
    ],
    "source": "ulm",
    "id": "hy5d4s"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-11-14T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "-jovt9p"
   },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
@@ -457,30 +169,6 @@
    "id": "-sjywvn"
   },
   {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-14T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "2g557z"
-  },
-  {
    "title": "Lachyoga Ausbildung",
    "subtitle": "Learning by doing, Sicherheit und Kompetenz in der Anleitung",
    "start": "2026-11-14T10:00",
@@ -526,30 +214,6 @@
    ],
    "source": "ulm",
    "id": "-vucyua"
-  },
-  {
-   "title": "Kinder-Hochschule: Stadt der Zukunft – wie wollen wir morgen leben",
-   "subtitle": "",
-   "start": "2026-11-14T10:30",
-   "end": null,
-   "venue": "vh Ulm, Club Orange",
-   "street": "Kornhausplatz 5",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53646/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=471394117&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.40006,
-   "lon": 9.99453,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-l7135v"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -979,6 +643,30 @@
    ],
    "source": "ulm",
    "id": "ks9l8j"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-11-14T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-dvyyna"
   },
   {
    "title": "Samstagsnachmittag - Spazieren und Leute treffen",
@@ -1977,6 +1665,30 @@
    "id": "3ccx2w"
   },
   {
+   "title": "Ball im Savoy",
+   "subtitle": "Operette in drei Akten Musik von Paul Abraham, Libretto von Alfred Grünwald und Fritz Löhner-Beda",
+   "start": "2026-11-15T19:00",
+   "end": null,
+   "venue": "Theater Ulm, GROSSES HAUS",
+   "street": "Herbert-von-Karajan-Platz 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53690/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-904160282&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.4015,
+   "lon": 9.98642,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-438b0m"
+  },
+  {
    "title": "Union Duke",
    "subtitle": "Live im Pub",
    "start": "2026-11-15T19:30",
@@ -2727,6 +2439,30 @@
    ],
    "source": "ulm",
    "id": "-9ghv1d"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-18T10:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "bjb8yz"
   },
   {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
@@ -4261,6 +3997,101 @@
    ],
    "source": "ulm",
    "id": "gi9tkx"
+  },
+  {
+   "title": "Open 3D-Drucker Lab",
+   "subtitle": "Offenes 3D Drucken für alle",
+   "start": "2026-11-20T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45819/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646701064&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-rynwci"
+  },
+  {
+   "title": "Fashion Lab",
+   "subtitle": "Nähen - Upcyceln - Reparieren",
+   "start": "2026-11-20T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45715/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1723412921&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "tm6rq4"
+  },
+  {
+   "title": "Open Game Lab",
+   "subtitle": "Virtual Reality - Indie und Retro Gaming",
+   "start": "2026-11-20T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/45881/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-440314007&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Kurse"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "34pu0c"
+  },
+  {
+   "title": "Open Fab Lab",
+   "subtitle": "Repair, Lasercutten und Löten",
+   "start": "2026-11-20T18:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50385/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2079890066&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "21h4mh"
   },
   {
    "title": "NEU-ULM - WAS ZÄHLT?",
@@ -6355,6 +6186,124 @@
    ],
    "source": "ulm",
    "id": "-r4nr0f"
+  },
+  {
+   "title": "Bhakti Wochenende",
+   "subtitle": "",
+   "start": "2026-11-28T10:00",
+   "end": null,
+   "venue": "Sri Neem Karoli Baba Mandir",
+   "street": "Nelsonallee 22",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50343/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1162569300&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39025,
+   "lon": 10.01669,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-ri775r"
+  },
+  {
+   "title": "HANDGEMACHT 2026",
+   "subtitle": "Verkaufsausstellung für gestaltendes Handwerk",
+   "start": "2026-11-28T10:00",
+   "end": null,
+   "venue": "Handwerkskammer Ulm",
+   "street": "Olgastraße 72",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53250/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1425991438&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.40056,
+   "lon": 9.98639,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "z2uaas"
+  },
+  {
+   "title": "hin & weg - Jugendmesse für Auslandsaufenthalte Ulm",
+   "subtitle": "ABROAD HITS DIFFERENT",
+   "start": "2026-11-28T10:00",
+   "end": null,
+   "venue": "ROXY Ulm",
+   "street": "Schillerstraße 1/12",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49947/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-594504892&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39131,
+   "lon": 9.98535,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-2tro0d"
+  },
+  {
+   "title": "Umgang mit Künstlicher Intelligenz",
+   "subtitle": "Wie optimiere ich die Nutzung von ChatGPT und Co.?",
+   "start": "2026-11-28T10:30",
+   "end": null,
+   "venue": "KI im Saal der Zentralbibliothek",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49942/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1685278681&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-o65rgx"
+  },
+  {
+   "title": "P12 im Advent",
+   "subtitle": "Wort und Musik zur Mittagszeit",
+   "start": "2026-11-28T12:00",
+   "end": null,
+   "venue": "Ulmer Münster",
+   "street": "Münsterplatz 21",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53932/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1270143451&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39921,
+   "lon": 9.99322,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "miyxxh"
   }
  ]
 }
