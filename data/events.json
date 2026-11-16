@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15T21:01:30.848Z",
- "count": 254,
+ "generated": "2026-11-16T12:42:29.696Z",
+ "count": 256,
  "events": [
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
@@ -2244,17 +2244,17 @@
    "id": "-hthsaz"
   },
   {
-   "title": "Konzert: Framewalkers + Heimat",
-   "subtitle": "Shoegaze aus Ulm, USA und Italien",
+   "title": "Konzert: FRAMEWALKERS+ Heimat",
+   "subtitle": "Shoegaze aus Ulm, Venedig und Seattle",
    "start": "2026-11-19T20:00",
    "end": null,
    "venue": "Studentencafé",
    "street": "Stuttgarter Strasse 15",
    "zip": "89075",
    "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53828/",
-   "image": "",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54045/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1432022413&width=600&height=-1",
    "categories": [
     "Kultur",
     "Musik"
@@ -2265,7 +2265,7 @@
     "konzerte"
    ],
    "source": "ulm",
-   "id": "8wpt8u"
+   "id": "-b0l7le"
   },
   {
    "title": "STUDY FEVER: Spätvorlesung",
@@ -5165,6 +5165,29 @@
    "id": "-m2i8zs"
   },
   {
+   "title": "Shokee & Sands",
+   "subtitle": "",
+   "start": "2026-11-27T20:00",
+   "end": null,
+   "venue": "Autohaus Schall",
+   "street": "Zeppelinstraße 15",
+   "zip": "89160",
+   "city": "Dornstadt",
+   "price": "VVK 10 €, erm. 8 € AK 12 €, erm. 10 € 8–12 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54043/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1689865395&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.45969,
+   "lon": 9.9543,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-gd8v7l"
+  },
+  {
    "title": "#love90’s",
    "subtitle": "",
    "start": "2026-11-27T21:00",
@@ -6021,6 +6044,29 @@
    ],
    "source": "ulm",
    "id": "f7no80"
+  },
+  {
+   "title": "AUSGEBUCHT: Bücherbabys in der Kinderbibliothek",
+   "subtitle": "Musikalischer Krabbeltreff von 6-18 Monaten",
+   "start": "2026-11-30T10:30",
+   "end": null,
+   "venue": "Kinderbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53815/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-dkw9y8"
   }
  ]
 }
