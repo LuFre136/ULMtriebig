@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17T00:13:31.622Z",
- "count": 255,
+ "generated": "2026-11-17T13:20:49.350Z",
+ "count": 263,
  "events": [
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
@@ -49,30 +49,6 @@
    "id": "-jd1wld"
   },
   {
-   "title": "Fasziengymnastik - für jedes Alter",
-   "subtitle": "Faszien stärken ohne Faszienrolle",
-   "start": "2026-11-17T09:30",
-   "end": null,
-   "venue": "Johanneshaus",
-   "street": "Johannesplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Teilnahmebeitrag pro Treffen 3 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.39453,
-   "lon": 10.00008,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "f0zfph"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-17T10:00",
@@ -95,29 +71,6 @@
    ],
    "source": "ulm",
    "id": "-vtuo9e"
-  },
-  {
-   "title": "Gerda gackert für Gerechtigkeit",
-   "subtitle": "Theater für Kinder 3+",
-   "start": "2026-11-17T10:00",
-   "end": null,
-   "venue": "Theater Mücke",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Für Kinder und Erwachsene 8 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-hl7ooo"
   },
   {
    "title": "Ausstellung \"Hochschule für Gestaltung Ulm. Von der Stunde Null bis 1968\"",
@@ -214,29 +167,6 @@
    ],
    "source": "ulm",
    "id": "-98hma5"
-  },
-  {
-   "title": "Offene Beratung für Eltern",
-   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
-   "start": "2026-11-17T12:00",
-   "end": null,
-   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
-   "street": "Schaffnerstraße 18/1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40324,
-   "lon": 9.99371,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-xeqri1"
   },
   {
    "title": "Louise Stomps. Konturen des Inneren",
@@ -1323,6 +1253,29 @@
    ],
    "source": "ulm",
    "id": "-uok09x"
+  },
+  {
+   "title": "Gerda gackert für Gerechtigkeit",
+   "subtitle": "Theater für Kinder 3+",
+   "start": "2026-11-19T10:00",
+   "end": null,
+   "venue": "Theater Mücke",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Für Kinder und Erwachsene 8 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-aljpva"
   },
   {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
@@ -2481,6 +2434,29 @@
    ],
    "source": "ulm",
    "id": "21h4mh"
+  },
+  {
+   "title": "NEU-ULM - WAS ZÄHLT?",
+   "subtitle": "Respekt & Toleranz",
+   "start": "2026-11-20T18:30",
+   "end": null,
+   "venue": "Haus der Nachhaltigkeit",
+   "street": "Augsburger Straße 23- 25",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54029/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-328536187&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.39632,
+   "lon": 10.00203,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-8n8oc9"
   },
   {
    "title": "Kirtan und Aarti",
@@ -3890,6 +3866,30 @@
    "id": "9678vi"
   },
   {
+   "title": "Chorkonzert: Requiem for Solace",
+   "subtitle": "Chor Levantate",
+   "start": "2026-11-22T19:00",
+   "end": null,
+   "venue": "Petruskirche",
+   "street": "Petrusplatz 8",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54071/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1466470520&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39376,
+   "lon": 9.99946,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "8lvx4l"
+  },
+  {
    "title": "Chocolat",
    "subtitle": "Inszenierte Lesung mit Musik",
    "start": "2026-11-22T19:30",
@@ -4126,6 +4126,99 @@
    "id": "x7hoas"
   },
   {
+   "title": "Unsere Welt am Frühstückstisch",
+   "subtitle": "Internationales Frauenfrühstück",
+   "start": "2026-11-24T09:00",
+   "end": null,
+   "venue": "Familienzentrum Neu-Ulm",
+   "street": "Kasernstraße 54",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54059/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1206667698&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39692,
+   "lon": 10.00497,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "cbxlqg"
+  },
+  {
+   "title": "Fasziengymnastik - für jedes Alter",
+   "subtitle": "Faszien stärken ohne Faszienrolle",
+   "start": "2026-11-24T09:30",
+   "end": null,
+   "venue": "Johanneshaus",
+   "street": "Johannesplatz 4",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Teilnahmebeitrag pro Treffen 3 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51459/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1114988062&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.39453,
+   "lon": 10.00008,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-w832hj"
+  },
+  {
+   "title": "Offene Beratung für Eltern",
+   "subtitle": "für Fragen und Probleme rund um Kita und Schule",
+   "start": "2026-11-24T12:00",
+   "end": null,
+   "venue": "Kinder- und Familienzentrum Schaffnerstraße 18/1",
+   "street": "Schaffnerstraße 18/1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53713/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=458807946&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40324,
+   "lon": 9.99371,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-nzpjrp"
+  },
+  {
+   "title": "Vielfalt für alle",
+   "subtitle": "Familiencafé",
+   "start": "2026-11-24T15:30",
+   "end": null,
+   "venue": "Familienzentrum Neu-Ulm",
+   "street": "Kasernstraße 54",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54060/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1633111960&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39692,
+   "lon": 10.00497,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-q6hm0o"
+  },
+  {
    "title": "Schneideplotter-Einweisung",
    "subtitle": "Gebündelte Ersteinweisung",
    "start": "2026-11-24T16:00",
@@ -4242,6 +4335,29 @@
    ],
    "source": "ulm",
    "id": "52j4ek"
+  },
+  {
+   "title": "MITMACHMUSIK INTERKULTURELL",
+   "subtitle": "Mitsingabend",
+   "start": "2026-11-24T19:30",
+   "end": null,
+   "venue": "Haus der Nachhaltigkeit",
+   "street": "Augsburger Straße 23- 25",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54064/",
+   "image": "",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39632,
+   "lon": 10.00203,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-xgi9xa"
   },
   {
    "title": "Heimsuchung",
@@ -4477,6 +4593,29 @@
    ],
    "source": "ulm",
    "id": "-aoqmj"
+  },
+  {
+   "title": "Feste verbinden - Vielfalt feiern",
+   "subtitle": "Sprachcafé",
+   "start": "2026-11-26T16:00",
+   "end": null,
+   "venue": "Familienzentrum Neu-Ulm",
+   "street": "Kasernstraße 54",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54061/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1759898361&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39692,
+   "lon": 10.00497,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ana5b6"
   },
   {
    "title": "Autorenlesung",
@@ -4809,6 +4948,29 @@
    ],
    "source": "ulm",
    "id": "-46h09h"
+  },
+  {
+   "title": "BILDER IM KOPF: Sinti und Roma in der Wahrnehmung der Mehrheitsgesellschaft",
+   "subtitle": "Vortrag und Austausch",
+   "start": "2026-11-27T16:00",
+   "end": null,
+   "venue": "MITTE - Begegnungszentrum AWO Neu-Ulm",
+   "street": "Eckstraße 12",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54067/",
+   "image": "",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.39206,
+   "lon": 9.99411,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "1s2o6b"
   },
   {
    "title": "Benyamin Reich Jerusalem Berlin Buchpräsentation und Ausstellungseröffnung",
@@ -5238,6 +5400,29 @@
    "id": "tys3sm"
   },
   {
+   "title": "WELTKÜCHE",
+   "subtitle": "",
+   "start": "2026-11-28T14:00",
+   "end": null,
+   "venue": "Haus der Nachhaltigkeit",
+   "street": "Augsburger Straße 23- 25",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54063/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2018027087&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39632,
+   "lon": 10.00203,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-ar1x2l"
+  },
+  {
    "title": "Theater Couturier: Weihnachten beim kleinen Hasen",
    "subtitle": "Kindertheater ab 3 Jahren",
    "start": "2026-11-28T15:00",
@@ -5307,29 +5492,6 @@
    ],
    "source": "ulm",
    "id": "-fyqg3o"
-  },
-  {
-   "title": "Märchenjurte Mittelalterlicher Weihnachtsmarkt Neu-Ulm",
-   "subtitle": "Märchen und Geschichten für alle ab 4 Jahre",
-   "start": "2026-11-28T16:30",
-   "end": null,
-   "venue": "Märchenjurte - Neu-Ulmer Weihnachtsmarkt",
-   "street": "Augsburgerstr./ Johannesplatz 15",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "Alle 6 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54011/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1065689846&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.37941,
-   "lon": 10.00977,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-s6xsy3"
   },
   {
    "title": "Die große Aktion 100 000 Benefiz-Versteigerung",
@@ -6046,6 +6208,29 @@
    ],
    "source": "ulm",
    "id": "-rybr0x"
+  },
+  {
+   "title": "Winterfreude pur beim Eisstockschießen",
+   "subtitle": "Winterfreude pur – Eisstockschießen & Genuss in der Seeberger Genusswelt!",
+   "start": "2026-12-01T08:00",
+   "end": null,
+   "venue": "Seeberger Genusswelt GmbH",
+   "street": "Hans-Lorenser-Str. 20",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "1 Stunde 79 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53840/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1316410959&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35945,
+   "lon": 9.95132,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-h5khz"
   }
  ]
 }
