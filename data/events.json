@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-18T22:56:15.378Z",
- "count": 267,
+ "generated": "2026-11-19T13:00:01.532Z",
+ "count": 268,
  "events": [
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
@@ -49,29 +49,6 @@
    "id": "-kk5ef3"
   },
   {
-   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
-   "subtitle": "donnerstags",
-   "start": "2026-11-19T09:30",
-   "end": null,
-   "venue": "Friedenskirche Neu-Ulm",
-   "street": "John-F.-Kennedy-Str. 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.37963,
-   "lon": 10.00735,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "kx8ys2"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-19T10:00",
@@ -118,53 +95,6 @@
    ],
    "source": "ulm",
    "id": "-uok09x"
-  },
-  {
-   "title": "Gerda gackert für Gerechtigkeit",
-   "subtitle": "Theater für Kinder 3+",
-   "start": "2026-11-19T10:00",
-   "end": null,
-   "venue": "Theater Mücke",
-   "street": "Schillerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Für Kinder und Erwachsene 8 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
-   "categories": [
-    "Kultur"
-   ],
-   "lat": 48.39727,
-   "lon": 9.981,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-aljpva"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-19T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-lpg92u"
   },
   {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
@@ -310,29 +240,6 @@
    "id": "-bkzhcx"
   },
   {
-   "title": "Heilige Blüten und bittere Tränke - Pflanzen der Azteken",
-   "subtitle": "Botanische Mittagspause",
-   "start": "2026-11-19T12:15",
-   "end": null,
-   "venue": "Botanischer Garten der Universität Ulm",
-   "street": "Hans-Krebs-Weg",
-   "zip": "89081",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51691/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-621835951&width=600&height=-1",
-   "categories": [
-    "Bildung"
-   ],
-   "lat": 48.42354,
-   "lon": 9.95926,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-uo9uf7"
-  },
-  {
    "title": "Louise Stomps. Konturen des Inneren",
    "subtitle": "Sonderausstellung im Kunstmuseum",
    "start": "2026-11-19T13:00",
@@ -426,6 +333,30 @@
    ],
    "source": "ulm",
    "id": "-s35n07"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-19T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "o561ou"
   },
   {
    "title": "Hausaufgabenhilfe für Grundschulkinder in der Friedenskirche Neu-Ulm",
@@ -1586,30 +1517,6 @@
    "id": "qk4kua"
   },
   {
-   "title": "Vortrag: Was sagt Dir die Haut ?",
-   "subtitle": "",
-   "start": "2026-11-20T19:00",
-   "end": null,
-   "venue": "Naturheilverein Ulm/Neu-Ulm e.V.",
-   "street": "Söflinger Straße 210",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Erwachsene/adult 10–15 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52673/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-285320398&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.39453,
-   "lon": 9.96238,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "242mwi"
-  },
-  {
    "title": "Omi Alarm",
    "subtitle": "Komödie von Susanne Felicitas Wolf",
    "start": "2026-11-20T19:00",
@@ -2324,6 +2231,29 @@
    ],
    "source": "ulm",
    "id": "z35yjl"
+  },
+  {
+   "title": "Gerda gackert für Gerechtigkeit",
+   "subtitle": "Theater für Kinder 3+",
+   "start": "2026-11-21T15:00",
+   "end": null,
+   "venue": "Theater Mücke",
+   "street": "Schillerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Für Kinder und Erwachsene 8 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53596/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-492217301&width=600&height=-1",
+   "categories": [
+    "Kultur"
+   ],
+   "lat": 48.39727,
+   "lon": 9.981,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-cnjp8k"
   },
   {
    "title": "Hinter den Kulissen",
@@ -4219,6 +4149,29 @@
    "id": "-ot7uug"
   },
   {
+   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
+   "subtitle": "donnerstags",
+   "start": "2026-11-26T09:30",
+   "end": null,
+   "venue": "Friedenskirche Neu-Ulm",
+   "street": "John-F.-Kennedy-Str. 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.37963,
+   "lon": 10.00735,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "q5w706"
+  },
+  {
    "title": "Grafiktablet Einweisung",
    "subtitle": "Gebündelte Ersteinweisung",
    "start": "2026-11-26T16:00",
@@ -4641,6 +4594,29 @@
    ],
    "source": "ulm",
    "id": "1s2o6b"
+  },
+  {
+   "title": "Fashion Revolution Kleidertausch-Party",
+   "subtitle": "",
+   "start": "2026-11-27T17:00",
+   "end": null,
+   "venue": "Verschwörhaus",
+   "street": "Weinhof 9",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54092/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1008940947&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39646,
+   "lon": 9.99042,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "3flart"
   },
   {
    "title": "Benyamin Reich Jerusalem Berlin Buchpräsentation und Ausstellungseröffnung",
@@ -5162,6 +5138,30 @@
    ],
    "source": "ulm",
    "id": "-f2bgew"
+  },
+  {
+   "title": "Autorenlesung",
+   "subtitle": "",
+   "start": "2026-11-28T15:00",
+   "end": null,
+   "venue": "altersarmut Ulm nein e.V.",
+   "street": "Marktplatz 10",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54098/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1783175085&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Literatur"
+   ],
+   "lat": 48.39671,
+   "lon": 9.99458,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "lyr3hs"
   },
   {
    "title": "DHB Handball-Länderspiel (Frauen) ratiopharm arena, Neu-Ulm",
@@ -6324,6 +6324,30 @@
    ],
    "source": "ulm",
    "id": "-2sf4nn"
+  },
+  {
+   "title": "Yoga Mobility Präventionskurs (10er Kurs)",
+   "subtitle": "Die Kosten werden von den Krankenkassen zu 80-100% erstattet",
+   "start": "2026-12-03T09:30",
+   "end": null,
+   "venue": "Stuntwerk",
+   "street": "Berliner Straße 25",
+   "zip": "89250",
+   "city": "Senden",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47123/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-198899068&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.33371,
+   "lon": 10.03701,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-gp7im"
   }
  ]
 }
