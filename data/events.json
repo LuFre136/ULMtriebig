@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19T23:02:11.409Z",
- "count": 267,
+ "generated": "2026-11-20T12:51:18.407Z",
+ "count": 272,
  "events": [
   {
    "title": "Trans Film Tage Ulm 2026",
@@ -73,29 +73,6 @@
    "id": "-xq7ui1"
   },
   {
-   "title": "Café für alle",
-   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
-   "start": "2026-11-20T09:00",
-   "end": null,
-   "venue": "Stadtteilbüro am Tannenplatz",
-   "street": "Pfullendorfer Straße 7",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35118,
-   "lon": 9.97476,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-yekba5"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-20T10:00",
@@ -142,30 +119,6 @@
    ],
    "source": "ulm",
    "id": "fyvxdx"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-20T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "s9zbjo"
   },
   {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
@@ -405,6 +358,30 @@
    ],
    "source": "ulm",
    "id": "-fmei0o"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-20T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "33hkc8"
   },
   {
    "title": "Bundesweiter Vorlesetag an der vh Ulm",
@@ -785,6 +762,30 @@
    "id": "21h4mh"
   },
   {
+   "title": "Lach dich FREItag",
+   "subtitle": "Der offene Lach-Club zum Wochenende",
+   "start": "2026-11-20T18:00",
+   "end": null,
+   "venue": "Familienzentrum Neu-Ulm",
+   "street": "Kasernstraße 54",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Erwachsene/adults 7 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52977/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1285636315&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.39692,
+   "lon": 10.00497,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "dvj5bp"
+  },
+  {
    "title": "NEU-ULM - WAS ZÄHLT?",
    "subtitle": "Respekt & Toleranz",
    "start": "2026-11-20T18:30",
@@ -925,6 +926,30 @@
    ],
    "source": "ulm",
    "id": "-9bvb1v"
+  },
+  {
+   "title": "Fällt AUS!!! Was sagt Dir die Haut?",
+   "subtitle": "",
+   "start": "2026-11-20T19:00",
+   "end": null,
+   "venue": "Naturheilverein Ulm/Neu-Ulm e.V.",
+   "street": "Söflinger Straße 210",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Erwachsene/adult 10–15 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52673/",
+   "image": "",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.39453,
+   "lon": 9.96238,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-ebmow3"
   },
   {
    "title": "WKO & Justus Eichhorn - YoungStar am Klavier",
@@ -4074,6 +4099,29 @@
    "id": "-rasr4e"
   },
   {
+   "title": "Café für alle",
+   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
+   "start": "2026-11-27T09:00",
+   "end": null,
+   "venue": "Stadtteilbüro am Tannenplatz",
+   "street": "Pfullendorfer Straße 7",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35118,
+   "lon": 9.97476,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-lpsk1w"
+  },
+  {
    "title": "Mittelalterlicher Weihnachtsmarkt in Neu-Ulm 2026",
    "subtitle": "",
    "start": "2026-11-27T11:30",
@@ -4616,6 +4664,30 @@
    ],
    "source": "ulm",
    "id": "-o65rgx"
+  },
+  {
+   "title": "Einladung Eröffnungsfeier KreativEvents",
+   "subtitle": "",
+   "start": "2026-11-28T11:00",
+   "end": null,
+   "venue": "KreativEvents Studio.",
+   "street": "Fischergasse 38",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54123/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1606489008&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.39516,
+   "lon": 9.99048,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "7x1fr1"
   },
   {
    "title": "P12 im Advent",
@@ -5637,6 +5709,29 @@
    "id": "d4degf"
   },
   {
+   "title": "Mosaik Untersetzer Workshop",
+   "subtitle": "",
+   "start": "2026-12-01T18:00",
+   "end": null,
+   "venue": "KreativEvents Studio.",
+   "street": "Fischergasse 38",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54112/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1444568568&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39516,
+   "lon": 9.99048,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "4g30s5"
+  },
+  {
    "title": "Ideen-Salon",
    "subtitle": "",
    "start": "2026-12-01T18:30",
@@ -5848,6 +5943,29 @@
    ],
    "source": "ulm",
    "id": "-3gfcu0"
+  },
+  {
+   "title": "Kreativcafé",
+   "subtitle": "",
+   "start": "2026-12-02T16:00",
+   "end": null,
+   "venue": "KreativEvents Studio.",
+   "street": "Fischergasse 38",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54124/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1405716416&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39516,
+   "lon": 9.99048,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "kttkgx"
   },
   {
    "title": "Kultur auf Stufen: Adventskonzert mit 8m",
