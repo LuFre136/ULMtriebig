@@ -1,128 +1,7 @@
 {
- "generated": "2026-11-20T22:39:55.063Z",
- "count": 274,
+ "generated": "2026-11-21T12:37:01.551Z",
+ "count": 272,
  "events": [
-  {
-   "title": "Trans Film Tage Ulm 2026",
-   "subtitle": "Filmreihe zum Trans* Day of Remembrance",
-   "start": "2026-11-20",
-   "end": null,
-   "venue": "Mephisto Kino",
-   "street": "Rosengasse 5",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53391/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-124451720&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.40103,
-   "lon": 9.99467,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "ny7mw0"
-  },
-  {
-   "title": "WKO & Justus Eichhorn - YoungStar am Klavier",
-   "subtitle": "Werke von SKRYLEVA, BEETHOVEN, HAYDN, WEINBERG",
-   "start": "2026-11-20T19:30",
-   "end": null,
-   "venue": "Kornhaus",
-   "street": "Kornhausplatz 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Unter 30 Jahre 15 € · Unter 15 Jahre 10 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53395/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=391939212&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Musik"
-   ],
-   "lat": 48.39971,
-   "lon": 9.99475,
-   "types": [
-    "konzerte"
-   ],
-   "source": "ulm",
-   "id": "dg6zob"
-  },
-  {
-   "title": "2000er Smash Hits!",
-   "subtitle": "",
-   "start": "2026-11-20T21:00",
-   "end": null,
-   "venue": "Cocomo Club Ulm",
-   "street": "Hirschstraße 12",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53455/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1060295977&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.39889,
-   "lon": 9.98925,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "-tiku4c"
-  },
-  {
-   "title": "Ulmer Wochenmarkt | Münsterplatz",
-   "subtitle": "Weil frisch einfach besser ist!",
-   "start": "2026-11-21T07:00",
-   "end": null,
-   "venue": "Münsterplatz Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "xffcyn"
-  },
-  {
-   "title": "Neu-Ulmer Wochenmarkt",
-   "subtitle": "",
-   "start": "2026-11-21T07:00",
-   "end": null,
-   "venue": "Petrusplatz",
-   "street": "Petrusplatz",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39401,
-   "lon": 9.99917,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "1m56k2"
-  },
   {
    "title": "Winterfreude pur beim Eisstockschießen",
    "subtitle": "Winterfreude pur – Eisstockschießen & Genuss in der Seeberger Genusswelt!",
@@ -193,30 +72,6 @@
    ],
    "source": "ulm",
    "id": "m2r4rx"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-11-21T10:00",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "q3m0l3"
   },
   {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
@@ -339,53 +194,6 @@
    "id": "ay8pfk"
   },
   {
-   "title": "Workshop - Mealprep für das Immunsystem",
-   "subtitle": "So schmeckt eine gute Vorbereitung!",
-   "start": "2026-11-21T10:00",
-   "end": null,
-   "venue": "Johanneshaus",
-   "street": "Johannesplatz 4",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53704/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=879378976&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39453,
-   "lon": 10.00008,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "4wk45p"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-21T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-4ys6i5"
-  },
-  {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
    "subtitle": "Ausstellung von Künstler MB, Markus Botzenhart, Ulm",
    "start": "2026-11-21T10:00",
@@ -455,29 +263,6 @@
    ],
    "source": "ulm",
    "id": "5bo03g"
-  },
-  {
-   "title": "Kreatives Schreiben mit Spazieren – jeden Samstag",
-   "subtitle": "",
-   "start": "2026-11-21T11:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51932/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-249240985&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-h57v0h"
   },
   {
    "title": "Tag der offenen Tür Akademie für Gesundheitsberufe am Universitäsklinikum Ulm",
@@ -623,54 +408,6 @@
    "id": "-6eibvc"
   },
   {
-   "title": "Die Jurte auf dem Weihnachtsmarkt",
-   "subtitle": "Erzähltheater",
-   "start": "2026-11-21T12:30",
-   "end": null,
-   "venue": "Jurte auf dem Ulmer Weihnachtsmarkt",
-   "street": "Zwischen Stadthaus und Polizeipräsidium",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Eintritt 6 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47316/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=941279798&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40397,
-   "lon": 10.00001,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "ampc0j"
-  },
-  {
-   "title": "So klingt Advent",
-   "subtitle": "",
-   "start": "2026-11-21T13:00",
-   "end": null,
-   "venue": "Spielburg Cafe",
-   "street": "Hummelstraße 9",
-   "zip": "89134",
-   "city": "Blaustein",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53203/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1017063514&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Feste & Events"
-   ],
-   "lat": 48.41444,
-   "lon": 9.92092,
-   "types": [
-    "feste"
-   ],
-   "source": "ulm",
-   "id": "cmw2iz"
-  },
-  {
    "title": "Komm, spiel mit!",
    "subtitle": "",
    "start": "2026-11-21T14:00",
@@ -763,6 +500,54 @@
    ],
    "source": "ulm",
    "id": "-4wrz1m"
+  },
+  {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-11-21T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "vwiv7i"
+  },
+  {
+   "title": "Die Jurte auf dem Weihnachtsmarkt",
+   "subtitle": "Erzähltheater",
+   "start": "2026-11-21T14:30",
+   "end": null,
+   "venue": "Jurte auf dem Ulmer Weihnachtsmarkt",
+   "street": "Zwischen Stadthaus und Polizeipräsidium",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Eintritt 6 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47316/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=941279798&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40397,
+   "lon": 10.00001,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-c2199r"
   },
   {
    "title": "Samstagsnachmittag - Spazieren und Leute treffen",
@@ -2492,6 +2277,54 @@
    "id": "-k6gjet"
   },
   {
+   "title": "Ulmer Wochenmarkt | Münsterplatz",
+   "subtitle": "Weil frisch einfach besser ist!",
+   "start": "2026-11-25T07:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "szulzv"
+  },
+  {
+   "title": "Neu-Ulmer Wochenmarkt",
+   "subtitle": "",
+   "start": "2026-11-25T07:00",
+   "end": null,
+   "venue": "Petrusplatz",
+   "street": "Petrusplatz",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39401,
+   "lon": 9.99917,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "gs5dva"
+  },
+  {
    "title": "Heimsuchung",
    "subtitle": "von Jenny Erpenbeck",
    "start": "2026-11-25T10:00",
@@ -2514,6 +2347,30 @@
    ],
    "source": "ulm",
    "id": "-q5qt9r"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-25T10:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "44dx8v"
   },
   {
    "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
@@ -4352,6 +4209,29 @@
    ],
    "source": "ulm",
    "id": "-o65rgx"
+  },
+  {
+   "title": "Kreatives Schreiben mit Spazieren – jeden Samstag",
+   "subtitle": "",
+   "start": "2026-11-28T11:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51932/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-249240985&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-22fim2"
   },
   {
    "title": "Einladung Eröffnungsfeier KreativEvents",
@@ -6487,6 +6367,75 @@
    ],
    "source": "ulm",
    "id": "-fh15w7"
+  },
+  {
+   "title": "Sauberes Vorfeld",
+   "subtitle": "",
+   "start": "2026-12-05T10:00",
+   "end": null,
+   "venue": "Café Vorfeld INN",
+   "street": "Steubenstraße 34",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52877/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-780377396&width=600&height=-1",
+   "categories": [
+    "Stadt"
+   ],
+   "lat": 48.39036,
+   "lon": 10.00766,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-ak8xog"
+  },
+  {
+   "title": "Advents - Frühstücks - malen",
+   "subtitle": "die beste ART, die Weihnachtszeit zu beginnen (workshop)",
+   "start": "2026-12-05T10:00",
+   "end": null,
+   "venue": "atelier creanne, Nelson-Barracks",
+   "street": "Hirthstraße 3",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49985/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1823312926&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39147,
+   "lon": 10.01412,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-ys6vxf"
+  },
+  {
+   "title": "Action Painting",
+   "subtitle": "",
+   "start": "2026-12-05T13:00",
+   "end": null,
+   "venue": "KreativEvents Studio.",
+   "street": "Fischergasse 38",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54125/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1112313155&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39516,
+   "lon": 9.99048,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "fi8nnc"
   }
  ]
 }
