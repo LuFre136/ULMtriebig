@@ -1,361 +1,7 @@
 {
- "generated": "2026-11-23T14:34:28.337Z",
- "count": 269,
+ "generated": "2026-11-24T02:53:31.260Z",
+ "count": 267,
  "events": [
-  {
-   "title": "Winterfreude pur beim Eisstockschießen",
-   "subtitle": "Winterfreude pur – Eisstockschießen & Genuss in der Seeberger Genusswelt!",
-   "start": "2026-11-23T08:00",
-   "end": null,
-   "venue": "Seeberger Genusswelt GmbH",
-   "street": "Hans-Lorenser-Str. 20",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "1 Stunde 79 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50661/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=770724919&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35945,
-   "lon": 9.95132,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-b292"
-  },
-  {
-   "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
-   "subtitle": "",
-   "start": "2026-11-23T10:00",
-   "end": null,
-   "venue": "Stadthaus Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52996/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2001598522&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-8hh67r"
-  },
-  {
-   "title": "Ulmer Weihnachtsmarkt vom 19.11.26 bis 22.12.26",
-   "subtitle": "Tradition und Vorfreude - Wir sehen uns auf dem Münsterplatz!",
-   "start": "2026-11-23T10:00",
-   "end": null,
-   "venue": "Münsterplatz Ulm",
-   "street": "Münsterplatz Ulm",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53157/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2146116524&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39843,
-   "lon": 9.99095,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "cn7d5u"
-  },
-  {
-   "title": "Quartierstreff Mitte/Ost",
-   "subtitle": "Gemeinsam weniger allein",
-   "start": "2026-11-23T13:30",
-   "end": null,
-   "venue": "Bürgerhaus Mitte, Cafeteria (EG)",
-   "street": "Schaffnerstraße 17",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.40354,
-   "lon": 9.99427,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "tbp9w1"
-  },
-  {
-   "title": "Stadtführung mit Besichtigung des Münsters",
-   "subtitle": "Klassische Führung",
-   "start": "2026-11-23T14:30",
-   "end": null,
-   "venue": "Tourist-Information, Stadthaus",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Führungen & Exkursionen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "fuehrungen"
-   ],
-   "source": "ulm",
-   "id": "evo4ho"
-  },
-  {
-   "title": "AUSGEBUCHT: Kleine Buchentdecker*innen in der Kinderbibliothek",
-   "subtitle": "",
-   "start": "2026-11-23T15:00",
-   "end": null,
-   "venue": "Kinderbibliothek Ulm",
-   "street": "Vestgasse 1",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53318/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1168516957&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39672,
-   "lon": 9.99263,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "9mw6xq"
-  },
-  {
-   "title": "Die Jurte auf dem Weihnachtsmarkt",
-   "subtitle": "Erzähltheater",
-   "start": "2026-11-23T16:30",
-   "end": null,
-   "venue": "Jurte auf dem Ulmer Weihnachtsmarkt",
-   "street": "Zwischen Stadthaus und Polizeipräsidium",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "Eintritt 6 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47316/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=941279798&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.40397,
-   "lon": 10.00001,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "lg1yc1"
-  },
-  {
-   "title": "Technik verstehen? Gemeinsam gehts einfacher",
-   "subtitle": "Unsere Digitalmentor*innen machen Sie fit im Umgang mit Smartphone, Tablet, Laptop und PC",
-   "start": "2026-11-23T17:00",
-   "end": null,
-   "venue": "Bürgerhaus Mitte, Gruppenraum (EG)",
-   "street": "Schaffnerstraße 17",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51275/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1789629649&width=600&height=-1",
-   "categories": [
-    "Bildung"
-   ],
-   "lat": 48.40354,
-   "lon": 9.99427,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-ykeofc"
-  },
-  {
-   "title": "KI Walk – jeden Montag",
-   "subtitle": "peerwalk",
-   "start": "2026-11-23T18:00",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47145/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-525081788&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "t5xt53"
-  },
-  {
-   "title": "Französisch Spaziergang - jeden Montag",
-   "subtitle": "peerwalk",
-   "start": "2026-11-23T18:30",
-   "end": null,
-   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
-   "street": "Vestgasse",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47143/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-785434234&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39704,
-   "lon": 9.99289,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "lwnm5v"
-  },
-  {
-   "title": "Sterbestammtisch",
-   "subtitle": "Ein Stammtisch über das Leben - und das was danach kommt.",
-   "start": "2026-11-23T18:30",
-   "end": null,
-   "venue": "Aegis Café (ehemals Kokoschinski)",
-   "street": "Hafengasse 19",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "kostenlos · kostenlos …",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53401/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2010690926&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.39916,
-   "lon": 9.99546,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-73hsqc"
-  },
-  {
-   "title": "„Wenn ich mal Kinder hab, mach ich das ganz anders.“ Eigene Kindheitserfahrungen und ihre Auswirkungen auf unser Eltern-Sein",
-   "subtitle": "Online-Vortrag",
-   "start": "2026-11-23T19:00",
-   "end": null,
-   "venue": "Kinder- und Familienzentrum im Erika-Schmid-Weg 3, Online-Angebot",
-   "street": "Erika-Schmid-Weg 3",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53540/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=202394322&width=600&height=-1",
-   "categories": [
-    "Bildung",
-    "Vorträge"
-   ],
-   "lat": 48.4339,
-   "lon": 10.02025,
-   "types": [
-    "bildung"
-   ],
-   "source": "ulm",
-   "id": "-gigntt"
-  },
-  {
-   "title": "Schwertfechten: Langschwert Einsteigerkurs 2026",
-   "subtitle": "Historisches Fechten beim SSV Ulm",
-   "start": "2026-11-23T20:00",
-   "end": null,
-   "venue": "Eduard-Mörike-Halle",
-   "street": "Hofäckerweg 84",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51983/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1587271605&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Sport"
-   ],
-   "lat": 48.42535,
-   "lon": 10.01713,
-   "types": [
-    "sport"
-   ],
-   "source": "ulm",
-   "id": "-m8mdas"
-  },
-  {
-   "title": "Internationales Solo-Tanz-Theater Festival Stuttgart",
-   "subtitle": "Preisträger:innentour 2026",
-   "start": "2026-11-23T20:00",
-   "end": null,
-   "venue": "ROXY Ulm, Studio",
-   "street": "Schillerstraße 1/12",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "VVK 22–25 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53247/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1672080786&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39131,
-   "lon": 9.98535,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-e9yh8f"
-  },
-  {
-   "title": "FUCKIN' MONDAY: Getränkebörse!",
-   "subtitle": "We fuckin' make you love Monday!",
-   "start": "2026-11-23T21:00",
-   "end": null,
-   "venue": "Hinteres Kreuz",
-   "street": "Schelergasse 2",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50410/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1175140435&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Party",
-    "Club & Disco"
-   ],
-   "lat": 48.3967,
-   "lon": 9.99471,
-   "types": [
-    "partys"
-   ],
-   "source": "ulm",
-   "id": "x7hoas"
-  },
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -378,6 +24,29 @@
    ],
    "source": "ulm",
    "id": "-bs8qsg"
+  },
+  {
+   "title": "Winterfreude pur beim Eisstockschießen",
+   "subtitle": "Winterfreude pur – Eisstockschießen & Genuss in der Seeberger Genusswelt!",
+   "start": "2026-11-24T08:00",
+   "end": null,
+   "venue": "Seeberger Genusswelt GmbH",
+   "street": "Hans-Lorenser-Str. 20",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "1 Stunde 79 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50661/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=770724919&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35945,
+   "lon": 9.95132,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ywp7tn"
   },
   {
    "title": "Unsere Welt am Frühstückstisch",
@@ -425,6 +94,54 @@
    ],
    "source": "ulm",
    "id": "-w832hj"
+  },
+  {
+   "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
+   "subtitle": "",
+   "start": "2026-11-24T10:00",
+   "end": null,
+   "venue": "Stadthaus Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52996/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-2001598522&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-4zn6t2"
+  },
+  {
+   "title": "Ulmer Weihnachtsmarkt vom 19.11.26 bis 22.12.26",
+   "subtitle": "Tradition und Vorfreude - Wir sehen uns auf dem Münsterplatz!",
+   "start": "2026-11-24T10:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz Ulm",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53157/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=2146116524&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39843,
+   "lon": 9.99095,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "bjb6f5"
   },
   {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
@@ -594,6 +311,30 @@
    "id": "-42p2sg"
   },
   {
+   "title": "Stadtführung mit Besichtigung des Münsters",
+   "subtitle": "Klassische Führung",
+   "start": "2026-11-24T14:30",
+   "end": null,
+   "venue": "Tourist-Information, Stadthaus",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Erwachsene/adults 12 € · Ermäßigt/Reduced 2025/26 8 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/38736/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-844211622&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Führungen & Exkursionen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "fuehrungen"
+   ],
+   "source": "ulm",
+   "id": "-t5b9ut"
+  },
+  {
    "title": "Café Lebenswert ist geöffnet für Jung und Alt",
    "subtitle": "",
    "start": "2026-11-24T15:00",
@@ -661,6 +402,30 @@
    ],
    "source": "ulm",
    "id": "-ncukun"
+  },
+  {
+   "title": "Die Jurte auf dem Weihnachtsmarkt",
+   "subtitle": "Erzähltheater",
+   "start": "2026-11-24T16:30",
+   "end": null,
+   "venue": "Jurte auf dem Ulmer Weihnachtsmarkt",
+   "street": "Zwischen Stadthaus und Polizeipräsidium",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "Eintritt 6 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47316/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=941279798&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40397,
+   "lon": 10.00001,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "e0wtsi"
   },
   {
    "title": "Der originale Wintertreff im Löwen",
@@ -1606,6 +1371,29 @@
    ],
    "source": "ulm",
    "id": "-3f2hdx"
+  },
+  {
+   "title": "Quartierstreff Mitte/Ost",
+   "subtitle": "Gemeinsam weniger allein",
+   "start": "2026-11-26T13:30",
+   "end": null,
+   "venue": "Bürgerhaus Mitte, Cafeteria (EG)",
+   "street": "Schaffnerstraße 17",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51276/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1662700948&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.40354,
+   "lon": 9.99427,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ut5ey6"
   },
   {
    "title": "Hausaufgabenhilfe für Grundschulkinder in der Friedenskirche Neu-Ulm",
@@ -4349,6 +4137,29 @@
    "id": "gwjn7o"
   },
   {
+   "title": "Technik verstehen? Gemeinsam gehts einfacher",
+   "subtitle": "Unsere Digitalmentor*innen machen Sie fit im Umgang mit Smartphone, Tablet, Laptop und PC",
+   "start": "2026-11-30T17:00",
+   "end": null,
+   "venue": "Bürgerhaus Mitte, Gruppenraum (EG)",
+   "street": "Schaffnerstraße 17",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51275/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1789629649&width=600&height=-1",
+   "categories": [
+    "Bildung"
+   ],
+   "lat": 48.40354,
+   "lon": 9.99427,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "mvyaf0"
+  },
+  {
    "title": "Yoga mit Stuhl Prävention (10er Kurs)",
    "subtitle": "Die Kosten werden von den Krankenkassen zu 80-100% erstattet",
    "start": "2026-11-30T17:00",
@@ -4371,6 +4182,29 @@
    ],
    "source": "ulm",
    "id": "-l1k9xy"
+  },
+  {
+   "title": "KI Walk – jeden Montag",
+   "subtitle": "peerwalk",
+   "start": "2026-11-30T18:00",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47145/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-525081788&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "ifz4rn"
   },
   {
    "title": "Yoga Mobility Präventionskurs (10er Kurs)",
@@ -4421,6 +4255,29 @@
    "id": "-x8j9ud"
   },
   {
+   "title": "Französisch Spaziergang - jeden Montag",
+   "subtitle": "peerwalk",
+   "start": "2026-11-30T18:30",
+   "end": null,
+   "venue": "Treffpunkt: vor der Stadtbibliothek Ulm",
+   "street": "Vestgasse",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/47143/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-785434234&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.39704,
+   "lon": 9.99289,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "b6oxsf"
+  },
+  {
    "title": "Frieden sichern – was können wir tun?",
    "subtitle": "Staat, Gesellschaft, Bundeswehr und NATO",
    "start": "2026-11-30T19:00",
@@ -4443,6 +4300,55 @@
    ],
    "source": "ulm",
    "id": "-rybr0x"
+  },
+  {
+   "title": "Schwertfechten: Langschwert Einsteigerkurs 2026",
+   "subtitle": "Historisches Fechten beim SSV Ulm",
+   "start": "2026-11-30T20:00",
+   "end": null,
+   "venue": "Eduard-Mörike-Halle",
+   "street": "Hofäckerweg 84",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51983/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1587271605&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Sport"
+   ],
+   "lat": 48.42535,
+   "lon": 10.01713,
+   "types": [
+    "sport"
+   ],
+   "source": "ulm",
+   "id": "-34qdo8"
+  },
+  {
+   "title": "FUCKIN' MONDAY: Getränkebörse!",
+   "subtitle": "We fuckin' make you love Monday!",
+   "start": "2026-11-30T21:00",
+   "end": null,
+   "venue": "Hinteres Kreuz",
+   "street": "Schelergasse 2",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/50410/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1175140435&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Party",
+    "Club & Disco"
+   ],
+   "lat": 48.3967,
+   "lon": 9.99471,
+   "types": [
+    "partys"
+   ],
+   "source": "ulm",
+   "id": "cul1ns"
   },
   {
    "title": "Winterfreude pur beim Eisstockschießen",
@@ -6361,6 +6267,54 @@
    ],
    "source": "ulm",
    "id": "rq7gmb"
+  },
+  {
+   "title": "Ein neues Kapitel-wir stellen vier neue Bücher vor",
+   "subtitle": "",
+   "start": "2026-12-07T19:30",
+   "end": null,
+   "venue": "Café Aegis",
+   "street": "Hafengasse 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53260/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1953693447&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Literatur"
+   ],
+   "lat": 48.39916,
+   "lon": 9.99546,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "gt1j78"
+  },
+  {
+   "title": "ROXY singt!",
+   "subtitle": "Aus voller Kehle für die Seele",
+   "start": "2026-12-07T20:00",
+   "end": null,
+   "venue": "ROXY Ulm, Werkhalle",
+   "street": "Schillerstraße 1/12",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "VVK 14 € · AK 17 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52249/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1760355257&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39131,
+   "lon": 9.98535,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "sxj2qk"
   }
  ]
 }
