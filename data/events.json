@@ -1,55 +1,7 @@
 {
- "generated": "2026-11-25T00:41:38.054Z",
- "count": 271,
+ "generated": "2026-11-25T14:18:02.710Z",
+ "count": 280,
  "events": [
-  {
-   "title": "Ulmer Wochenmarkt | Münsterplatz",
-   "subtitle": "Weil frisch einfach besser ist!",
-   "start": "2026-11-25T07:00",
-   "end": null,
-   "venue": "Münsterplatz Ulm",
-   "street": "Münsterplatz 50",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39801,
-   "lon": 9.9907,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "szulzv"
-  },
-  {
-   "title": "Neu-Ulmer Wochenmarkt",
-   "subtitle": "",
-   "start": "2026-11-25T07:00",
-   "end": null,
-   "venue": "Petrusplatz",
-   "street": "Petrusplatz",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "kostenlos",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
-   "categories": [
-    "Freizeit",
-    "Märkte & Messen"
-   ],
-   "lat": 48.39401,
-   "lon": 9.99917,
-   "types": [
-    "maerkte"
-   ],
-   "source": "ulm",
-   "id": "gs5dva"
-  },
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
    "subtitle": "Radio selber machen statt einfach nur hören",
@@ -143,54 +95,6 @@
    ],
    "source": "ulm",
    "id": "afezog"
-  },
-  {
-   "title": "Heimsuchung",
-   "subtitle": "von Jenny Erpenbeck",
-   "start": "2026-11-25T10:00",
-   "end": null,
-   "venue": "Altes Theater Ulm",
-   "street": "Wagnerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Erwachsene 16 € · Jugendliche 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49647/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646984613&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39336,
-   "lon": 9.98005,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "-q5qt9r"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-25T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "44dx8v"
   },
   {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
@@ -313,30 +217,6 @@
    "id": "-dwhttk"
   },
   {
-   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
-   "subtitle": "",
-   "start": "2026-11-25T12:00",
-   "end": null,
-   "venue": "Cafe Lebenswert",
-   "street": "Clara-Barton-Straße 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51285/",
-   "image": "",
-   "categories": [
-    "Freizeit",
-    "Vereine"
-   ],
-   "lat": 48.3767,
-   "lon": 10.00923,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "ipbj98"
-  },
-  {
    "title": "Louise Stomps. Konturen des Inneren",
    "subtitle": "Sonderausstellung im Kunstmuseum",
    "start": "2026-11-25T13:00",
@@ -406,6 +286,30 @@
    ],
    "source": "ulm",
    "id": "1zdxm2"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-25T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-l23tyl"
   },
   {
    "title": "Stadtführung mit Besichtigung des Münsters",
@@ -663,6 +567,30 @@
    ],
    "source": "ulm",
    "id": "-cu3rg2"
+  },
+  {
+   "title": "Heimsuchung",
+   "subtitle": "von Jenny Erpenbeck",
+   "start": "2026-11-25T19:00",
+   "end": null,
+   "venue": "Altes Theater Ulm",
+   "street": "Wagnerstraße 1",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Erwachsene 16 € · Jugendliche 10 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49647/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646984613&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39336,
+   "lon": 9.98005,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "pn5vxk"
   },
   {
    "title": "Virtuoso!",
@@ -1322,6 +1250,30 @@
    ],
    "source": "ulm",
    "id": "-owah3s"
+  },
+  {
+   "title": "ABGESAGT !!! Unterstütze deinen Körper bei der Hormonumstellung",
+   "subtitle": "",
+   "start": "2026-11-26T19:00",
+   "end": null,
+   "venue": "Naturheilverein Ulm/Neu-Ulm e.V.",
+   "street": "Söflinger Straße 210",
+   "zip": "89077",
+   "city": "Ulm",
+   "price": "Erwachsene/adult 10–15 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52741/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-170969560&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.39453,
+   "lon": 9.96238,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "-ig1oth"
   },
   {
    "title": "Kirsten Karg liest Karolinenhöhe",
@@ -2439,6 +2391,54 @@
    "id": "-r4nr0f"
   },
   {
+   "title": "Ulmer Wochenmarkt | Münsterplatz",
+   "subtitle": "Weil frisch einfach besser ist!",
+   "start": "2026-11-28T07:00",
+   "end": null,
+   "venue": "Münsterplatz Ulm",
+   "street": "Münsterplatz 50",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/41922/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1306818843&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39801,
+   "lon": 9.9907,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "po61rs"
+  },
+  {
+   "title": "Neu-Ulmer Wochenmarkt",
+   "subtitle": "",
+   "start": "2026-11-28T07:00",
+   "end": null,
+   "venue": "Petrusplatz",
+   "street": "Petrusplatz",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/1050/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=984176655&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Märkte & Messen"
+   ],
+   "lat": 48.39401,
+   "lon": 9.99917,
+   "types": [
+    "maerkte"
+   ],
+   "source": "ulm",
+   "id": "-p46i4n"
+  },
+  {
    "title": "Bhakti Wochenende",
    "subtitle": "",
    "start": "2026-11-28T10:00",
@@ -3007,6 +3007,30 @@
    "id": "-1kyupb"
   },
   {
+   "title": "Vernissage der Ausstellung \"Ich ruf' Dich gleich nochmal vielleicht später an\" — Zeichnungen",
+   "subtitle": "26 Positionen von nationalen und internationalen Künstler:innen — eingeladen von Philip Emde und Stefan Marx",
+   "start": "2026-11-28T19:00",
+   "end": null,
+   "venue": "Kunstverein Ulm, Schuhhaussaal",
+   "street": "Kramgasse 4",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54172/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-533143301&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39814,
+   "lon": 9.99381,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "hr28b"
+  },
+  {
    "title": "Basketball 2. Regionalliga Baden-Württemberg",
    "subtitle": "vamos! TSG Söflingen - Karlsruhe",
    "start": "2026-11-28T20:00",
@@ -3292,6 +3316,30 @@
    "id": "6y2byq"
   },
   {
+   "title": "Magirus Iveco Museum MIM - 1. Advent im Museum",
+   "subtitle": "Mit Sonderverkauf",
+   "start": "2026-11-29T10:00",
+   "end": null,
+   "venue": "Magirus Iveco Museum MIM",
+   "street": "Dieselstraße 3",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "Einheitlich 2 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/26521/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1681034091&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Vereine"
+   ],
+   "lat": 48.38499,
+   "lon": 10.00026,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-pbtsg3"
+  },
+  {
    "title": "Am Wellentresen – Neues Veranstaltungsformat des HfG-Archiv Ulm",
    "subtitle": "",
    "start": "2026-11-29T11:00",
@@ -3362,6 +3410,30 @@
    ],
    "source": "ulm",
    "id": "-3f8lxq"
+  },
+  {
+   "title": "\"Ich ruf' Dich gleich nochmal vielleicht später an\" — Zeichnungen",
+   "subtitle": "26 Positionen von nationalen und internationalen Künstler:innen eingeladen von Philip Emde und Stefan Marx",
+   "start": "2026-11-29T11:00",
+   "end": null,
+   "venue": "Kunstverein Ulm, Schuhhaussaal",
+   "street": "Kramgasse 4",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54173/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-826282374&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39814,
+   "lon": 9.99381,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-cyzxn7"
   },
   {
    "title": "Sonntag Mittag Spaziergang – Jeden Sonntag",
@@ -4497,6 +4569,30 @@
    "id": "nfzlhe"
   },
   {
+   "title": "Mittagtisch \"Gute Stube\" im Cafe Lebenswert",
+   "subtitle": "",
+   "start": "2026-12-02T12:00",
+   "end": null,
+   "venue": "Cafe Lebenswert",
+   "street": "Clara-Barton-Straße 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51285/",
+   "image": "",
+   "categories": [
+    "Freizeit",
+    "Vereine"
+   ],
+   "lat": 48.3767,
+   "lon": 10.00923,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "updyhm"
+  },
+  {
    "title": "Kuschelrobbe - Nähkurs für Anfänger*innen",
    "subtitle": "Nähen lernen und was Kuscheliges mit nach Hause nehmen",
    "start": "2026-12-02T13:30",
@@ -5042,6 +5138,54 @@
    "id": "x7j9na"
   },
   {
+   "title": "Ethik in der Medizin 30 Jahre der blaue reiter – Journal für Philosophie",
+   "subtitle": "Öffentliches Kolloquium anlässlich 30 Jahre der blaue reiter – Journal für Philosophie",
+   "start": "2026-12-04T13:00",
+   "end": null,
+   "venue": "Institut für Geschichte, Theorie und Ethik der Medizin",
+   "street": "Oberberghof 7",
+   "zip": "89081",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54146/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1806306039&width=600&height=-1",
+   "categories": [
+    "Bildung",
+    "Vorträge"
+   ],
+   "lat": 48.41793,
+   "lon": 9.94853,
+   "types": [
+    "bildung"
+   ],
+   "source": "ulm",
+   "id": "y4m41l"
+  },
+  {
+   "title": "WIR MACHEN ULM",
+   "subtitle": "Ausstellung",
+   "start": "2026-12-04T14:00",
+   "end": null,
+   "venue": "m25",
+   "street": "Münsterplatz 25",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54164/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1643853645&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39843,
+   "lon": 9.99414,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "guyl3n"
+  },
+  {
    "title": "Fridolin der Weihnachtsesel",
    "subtitle": "",
    "start": "2026-12-04T15:00",
@@ -5229,6 +5373,30 @@
    ],
    "source": "ulm",
    "id": "-fx82kp"
+  },
+  {
+   "title": "Joke Busters",
+   "subtitle": "Open Mic/Comedy",
+   "start": "2026-12-04T19:00",
+   "end": null,
+   "venue": "Studentencafé",
+   "street": "Stuttgarter Strasse 15",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54165/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1770605330&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.40793,
+   "lon": 9.99946,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-sn1api"
   },
   {
    "title": "Radio free FM präsentiert: Autorenlesung und Buchvorstellung mit Florian Schröder",
@@ -5753,6 +5921,30 @@
    "id": "6c89pa"
   },
   {
+   "title": "Zwischen den Zeilen",
+   "subtitle": "eine Impro-Langform mit den Long Johns",
+   "start": "2026-12-05T20:00",
+   "end": null,
+   "venue": "Haus der Nachhaltigkeit e.V.",
+   "street": "Augsburger Str. 23-25",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "normal 8 € · ermäßigt 5 €",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54126/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1219246585&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39632,
+   "lon": 10.00203,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "-djwbax"
+  },
+  {
    "title": "True Crime",
    "subtitle": "Erlebnisführung",
    "start": "2026-12-05T20:15",
@@ -6084,6 +6276,30 @@
    ],
    "source": "ulm",
    "id": "ya5ahe"
+  },
+  {
+   "title": "Histoire du Sax — Die Geschichte des Saxophons",
+   "subtitle": "Ulms Star-Saxophonist Dieter Kraus mit neuem Programm im Quartett-Format",
+   "start": "2026-12-06T18:00",
+   "end": null,
+   "venue": "Kunstverein Ulm, Schuhhaussaal",
+   "street": "Kramgasse 4",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54170/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=833914480&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39814,
+   "lon": 9.99381,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-bckkyu"
   },
   {
    "title": "Nicole Jäger",
