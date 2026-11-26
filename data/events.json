@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T00:18:45.598Z",
- "count": 276,
+ "generated": "2026-11-26T13:52:08.646Z",
+ "count": 283,
  "events": [
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
@@ -49,29 +49,6 @@
    "id": "xplpzx"
   },
   {
-   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
-   "subtitle": "donnerstags",
-   "start": "2026-11-26T09:30",
-   "end": null,
-   "venue": "Friedenskirche Neu-Ulm",
-   "street": "John-F.-Kennedy-Str. 6",
-   "zip": "89231",
-   "city": "Neu-Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.37963,
-   "lon": 10.00735,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "q5w706"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-26T10:00",
@@ -118,54 +95,6 @@
    ],
    "source": "ulm",
    "id": "9bisxr"
-  },
-  {
-   "title": "Heimsuchung",
-   "subtitle": "von Jenny Erpenbeck",
-   "start": "2026-11-26T10:00",
-   "end": null,
-   "venue": "Altes Theater Ulm",
-   "street": "Wagnerstraße 1",
-   "zip": "89077",
-   "city": "Ulm",
-   "price": "Erwachsene 16 € · Jugendliche 10 €",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/49647/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1646984613&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Bühne"
-   ],
-   "lat": 48.39336,
-   "lon": 9.98005,
-   "types": [
-    "buehne"
-   ],
-   "source": "ulm",
-   "id": "ainfpu"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-26T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "-t4dksy"
   },
   {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
@@ -380,6 +309,30 @@
    ],
    "source": "ulm",
    "id": "-7tuahn"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-26T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "gq8pyq"
   },
   {
    "title": "Stadtführung mit Besichtigung des Münsters",
@@ -3931,6 +3884,30 @@
    "id": "4g30s5"
   },
   {
+   "title": "ArtNight Malevent: Goldener See",
+   "subtitle": "Male deinen eigenen goldenen See",
+   "start": "2026-12-01T18:00",
+   "end": null,
+   "venue": "Café Montreux",
+   "street": "Ochsensteige 4",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54174/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1350445620&width=600&height=-1",
+   "categories": [
+    "Freizeit",
+    "Feste & Events"
+   ],
+   "lat": 48.41406,
+   "lon": 9.94988,
+   "types": [
+    "feste"
+   ],
+   "source": "ulm",
+   "id": "qe8rdb"
+  },
+  {
    "title": "Spanisch Spaziergang – jeden Dienstag",
    "subtitle": "peerwalk",
    "start": "2026-12-01T18:30",
@@ -4569,6 +4546,29 @@
    "id": "brtrxy"
   },
   {
+   "title": "Winterspielplatz in der Friedenskirche Neu-Ulm",
+   "subtitle": "donnerstags",
+   "start": "2026-12-03T09:30",
+   "end": null,
+   "venue": "Friedenskirche Neu-Ulm",
+   "street": "John-F.-Kennedy-Str. 6",
+   "zip": "89231",
+   "city": "Neu-Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/15184/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-574062552&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.37963,
+   "lon": 10.00735,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-m44xk8"
+  },
+  {
    "title": "Yoga Mobility Präventionskurs (10er Kurs)",
    "subtitle": "Die Kosten werden von den Krankenkassen zu 80-100% erstattet",
    "start": "2026-12-03T09:30",
@@ -4780,6 +4780,30 @@
    ],
    "source": "ulm",
    "id": "wg3yr2"
+  },
+  {
+   "title": "\"Wunschzettel 5.0\" XMAS-Show",
+   "subtitle": "Weihnachts-Group-Show",
+   "start": "2026-12-03T18:30",
+   "end": null,
+   "venue": "VW ART Gallery",
+   "street": "Sterngasse 14",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53872/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1936027664&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.40048,
+   "lon": 9.98853,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-7og2uj"
   },
   {
    "title": "Das Konstanzer Konzil",
@@ -5446,6 +5470,30 @@
    ],
    "source": "ulm",
    "id": "-ys6vxf"
+  },
+  {
+   "title": "Arco",
+   "subtitle": "Nikolauskonzert mit Frosch und Schnecke",
+   "start": "2026-12-05T11:00",
+   "end": null,
+   "venue": "Musikschule der Stadt Ulm, Konzertsaal",
+   "street": "Marktplatz 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54178/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1864477512&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39625,
+   "lon": 9.99358,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "2iwi4g"
   },
   {
    "title": "Action Painting",
@@ -6230,6 +6278,29 @@
    "id": "rq7gmb"
   },
   {
+   "title": "ArtNight Malevent: Sternenstille",
+   "subtitle": "",
+   "start": "2026-12-07T18:00",
+   "end": null,
+   "venue": "Café Montreux",
+   "street": "Ochsensteige 4",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54175/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1477210261&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41406,
+   "lon": 9.94988,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-s7udx8"
+  },
+  {
    "title": "Ein neues Kapitel-wir stellen vier neue Bücher vor",
    "subtitle": "",
    "start": "2026-12-07T19:30",
@@ -6396,6 +6467,53 @@
    "id": "-141zh1"
   },
   {
+   "title": "Gemeinsam Malen: Sternenhimmel",
+   "subtitle": "",
+   "start": "2026-12-08T18:00",
+   "end": null,
+   "venue": "Café Montreux",
+   "street": "Ochsensteige 4",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54176/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1606590450&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41406,
+   "lon": 9.94988,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "40ct3m"
+  },
+  {
+   "title": "Früh übt sich!",
+   "subtitle": "Kammerkonzert",
+   "start": "2026-12-08T18:00",
+   "end": null,
+   "venue": "Musikschule der Stadt Ulm, Konzertsaal",
+   "street": "Marktplatz 19",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54179/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1995960745&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39625,
+   "lon": 9.99358,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "-gkvhnx"
+  },
+  {
    "title": "X-MAS Deko gießen",
    "subtitle": "Workshop",
    "start": "2026-12-08T18:30",
@@ -6534,6 +6652,54 @@
    ],
    "source": "ulm",
    "id": "c1logb"
+  },
+  {
+   "title": "Kultur auf Stufen: Winterjazz mit Klavier und Saxophon",
+   "subtitle": "",
+   "start": "2026-12-09T18:30",
+   "end": null,
+   "venue": "Freilichtforum der Stadtbibliothek Ulm",
+   "street": "Vestgasse 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "kostenlos",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54183/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=925671406&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Musik"
+   ],
+   "lat": 48.39672,
+   "lon": 9.99263,
+   "types": [
+    "konzerte"
+   ],
+   "source": "ulm",
+   "id": "v2czqj"
+  },
+  {
+   "title": "Konrad oder das Kind aus der Konservenbüchse von Christine Nöstlinger",
+   "subtitle": "Kindertheater ab 6+",
+   "start": "2026-12-10T10:00",
+   "end": null,
+   "venue": "Lindenhalle Ehingen(Donau)",
+   "street": "Lindenstr. 51",
+   "zip": "89584",
+   "city": "Ehingen",
+   "price": "Gruppenpreise für Schulklassen 5 € · Erwachsene 12 € …",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/52826/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=557780640&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.28181,
+   "lon": 9.72767,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "kqpu0h"
   }
  ]
 }
