@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T00:33:56.967Z",
- "count": 277,
+ "generated": "2026-11-27T13:49:39.942Z",
+ "count": 278,
  "events": [
   {
    "title": "Verlängert bis März 2027: Radio-Schnuppern bei free FM",
@@ -49,29 +49,6 @@
    "id": "-2ei1wi"
   },
   {
-   "title": "Café für alle",
-   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
-   "start": "2026-11-27T09:00",
-   "end": null,
-   "venue": "Stadtteilbüro am Tannenplatz",
-   "street": "Pfullendorfer Straße 7",
-   "zip": "89079",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.35118,
-   "lon": 9.97476,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "-lpsk1w"
-  },
-  {
    "title": "Zwischen Berlin und Tbilissi. Junge Fotograf*innen schauen auf ihre Welt",
    "subtitle": "",
    "start": "2026-11-27T10:00",
@@ -118,30 +95,6 @@
    ],
    "source": "ulm",
    "id": "87mm72"
-  },
-  {
-   "title": "40 Jahre Bananensprayer",
-   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
-   "start": "2026-11-27T10:00",
-   "end": null,
-   "venue": "Galerie am Saumarkt, Ulm",
-   "street": "Fischergasse 34",
-   "zip": "89073",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
-   "categories": [
-    "Kultur",
-    "Ausstellungen"
-   ],
-   "lat": 48.39518,
-   "lon": 9.98981,
-   "types": [
-    "ausstellungen"
-   ],
-   "source": "ulm",
-   "id": "8nyz4d"
   },
   {
    "title": "GRÜN kann ab und zu auch sehr skurril sein",
@@ -288,29 +241,6 @@
    "id": "95p1dm"
   },
   {
-   "title": "Lust auf einen Spaziergang?",
-   "subtitle": "",
-   "start": "2026-11-27T13:00",
-   "end": null,
-   "venue": "Eisenkrautweg 12",
-   "street": "Eisenkrautweg 12",
-   "zip": "89075",
-   "city": "Ulm",
-   "price": "",
-   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51885/",
-   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-823219352&width=600&height=-1",
-   "categories": [
-    "Freizeit"
-   ],
-   "lat": 48.41322,
-   "lon": 9.96235,
-   "types": [
-    "sonstiges"
-   ],
-   "source": "ulm",
-   "id": "rhrytq"
-  },
-  {
    "title": "Louise Stomps. Konturen des Inneren",
    "subtitle": "Sonderausstellung im Kunstmuseum",
    "start": "2026-11-27T13:00",
@@ -381,6 +311,30 @@
    ],
    "source": "ulm",
    "id": "-sylcvl"
+  },
+  {
+   "title": "40 Jahre Bananensprayer",
+   "subtitle": "Thomas Baumgärtel | Street Art und zeitgenössische Kunst",
+   "start": "2026-11-27T14:00",
+   "end": null,
+   "venue": "Galerie am Saumarkt, Ulm",
+   "street": "Fischergasse 34",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/53776/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-916202905&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Ausstellungen"
+   ],
+   "lat": 48.39518,
+   "lon": 9.98981,
+   "types": [
+    "ausstellungen"
+   ],
+   "source": "ulm",
+   "id": "-giis33"
   },
   {
    "title": "Workshop am 27. November 2026 von 14 -17 Uhr im Digitalisierungszentrum Ulm, Weinhof",
@@ -4597,6 +4551,52 @@
    "id": "-1phy24"
   },
   {
+   "title": "Café für alle",
+   "subtitle": "einfach & umsonst | frischer Kaffe & selbstgebackener Zopf",
+   "start": "2026-12-04T09:00",
+   "end": null,
+   "venue": "Stadtteilbüro am Tannenplatz",
+   "street": "Pfullendorfer Straße 7",
+   "zip": "89079",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/46548/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-1651945402&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.35118,
+   "lon": 9.97476,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-2l1x0i"
+  },
+  {
+   "title": "Lust auf einen Spaziergang?",
+   "subtitle": "",
+   "start": "2026-12-04T13:00",
+   "end": null,
+   "venue": "Eisenkrautweg 12",
+   "street": "Eisenkrautweg 12",
+   "zip": "89075",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/51885/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=-823219352&width=600&height=-1",
+   "categories": [
+    "Freizeit"
+   ],
+   "lat": 48.41322,
+   "lon": 9.96235,
+   "types": [
+    "sonstiges"
+   ],
+   "source": "ulm",
+   "id": "-qmt8sw"
+  },
+  {
    "title": "Ethik in der Medizin 30 Jahre der blaue reiter – Journal für Philosophie",
    "subtitle": "Öffentliches Kolloquium anlässlich 30 Jahre der blaue reiter – Journal für Philosophie",
    "start": "2026-12-04T13:00",
@@ -5450,6 +5450,30 @@
    ],
    "source": "ulm",
    "id": "-djwbax"
+  },
+  {
+   "title": "Weihnachts Pogo",
+   "subtitle": "live im Hemperium",
+   "start": "2026-12-05T20:00",
+   "end": null,
+   "venue": "Hemperium",
+   "street": "Zinglerstraße 1",
+   "zip": "89073",
+   "city": "Ulm",
+   "price": "",
+   "url": "https://veranstaltungen.ulm.de/leoonline/portals/ulm/veranstaltungen/id/54187/",
+   "image": "https://leoevent.ulm.de/leoevent/FileBufferServlet?fileno=1444285034&width=600&height=-1",
+   "categories": [
+    "Kultur",
+    "Bühne"
+   ],
+   "lat": 48.39649,
+   "lon": 9.98529,
+   "types": [
+    "buehne"
+   ],
+   "source": "ulm",
+   "id": "b2duek"
   },
   {
    "title": "True Crime",
